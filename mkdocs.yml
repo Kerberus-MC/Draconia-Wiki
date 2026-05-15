@@ -1,0 +1,66 @@
+site_name: Draconia Wiki
+site_url: https://wiki.perz.dev
+repo_url: https://github.com/Kerberus-MC/Draconia-Wiki
+repo_name: Kerberus-MC/Draconia-Wiki
+edit_uri: edit/master/docs/
+
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+    - scheme: default
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+    - content.tabs.link
+  icon:
+    repo: fontawesome/brands/github
+
+plugins:
+  - search
+
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/draconia
+      name: Join our Discord
+    - icon: fontawesome/brands/github
+      link: https://github.com/Kerberus-MC
+      name: Kerberus-MC on GitHub
+
+nav:
+  - Home: index.md
+  - Dragoncraft:
+    - Overview: dragoncraft/index.md
+    - Getting Started: dragoncraft/getting-started.md
+  - Toothless:
+    - Overview: toothless/index.md
+    - Getting Started: toothless/getting-started.md
+  - PvZ Overgrowth:
+    - Overview: pvz-overgrowth/index.md
+    - How to Install: pvz-overgrowth/how-to-install.md
+    - Starter Guide: pvz-overgrowth/starter-guide.md
+    - Plant Spawn: pvz-overgrowth/plant-spawn.md
+    - FAQ: pvz-overgrowth/faq.md
+    - Almanac:
+      - Plants: pvz-overgrowth/almanac/plants.md
+      - Zombies: pvz-overgrowth/almanac/zombies.md
+      - PvZ Items: pvz-overgrowth/almanac/items.md
+    - Custom Content:
+      - Custom Plants: pvz-overgrowth/custom/plants.md
+      - Custom Zombies: pvz-overgrowth/custom/zombies.md
