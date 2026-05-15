@@ -2,11 +2,11 @@
 
 | | Dragon |
 |---|---|
-| <img src="/assets/images/toothless/kb-img-butterflywing.png" width="80"> | **Butterflywing** |
-| <img src="/assets/images/toothless/kb-img-deadly-nadder.png" width="80"> | **Deadly Nadder** |
-| <img src="/assets/images/toothless/kb-img-eight-legged-nadder.png" width="80"> | **Eight-Legged Nadder** |
-| <img src="/assets/images/toothless/kb-img-rumblehorn.png" width="80"> | **Rumblehorn** |
-| <img src="/assets/images/toothless/kb-img-wolf-fang.png" width="80"> | **Wolf-Fang** |
+| <img src="/assets/images/toothless/kb-img-butterflywing.png" width="80"> | [**Butterflywing**](detail/butterflywing.md) |
+| <img src="/assets/images/toothless/kb-img-deadly-nadder.png" width="80"> | [**Deadly Nadder**](detail/deadly-nadder.md) |
+| <img src="/assets/images/toothless/kb-img-eight-legged-nadder.png" width="80"> | [**Eight-Legged Nadder**](detail/eight-legged-nadder.md) |
+| <img src="/assets/images/toothless/kb-img-rumblehorn.png" width="80"> | [**Rumblehorn**](detail/rumblehorn.md) |
+| <img src="/assets/images/toothless/kb-img-wolf-fang.png" width="80"> | [**Wolf-Fang**](detail/wolf-fang.md) |
 
 ---
 

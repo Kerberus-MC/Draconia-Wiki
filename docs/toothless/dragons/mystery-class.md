@@ -2,16 +2,16 @@
 
 | | Dragon |
 |---|---|
-| <img src="/assets/images/toothless/kb-img-armorwing.png" width="80"> | **Armorwing** |
-| <img src="/assets/images/toothless/kb-img-boneknapper.png" width="80"> | **Boneknapper** |
-| <img src="/assets/images/toothless/kb-img-changewing.png" width="80"> | **Changewing** |
-| <img src="/assets/images/toothless/kb-img-dramillion.png" width="80"> | **Dramillion** |
-| | **Flightmare** |
-| <img src="/assets/images/toothless/kb-img-hideous-zippleback.png" width="80"> | **Hideous Zippleback** |
-| <img src="/assets/images/toothless/kb-img-prickleboggle.png" width="80"> | **Prickleboggle** |
-| <img src="/assets/images/toothless/kb-img-slitherwing.png" width="80"> | **Slitherwing** |
-| <img src="/assets/images/toothless/kb-img-smothering-smokebreath.png" width="80"> | **Smothering Smokebreath** |
-| <img src="/assets/images/toothless/kb-img-snaptrapper.png" width="80"> | **Snaptrapper** |
+| <img src="/assets/images/toothless/kb-img-armorwing.png" width="80"> | [**Armorwing**](detail/armorwing.md) |
+| <img src="/assets/images/toothless/kb-img-boneknapper.png" width="80"> | [**Boneknapper**](detail/boneknapper.md) |
+| <img src="/assets/images/toothless/kb-img-changewing.png" width="80"> | [**Changewing**](detail/changewing.md) |
+| <img src="/assets/images/toothless/kb-img-dramillion.png" width="80"> | [**Dramillion**](detail/dramillion.md) |
+| | [**Flightmare**](detail/flightmare.md) |
+| <img src="/assets/images/toothless/kb-img-hideous-zippleback.png" width="80"> | [**Hideous Zippleback**](detail/hideous-zippleback.md) |
+| <img src="/assets/images/toothless/kb-img-prickleboggle.png" width="80"> | [**Prickleboggle**](detail/prickleboggle.md) |
+| <img src="/assets/images/toothless/kb-img-slitherwing.png" width="80"> | [**Slitherwing**](detail/slitherwing.md) |
+| <img src="/assets/images/toothless/kb-img-smothering-smokebreath.png" width="80"> | [**Smothering Smokebreath**](detail/smothering-smokebreath.md) |
+| <img src="/assets/images/toothless/kb-img-snaptrapper.png" width="80"> | [**Snaptrapper**](detail/snaptrapper.md) |
 
 ---
 

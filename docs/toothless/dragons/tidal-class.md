@@ -2,10 +2,10 @@
 
 | | Dragon |
 |---|---|
-| <img src="/assets/images/toothless/kb-img-sandwraith.png" width="80"> | **Sandwraith** |
-| <img src="/assets/images/toothless/kb-img-scauldron.png" width="80"> | **Scauldron** |
-| <img src="/assets/images/toothless/kb-img-shockjaw.png" width="80"> | **Shockjaw** |
-| <img src="/assets/images/toothless/kb-img-windwalker.png" width="80"> | **Windwalker** |
+| <img src="/assets/images/toothless/kb-img-sandwraith.png" width="80"> | [**Sandwraith**](detail/sandwraith.md) |
+| <img src="/assets/images/toothless/kb-img-scauldron.png" width="80"> | [**Scauldron**](detail/scauldron.md) |
+| <img src="/assets/images/toothless/kb-img-shockjaw.png" width="80"> | [**Shockjaw**](detail/shockjaw.md) |
+| <img src="/assets/images/toothless/kb-img-windwalker.png" width="80"> | [**Windwalker**](detail/windwalker.md) |
 
 ---
 

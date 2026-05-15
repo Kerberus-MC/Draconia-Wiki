@@ -2,19 +2,19 @@
 
 | | Dragon |
 |---|---|
-| <img src="/assets/images/toothless/kb-img-fireworm.png" width="80"> | **Fireworm** |
-| <img src="/assets/images/toothless/kb-img-fireworm-queen.png" width="80"> | **Fireworm Queen** |
-| <img src="/assets/images/toothless/kb-img-flame-whipper.png" width="80"> | **Flame Whipper** |
-| <img src="/assets/images/toothless/kb-img-hobblegrunt.png" width="80"> | **Hobblegrunt** |
-| <img src="/assets/images/toothless/kb-img-magma-breather.png" width="80"> | **Magma Breather** |
-| <img src="/assets/images/toothless/kb-img-monstrous-nightmare.png" width="80"> | **Monstrous Nightmare** |
-| <img src="/assets/images/toothless/kb-img-night-terror.png" width="80"> | **Night Terror** |
-| <img src="/assets/images/toothless/kb-img-pygmy-death.png" width="80"> | **Pygmy Death** |
-| <img src="/assets/images/toothless/kb-img-silver-phantom.png" width="80"> | **Silver Phantom** |
-| <img src="/assets/images/toothless/kb-img-singetail.png" width="80"> | **Singetail** |
-| <img src="/assets/images/toothless/kb-img-storming-nightmare.png" width="80"> | **Storming Nightmare** |
-| <img src="/assets/images/toothless/kb-img-terrible-terror.png" width="80"> | **Terrible Terror** |
-| <img src="/assets/images/toothless/kb-img-typhoomerang.png" width="80"> | **Typhoomerang** |
+| <img src="/assets/images/toothless/kb-img-fireworm.png" width="80"> | [**Fireworm**](detail/fireworm.md) |
+| <img src="/assets/images/toothless/kb-img-fireworm-queen.png" width="80"> | [**Fireworm Queen**](detail/fireworm-queen.md) |
+| <img src="/assets/images/toothless/kb-img-flame-whipper.png" width="80"> | [**Flame Whipper**](detail/flame-whipper.md) |
+| <img src="/assets/images/toothless/kb-img-hobblegrunt.png" width="80"> | [**Hobblegrunt**](detail/hobblegrunt.md) |
+| <img src="/assets/images/toothless/kb-img-magma-breather.png" width="80"> | [**Magma Breather**](detail/magma-breather.md) |
+| <img src="/assets/images/toothless/kb-img-monstrous-nightmare.png" width="80"> | [**Monstrous Nightmare**](detail/monstrous-nightmare.md) |
+| <img src="/assets/images/toothless/kb-img-night-terror.png" width="80"> | [**Night Terror**](detail/night-terror.md) |
+| <img src="/assets/images/toothless/kb-img-pygmy-death.png" width="80"> | [**Pygmy Death**](detail/pygmy-death.md) |
+| <img src="/assets/images/toothless/kb-img-silver-phantom.png" width="80"> | [**Silver Phantom**](detail/silver-phantom.md) |
+| <img src="/assets/images/toothless/kb-img-singetail.png" width="80"> | [**Singetail**](detail/singetail.md) |
+| <img src="/assets/images/toothless/kb-img-storming-nightmare.png" width="80"> | [**Storming Nightmare**](detail/storming-nightmare.md) |
+| <img src="/assets/images/toothless/kb-img-terrible-terror.png" width="80"> | [**Terrible Terror**](detail/terrible-terror.md) |
+| <img src="/assets/images/toothless/kb-img-typhoomerang.png" width="80"> | [**Typhoomerang**](detail/typhoomerang.md) |
 
 ---
 
