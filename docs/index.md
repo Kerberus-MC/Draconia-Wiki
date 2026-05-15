@@ -72,7 +72,8 @@ hide:
   margin-top: 2rem;
   padding: 1.5rem;
   border-radius: 0.75rem;
-  background: linear-gradient(135deg, #5865F2 0%, #7B68EE 100%);
+  background: linear-gradient(135deg, #1a1a2e 0%, #2d2d4a 100%);
+  border: 1px solid rgba(108, 99, 255, 0.2);
   color: white;
 }
 .discord-banner a {
