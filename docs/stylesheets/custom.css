@@ -102,14 +102,23 @@
 .md-typeset .md-button {
   border-radius: 0.5rem;
   font-weight: 600;
+  border: 1px solid #6c63ff;
+  color: #6c63ff;
+}
+.md-typeset .md-button:hover {
+  background: rgba(108, 99, 255, 0.1);
+  border-color: #6c63ff;
+  color: #6c63ff;
 }
 .md-typeset .md-button--primary {
   background: #6c63ff;
   border-color: #6c63ff;
+  color: #fff;
 }
 .md-typeset .md-button--primary:hover {
   background: #5a52d5;
   border-color: #5a52d5;
+  color: #fff;
 }
 
 /* ===== FOOTER ===== */
