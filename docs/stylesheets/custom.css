@@ -11,7 +11,27 @@
   text-align: center;
 }
 
+/* Distinct table header row */
+.md-typeset table:not([class]) thead th {
+  background: var(--md-default-fg-color--lightest);
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.7rem;
+  letter-spacing: 0.05em;
+  padding-top: 0.6rem;
+  padding-bottom: 0.6rem;
+}
+
 /* Keep images crisp at small sizes */
 .md-typeset table img {
   image-rendering: pixelated;
+}
+
+/* Centered image blocks */
+.img-center {
+  text-align: center;
+  margin: 1rem 0;
+}
+.img-center img {
+  border-radius: 0.5rem;
 }
