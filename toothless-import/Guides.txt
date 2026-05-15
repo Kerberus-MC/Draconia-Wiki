@@ -1,5 +1,0 @@
-# Guides
-
-- Adding Variants
-
-- Installation Process
