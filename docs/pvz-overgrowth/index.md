@@ -6,18 +6,13 @@ Plants vs Zombies in Minecraft — with custom plants and zombies via datapack.
 
 [:fontawesome-solid-download: Get the Modpack](https://www.curseforge.com/minecraft/modpacks/pvz-overgrowth){ .md-button } [:fontawesome-brands-discord: Join Discord](https://discord.gg/draconia){ .md-button .md-button--primary }
 
-## Quick Links
-
-- [How to Install](how-to-install.md)
-- [Starter Guide](starter-guide.md)
-- [FAQ](faq.md)
-
-### Guides
+## Guides
 
 - [Plant Spawn](plant-spawn.md) — Where each plant spawns by biome
 - [Contagion](contagion.md) — Infection mechanics and how to cure it
+- [FAQ](faq.md)
 
-### Almanac
+## Almanac
 
 - [Plants](almanac/plants.md) — All plants with stats
 - [Zombies](almanac/zombies.md) — All zombies with stats
