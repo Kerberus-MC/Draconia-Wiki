@@ -41,23 +41,30 @@
 
 /* ===== TABLES ===== */
 
-/* Full width, no horizontal scroll */
+/* Full width tables */
 .md-typeset table:not([class]) {
   width: 100%;
   display: table;
-  table-layout: fixed;
   border-collapse: separate;
   border-spacing: 0;
   border-radius: 0.5rem;
   overflow: hidden;
 }
 
-/* Prevent table wrapper scroll */
+/* Kill the horizontal scroll wrapper */
 .md-typeset__scrollwrap {
-  overflow-x: visible;
+  overflow: visible !important;
 }
 .md-typeset__table {
-  overflow-x: visible;
+  overflow: visible !important;
+  max-width: 100%;
+}
+
+/* Word wrap in cells instead of scrolling */
+.md-typeset table:not([class]) td,
+.md-typeset table:not([class]) th {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
 }
 
 /* Distinct header row */

@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Dragons
 
 All dragons in Archipelago Additions use a conditional override to replace base Ice and Fire / Ice of Blood dragons under certain conditions. They can have their own stats, appearance, animations, size, riding positions, and abilities.
