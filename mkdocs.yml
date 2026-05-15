@@ -63,15 +63,14 @@ nav:
     - Overview: dragoncraft/index.md
   - Toothless:
     - Overview: toothless/index.md
-    - Dragons:
-      - All Dragons: toothless/dragons/index.md
-      - Boulder Class: toothless/dragons/boulder-class.md
-      - Mystery Class: toothless/dragons/mystery-class.md
-      - Sharp Class: toothless/dragons/sharp-class.md
-      - Stoker Class: toothless/dragons/stoker-class.md
-      - Strike Class: toothless/dragons/strike-class.md
-      - Tidal Class: toothless/dragons/tidal-class.md
-      - Tracker Class: toothless/dragons/tracker-class.md
+    - All Dragons: toothless/dragons/index.md
+    - Boulder Class: toothless/dragons/boulder-class.md
+    - Mystery Class: toothless/dragons/mystery-class.md
+    - Sharp Class: toothless/dragons/sharp-class.md
+    - Stoker Class: toothless/dragons/stoker-class.md
+    - Strike Class: toothless/dragons/strike-class.md
+    - Tidal Class: toothless/dragons/tidal-class.md
+    - Tracker Class: toothless/dragons/tracker-class.md
     - Companions: toothless/companions.md
     - Effects: toothless/effects.md
     - Structures: toothless/structures.md
