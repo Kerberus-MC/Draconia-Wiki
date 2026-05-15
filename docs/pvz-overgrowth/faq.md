@@ -9,7 +9,7 @@ A: PvZ Overgrowth is a Draconia modpack that brings Plants vs Zombies gameplay i
 A: No. PvZ Overgrowth is a modpack — we bundle and configure community-made mods, and add our own content via datapacks.
 
 **Q: How do I contribute to this wiki?**
-A: Click the :material-pencil: edit icon on any page. This takes you to GitHub where you can suggest changes via a pull request. No special tools needed.
+A: Click the pencil icon on any page to edit it on GitHub, then submit a pull request.
 
 ## Troubleshooting
 

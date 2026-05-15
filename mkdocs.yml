@@ -31,6 +31,14 @@ theme:
   icon:
     repo: fontawesome/brands/github
 
+markdown_extensions:
+  - admonition
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - attr_list
+  - md_in_html
+
 plugins:
   - search
 
@@ -61,6 +69,3 @@ nav:
       - Plants: pvz-overgrowth/almanac/plants.md
       - Zombies: pvz-overgrowth/almanac/zombies.md
       - PvZ Items: pvz-overgrowth/almanac/items.md
-    - Custom Content:
-      - Custom Plants: pvz-overgrowth/custom/plants.md
-      - Custom Zombies: pvz-overgrowth/custom/zombies.md
