@@ -54,13 +54,9 @@ Combine Gold Streaked Zombie Flesh with an **Awkward Potion** in a brewing stand
 
 <img src="/assets/images/contagion/kb-img-cure-brewing.png" width="300">
 
-<img src="/assets/images/contagion/kb-img-cure-effect.png" width="500">
-
 ### Step 5 (Optional): Extend the Cure
 
 Add **Redstone** to The Cure to create **Cure Potion II**, which lasts **3x as long**.
-
-<img src="/assets/images/contagion/kb-img-cure-extended.png" width="500">
 
 ---
 
