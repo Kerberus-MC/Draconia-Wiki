@@ -1,10 +1,8 @@
 # PvZ Overgrowth
 
-Welcome to the PvZ Overgrowth wiki. Plants vs Zombies meets Minecraft in this unique modpack.
+<img src="/assets/images/modpacks/kb-img-pvz-overgrowth.png" width="96" style="border-radius: 0.5rem; float: right; margin-left: 1rem;">
 
-## About
-
-PvZ Overgrowth is a Draconia modpack built on community PvZ mods for Minecraft. We run custom servers with our own plants and zombies authored via datapack.
+Plants vs Zombies in Minecraft — with custom plants and zombies via datapack.
 
 [:fontawesome-solid-download: Get the Modpack](https://www.curseforge.com/minecraft/modpacks/pvz-overgrowth){ .md-button } [:fontawesome-brands-discord: Join Discord](https://discord.gg/draconia){ .md-button .md-button--primary }
 
@@ -13,6 +11,7 @@ PvZ Overgrowth is a Draconia modpack built on community PvZ mods for Minecraft. 
 - [How to Install](how-to-install.md)
 - [Starter Guide](starter-guide.md)
 - [Plant Spawn Mechanics](plant-spawn.md)
+- [Contagion](contagion.md) — Infection mechanics and how to cure it
 - [FAQ](faq.md)
 
 ### Almanac

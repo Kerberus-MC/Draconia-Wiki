@@ -1,10 +1,8 @@
 # Toothless
 
-Welcome to the Toothless wiki. Train and ride your own dragon in this adventure modpack.
+<img src="/assets/images/modpacks/kb-img-toothless.png" width="96" style="border-radius: 0.5rem; float: right; margin-left: 1rem;">
 
-## About
-
-Toothless brings the dragon-riding fantasy to Minecraft. Tame dragons, explore the skies, and embark on quests across a vast world.
+Tame and ride dragons in this adventure modpack.
 
 [:fontawesome-solid-download: Get the Modpack](https://www.curseforge.com/minecraft/modpacks/toothless){ .md-button } [:fontawesome-brands-discord: Join Discord](https://discord.gg/draconia){ .md-button .md-button--primary }
 
