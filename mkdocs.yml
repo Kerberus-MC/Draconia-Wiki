@@ -51,6 +51,9 @@ extra:
       link: https://github.com/Kerberus-MC
       name: Kerberus-MC on GitHub
 
+extra_css:
+  - stylesheets/custom.css
+
 nav:
   - Home: index.md
   - Dragoncraft:
@@ -63,9 +66,10 @@ nav:
     - Overview: pvz-overgrowth/index.md
     - How to Install: pvz-overgrowth/how-to-install.md
     - Starter Guide: pvz-overgrowth/starter-guide.md
-    - Plant Spawn: pvz-overgrowth/plant-spawn.md
-    - Contagion: pvz-overgrowth/contagion.md
     - FAQ: pvz-overgrowth/faq.md
+    - Guides:
+      - Plant Spawn: pvz-overgrowth/plant-spawn.md
+      - Contagion: pvz-overgrowth/contagion.md
     - Almanac:
       - Plants: pvz-overgrowth/almanac/plants.md
       - Zombies: pvz-overgrowth/almanac/zombies.md

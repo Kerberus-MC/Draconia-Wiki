@@ -10,9 +10,12 @@ Plants vs Zombies in Minecraft — with custom plants and zombies via datapack.
 
 - [How to Install](how-to-install.md)
 - [Starter Guide](starter-guide.md)
-- [Plant Spawn Mechanics](plant-spawn.md)
-- [Contagion](contagion.md) — Infection mechanics and how to cure it
 - [FAQ](faq.md)
+
+### Guides
+
+- [Plant Spawn](plant-spawn.md) — Where each plant spawns by biome
+- [Contagion](contagion.md) — Infection mechanics and how to cure it
 
 ### Almanac
 

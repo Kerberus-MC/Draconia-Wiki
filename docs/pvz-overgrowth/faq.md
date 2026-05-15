@@ -1,16 +1,13 @@
-# Frequently Asked Questions
+# FAQ
 
-## General
+**What is PvZ Overgrowth?**
+A modpack that brings Plants vs Zombies into Minecraft. We use community PvZ mods and add our own content via datapacks.
 
-**Q: What is PvZ Overgrowth?**
-A: PvZ Overgrowth is a Draconia modpack that brings Plants vs Zombies gameplay into Minecraft using community PvZ mods, enhanced with our own custom plants and zombies.
+**Is this an official PvZ mod?**
+No. We bundle and configure community mods — it's a modpack, not a standalone mod.
 
-**Q: Is this an official PvZ mod?**
-A: No. PvZ Overgrowth is a modpack — we bundle and configure community-made mods, and add our own content via datapacks.
+**How do I contribute to this wiki?**
+Click the pencil icon on any page to edit it on GitHub, then submit a pull request.
 
-**Q: How do I contribute to this wiki?**
-A: Click the pencil icon on any page to edit it on GitHub, then submit a pull request.
-
-## Troubleshooting
-
-*More questions coming soon — ask in [Discord](https://discord.gg/draconia)!*
+**Where do I get help?**
+Join our [Discord](https://discord.gg/draconia).

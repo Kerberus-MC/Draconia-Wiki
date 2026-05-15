@@ -1,0 +1,17 @@
+/* Force all content tables to full width */
+.md-typeset table:not([class]) {
+  width: 100%;
+  display: table;
+}
+
+/* Fixed icon column width so it doesn't stretch */
+.md-typeset table:not([class]) td:first-child,
+.md-typeset table:not([class]) th:first-child {
+  width: 60px;
+  text-align: center;
+}
+
+/* Keep images crisp at small sizes */
+.md-typeset table img {
+  image-rendering: pixelated;
+}
