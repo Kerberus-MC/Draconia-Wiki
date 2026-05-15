@@ -6,7 +6,7 @@
 | <img src="/assets/images/toothless/kb-img-boneknapper.png" width="80"> | **Boneknapper** |
 | <img src="/assets/images/toothless/kb-img-changewing.png" width="80"> | **Changewing** |
 | <img src="/assets/images/toothless/kb-img-dramillion.png" width="80"> | **Dramillion** |
-| <img src="/assets/images/toothless/kb-img-flightmare.png" width="80"> | **Flightmare** |
+| | **Flightmare** |
 | <img src="/assets/images/toothless/kb-img-hideous-zippleback.png" width="80"> | **Hideous Zippleback** |
 | <img src="/assets/images/toothless/kb-img-prickleboggle.png" width="80"> | **Prickleboggle** |
 | <img src="/assets/images/toothless/kb-img-slitherwing.png" width="80"> | **Slitherwing** |

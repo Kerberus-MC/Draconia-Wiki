@@ -1,0 +1,6 @@
+# Installation process
+
+[TABLE]
+From modpack | Not from modpack - v1.0 only | Not from modpack - v2.0 or later but before v3.0 | Not from modpack - v3.0 or later
+If using any modpack containing AA, expect all the setup to be done for you. You need not carry out any additional steps. | There is no video guide available for v1.0, please seeInstallation: Datapack versionfor a written guide. | We recommend watchingthis video, as it explains the process and video is easier than a text-based information. Many thanks to@RaiderLabsfor allowing us to use this video for official guide purposes. If you prefer a text-based guide, please seeInstallation: Mod version pre-NBD. | AA v3.0 has not been released at this time, so downloading is not possible. When it is released, it will be a mod addon for the NBD mod, and another guide page will be made.
+[/TABLE]

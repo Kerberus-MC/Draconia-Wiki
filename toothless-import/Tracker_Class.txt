@@ -1,0 +1,12 @@
+# Tracker Class
+
+All dragons in Archipelago Additions use a conditional override to replace base IoB dragons under certain conditions. This means that though they can have their own stats, appearance, animations, size, riding positions, and so on, they must have the same abilities. The dragons in AA at this time are:
+
+
+## Tracker Class Dragons
+
+- Butterflywing
+- Deadly Nadder
+- Eight-Legged Nadder
+- Rumblehorn
+- Wolf-Fang

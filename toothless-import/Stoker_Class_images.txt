@@ -1,0 +1,36 @@
+https://static.wikitide.net/archipelagoadditionswiki/thumb/1/1c/Fireworm.png/120px-Fireworm.png	Fireworm
+https://static.wikitide.net/archipelagoadditionswiki/thumb/1/18/Fireworm_queen.png/120px-Fireworm_queen.png	Fireworm Queen
+https://static.wikitide.net/archipelagoadditionswiki/thumb/2/22/Flame_whipper.png/120px-Flame_whipper.png	Flame Whipper
+https://static.wikitide.net/archipelagoadditionswiki/thumb/9/97/Hobblegrunt.png/120px-Hobblegrunt.png	Hobblegrunt
+https://static.wikitide.net/archipelagoadditionswiki/thumb/0/0d/Magma_Breather.png/120px-Magma_Breather.png	Magma Breather
+https://static.wikitide.net/archipelagoadditionswiki/thumb/9/9b/Hookfang.png/120px-Hookfang.png	Monstrous Nightmare
+https://static.wikitide.net/archipelagoadditionswiki/thumb/7/70/Nightwatch.png/120px-Nightwatch.png	Night Terror
+https://static.wikitide.net/archipelagoadditionswiki/thumb/5/5a/Red_death.png/120px-Red_death.png	Pygmy Death
+https://static.wikitide.net/archipelagoadditionswiki/thumb/0/08/Silver_Phantom.png/98px-Silver_Phantom.png	Silver Phantom
+https://static.wikitide.net/archipelagoadditionswiki/thumb/d/d4/Singetail.png/120px-Singetail.png	Singetail
+https://static.wikitide.net/archipelagoadditionswiki/thumb/a/a0/Storming_Nightmare.png/120px-Storming_Nightmare.png	Storming Nightmare
+https://static.wikitide.net/archipelagoadditionswiki/thumb/b/b7/Terrible_terror.png/120px-Terrible_terror.png	Terrible Terror
+https://static.wikitide.net/archipelagoadditionswiki/thumb/1/1c/Fireworm.png/180px-Fireworm.png	high-res variant
+https://static.wikitide.net/archipelagoadditionswiki/thumb/1/1c/Fireworm.png/240px-Fireworm.png	high-res variant
+https://static.wikitide.net/archipelagoadditionswiki/thumb/1/18/Fireworm_queen.png/180px-Fireworm_queen.png	high-res variant
+https://static.wikitide.net/archipelagoadditionswiki/thumb/1/18/Fireworm_queen.png/240px-Fireworm_queen.png	high-res variant
+https://static.wikitide.net/archipelagoadditionswiki/thumb/2/22/Flame_whipper.png/180px-Flame_whipper.png	high-res variant
+https://static.wikitide.net/archipelagoadditionswiki/thumb/2/22/Flame_whipper.png/240px-Flame_whipper.png	high-res variant
+https://static.wikitide.net/archipelagoadditionswiki/thumb/9/97/Hobblegrunt.png/180px-Hobblegrunt.png	high-res variant
+https://static.wikitide.net/archipelagoadditionswiki/thumb/9/97/Hobblegrunt.png/240px-Hobblegrunt.png	high-res variant
+https://static.wikitide.net/archipelagoadditionswiki/thumb/0/0d/Magma_Breather.png/180px-Magma_Breather.png	high-res variant
+https://static.wikitide.net/archipelagoadditionswiki/thumb/0/0d/Magma_Breather.png/240px-Magma_Breather.png	high-res variant
+https://static.wikitide.net/archipelagoadditionswiki/thumb/9/9b/Hookfang.png/180px-Hookfang.png	high-res variant
+https://static.wikitide.net/archipelagoadditionswiki/thumb/9/9b/Hookfang.png/240px-Hookfang.png	high-res variant
+https://static.wikitide.net/archipelagoadditionswiki/thumb/7/70/Nightwatch.png/180px-Nightwatch.png	high-res variant
+https://static.wikitide.net/archipelagoadditionswiki/thumb/7/70/Nightwatch.png/240px-Nightwatch.png	high-res variant
+https://static.wikitide.net/archipelagoadditionswiki/thumb/5/5a/Red_death.png/180px-Red_death.png	high-res variant
+https://static.wikitide.net/archipelagoadditionswiki/thumb/5/5a/Red_death.png/240px-Red_death.png	high-res variant
+https://static.wikitide.net/archipelagoadditionswiki/thumb/0/08/Silver_Phantom.png/147px-Silver_Phantom.png	high-res variant
+https://static.wikitide.net/archipelagoadditionswiki/thumb/0/08/Silver_Phantom.png/196px-Silver_Phantom.png	high-res variant
+https://static.wikitide.net/archipelagoadditionswiki/thumb/d/d4/Singetail.png/180px-Singetail.png	high-res variant
+https://static.wikitide.net/archipelagoadditionswiki/thumb/d/d4/Singetail.png/240px-Singetail.png	high-res variant
+https://static.wikitide.net/archipelagoadditionswiki/thumb/a/a0/Storming_Nightmare.png/180px-Storming_Nightmare.png	high-res variant
+https://static.wikitide.net/archipelagoadditionswiki/thumb/a/a0/Storming_Nightmare.png/240px-Storming_Nightmare.png	high-res variant
+https://static.wikitide.net/archipelagoadditionswiki/thumb/b/b7/Terrible_terror.png/180px-Terrible_terror.png	high-res variant
+https://static.wikitide.net/archipelagoadditionswiki/thumb/b/b7/Terrible_terror.png/240px-Terrible_terror.png	high-res variant

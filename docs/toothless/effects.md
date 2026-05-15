@@ -35,7 +35,7 @@ When a dragon gets the effect, they take 4 damage (2 hearts) initially. Every 10
 
 ## Dragon Blood Scent
 
-Prevents a player from directly interacting with dragons for the duration (typically 30 minutes). **Cannot be removed with milk or commands** — only dying or waiting it out.
+Prevents a player from directly interacting with dragons for the duration (typically 30 minutes). **Cannot be removed with milk or commands** - only dying or waiting it out.
 
 Players cannot command, ride, or tame any dragons while afflicted. Indirectly commanding dragons with Dragon Command Items bypasses this effect.
 

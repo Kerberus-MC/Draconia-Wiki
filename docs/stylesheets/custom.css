@@ -41,14 +41,23 @@
 
 /* ===== TABLES ===== */
 
-/* Full width */
+/* Full width, no horizontal scroll */
 .md-typeset table:not([class]) {
   width: 100%;
   display: table;
+  table-layout: fixed;
   border-collapse: separate;
   border-spacing: 0;
   border-radius: 0.5rem;
   overflow: hidden;
+}
+
+/* Prevent table wrapper scroll */
+.md-typeset__scrollwrap {
+  overflow-x: visible;
+}
+.md-typeset__table {
+  overflow-x: visible;
 }
 
 /* Distinct header row */

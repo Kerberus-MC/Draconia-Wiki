@@ -1,6 +1,6 @@
 # Contagion
 
-The **Contagion** mod adds a zombie infection mechanic to PvZ Overgrowth. When a zombie hits you, there is a chance you get infected — and if the timer runs out, you die instantly. This guide explains how infection works and how to cure it.
+The **Contagion** mod adds a zombie infection mechanic to PvZ Overgrowth. When a zombie hits you, there is a chance you get infected - and if the timer runs out, you die instantly. This guide explains how infection works and how to cure it.
 
 [:fontawesome-solid-link: Contagion on CurseForge](https://www.curseforge.com/minecraft/mc-mods/contagion){ .md-button }
 
@@ -8,7 +8,7 @@ The **Contagion** mod adds a zombie infection mechanic to PvZ Overgrowth. When a
 
 ## Getting Infected
 
-When a zombie hits you there is an **80% chance** you get infected. Armor lowers this chance by up to **60%** (with full Netherite). Once infected, a timer starts counting down — if it reaches zero, **you die instantly**.
+When a zombie hits you there is an **80% chance** you get infected. Armor lowers this chance by up to **60%** (with full Netherite). Once infected, a timer starts counting down - if it reaches zero, **you die instantly**.
 
 <div class="img-center" markdown>
 <img src="/assets/images/contagion/kb-img-infection.png" width="300">
@@ -34,7 +34,7 @@ On our server, **drinking milk** will immediately stop the infection. This is th
 
 ### Step 1: Get Contagious Flesh
 
-Kill zombies — there is a **7.5% chance** they drop **Contagious Flesh**. The Looting enchantment adds **2.5% per level**.
+Kill zombies - there is a **7.5% chance** they drop **Contagious Flesh**. The Looting enchantment adds **2.5% per level**.
 
 <div class="img-center" markdown>
 <img src="/assets/images/contagion/kb-img-contagious-flesh-drop.png" width="400">

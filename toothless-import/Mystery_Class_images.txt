@@ -1,0 +1,27 @@
+https://static.wikitide.net/archipelagoadditionswiki/thumb/9/98/Armorwing.png/120px-Armorwing.png	Armorwing
+https://static.wikitide.net/archipelagoadditionswiki/thumb/7/72/Boneknapper.png/120px-Boneknapper.png	Boneknapper
+https://static.wikitide.net/archipelagoadditionswiki/thumb/2/2c/Changewing_New.png/120px-Changewing_New.png	Changewing
+https://static.wikitide.net/archipelagoadditionswiki/thumb/d/d3/Dramillion.png/118px-Dramillion.png	Dramillion
+https://static.wikitide.net/archipelagoadditionswiki/thumb/5/56/Barf_n_belch.png/120px-Barf_n_belch.png	Hideous Zippleback
+https://static.wikitide.net/archipelagoadditionswiki/thumb/a/a6/Prickleboggle.png/120px-Prickleboggle.png	Prickleboggle
+https://static.wikitide.net/archipelagoadditionswiki/thumb/2/27/Slitherwing.png/120px-Slitherwing.png	Slitherwing
+https://static.wikitide.net/archipelagoadditionswiki/thumb/8/85/Smothering_Smokebreath.png/120px-Smothering_Smokebreath.png	Smothering Smokebreath
+https://static.wikitide.net/archipelagoadditionswiki/thumb/3/37/Snaptrapper.png/120px-Snaptrapper.png	Snaptrapper
+https://static.wikitide.net/archipelagoadditionswiki/thumb/9/98/Armorwing.png/180px-Armorwing.png	high-res variant
+https://static.wikitide.net/archipelagoadditionswiki/thumb/9/98/Armorwing.png/240px-Armorwing.png	high-res variant
+https://static.wikitide.net/archipelagoadditionswiki/thumb/7/72/Boneknapper.png/180px-Boneknapper.png	high-res variant
+https://static.wikitide.net/archipelagoadditionswiki/thumb/7/72/Boneknapper.png/240px-Boneknapper.png	high-res variant
+https://static.wikitide.net/archipelagoadditionswiki/thumb/2/2c/Changewing_New.png/180px-Changewing_New.png	high-res variant
+https://static.wikitide.net/archipelagoadditionswiki/thumb/2/2c/Changewing_New.png/240px-Changewing_New.png	high-res variant
+https://static.wikitide.net/archipelagoadditionswiki/thumb/d/d3/Dramillion.png/176px-Dramillion.png	high-res variant
+https://static.wikitide.net/archipelagoadditionswiki/thumb/d/d3/Dramillion.png/235px-Dramillion.png	high-res variant
+https://static.wikitide.net/archipelagoadditionswiki/thumb/5/56/Barf_n_belch.png/180px-Barf_n_belch.png	high-res variant
+https://static.wikitide.net/archipelagoadditionswiki/thumb/5/56/Barf_n_belch.png/240px-Barf_n_belch.png	high-res variant
+https://static.wikitide.net/archipelagoadditionswiki/thumb/a/a6/Prickleboggle.png/180px-Prickleboggle.png	high-res variant
+https://static.wikitide.net/archipelagoadditionswiki/thumb/a/a6/Prickleboggle.png/240px-Prickleboggle.png	high-res variant
+https://static.wikitide.net/archipelagoadditionswiki/thumb/2/27/Slitherwing.png/180px-Slitherwing.png	high-res variant
+https://static.wikitide.net/archipelagoadditionswiki/thumb/2/27/Slitherwing.png/240px-Slitherwing.png	high-res variant
+https://static.wikitide.net/archipelagoadditionswiki/thumb/8/85/Smothering_Smokebreath.png/180px-Smothering_Smokebreath.png	high-res variant
+https://static.wikitide.net/archipelagoadditionswiki/thumb/8/85/Smothering_Smokebreath.png/240px-Smothering_Smokebreath.png	high-res variant
+https://static.wikitide.net/archipelagoadditionswiki/thumb/3/37/Snaptrapper.png/180px-Snaptrapper.png	high-res variant
+https://static.wikitide.net/archipelagoadditionswiki/thumb/3/37/Snaptrapper.png/240px-Snaptrapper.png	high-res variant

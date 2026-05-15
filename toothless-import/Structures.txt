@@ -1,0 +1,15 @@
+# Structures
+
+As of 2.5, Archipelago Additions contains [min 11] structures.
+
+- Bifrost TempleBifrost Temple
+- Dragon Hunter Flagship
+- Dragon Hunter ShipDragon Hunter Ship
+- Flightmare Trapper CampFlightmare Trapper Camp
+- Frozen ShipFrozen Ship
+- Grovewing TempleGrovewing Temple
+- Johann's ShipJohann's Ship
+- Scorched ShipScorched Ship
+- Sentinel NestSentinel Nest
+- Whispering Death NestWhispering Death Nest
+- Wolf Fang NestWolf Fang Nest

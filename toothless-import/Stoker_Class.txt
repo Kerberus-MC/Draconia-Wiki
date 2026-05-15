@@ -1,0 +1,20 @@
+# Stoker Class
+
+All dragons in Archipelago Additions use a conditional override to replace base IoB dragons under certain conditions. This means that though they can have their own stats, appearance, animations, size, riding positions, and so on, they must have the same abilities. The dragons in AA at this time are:
+
+
+## Stoker Class Dragons
+
+- Fireworm
+- Fireworm Queen
+- Flame Whipper
+- Hobblegrunt
+- Magma Breather
+- Monstrous Nightmare
+- Night Terror
+- Pygmy Death
+- Silver Phantom
+- Singetail
+- Storming Nightmare
+- Terrible Terror
+- TyphoomerangTyphoomerang

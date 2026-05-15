@@ -8,11 +8,11 @@ Tame and ride dragons in this adventure modpack. Based on [Archipelago Additions
 
 ## Dragons
 
-- [All Dragons](dragons/index.md) — Full list with class table
+- [All Dragons](dragons/index.md) - Full list with class table
 - [Boulder Class](dragons/boulder-class.md) · [Mystery Class](dragons/mystery-class.md) · [Sharp Class](dragons/sharp-class.md) · [Stoker Class](dragons/stoker-class.md) · [Strike Class](dragons/strike-class.md) · [Tidal Class](dragons/tidal-class.md) · [Tracker Class](dragons/tracker-class.md)
 
 ## Guides
 
 - [Dragon Rider Companions](companions.md)
-- [Effects](effects.md) — Status effects for dragons and players
-- [Structures](structures.md) — World-generated structures
+- [Effects](effects.md) - Status effects for dragons and players
+- [Structures](structures.md) - World-generated structures
