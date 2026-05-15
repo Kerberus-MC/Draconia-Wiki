@@ -67,7 +67,8 @@ hide:
   font-size: 0.85rem;
   line-height: 1.4;
 }
-.discord-banner {
+a.discord-banner {
+  display: block;
   text-align: center;
   margin-top: 2rem;
   padding: 1.5rem;
@@ -75,15 +76,23 @@ hide:
   background: linear-gradient(135deg, #1a1a2e 0%, #2d2d4a 100%);
   border: 1px solid rgba(108, 99, 255, 0.2);
   color: white;
-}
-.discord-banner a {
-  color: white;
   text-decoration: none;
+  transition: transform 0.15s, box-shadow 0.15s, border-color 0.15s;
+}
+a.discord-banner:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.2);
+  border-color: var(--md-accent-fg-color);
+  color: white;
+}
+.discord-title {
+  display: block;
   font-weight: 600;
   font-size: 1.1rem;
 }
-.discord-banner p {
-  margin: 0.25rem 0 0;
+.discord-sub {
+  display: block;
+  margin-top: 0.25rem;
   opacity: 0.85;
   font-size: 0.85rem;
 }
@@ -126,7 +135,7 @@ hide:
   </a>
 </div>
 
-<div class="discord-banner">
-  <a href="https://discord.gg/draconia" target="_blank">💬 Join our Discord</a>
-  <p>Support, updates, and community.</p>
-</div>
+<a class="discord-banner" href="https://discord.gg/draconia" target="_blank">
+  <span class="discord-title">💬 Join our Discord</span>
+  <span class="discord-sub">Support, updates, and community.</span>
+</a>
