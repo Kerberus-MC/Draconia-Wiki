@@ -42,29 +42,239 @@ No tools or weapons (except Dragon Blades & specified Viking Artifacts ) held
 
 ## Variants
 
-| | Variant | Obtainment | Summon Command |
-|---|---|---|---|
-| <img src="/assets/images/toothless/variants/kb-img-hideous-zippleback-albino.png" width="80"> | **Albino** | Rare spawn | `/summon isleofberk:zippleback ~ ~ ~ {VariantName:albino_zi...` |
-| <img src="/assets/images/toothless/variants/kb-img-hideous-zippleback-barf-and-belch.png" width="80"> | **Barf & Belch** | Normal spawn | `/summon isleofberk:zippleback ~ ~ ~ {VariantName:barf_n_be...` |
-| <img src="/assets/images/toothless/variants/kb-img-hideous-zippleback-brachi.png" width="80"> | **Brachi** | Normal spawn | `/summon isleofberk:zippleback ~ ~ ~ {VariantName:brachi}` |
-| <img src="/assets/images/toothless/variants/kb-img-hideous-zippleback-exiled.png" width="80"> | **Exiled** | Normal spawn | `/summon isleofberk:zippleback ~ ~ ~ {VariantName:exiled}` |
-| <img src="/assets/images/toothless/variants/kb-img-hideous-zippleback-fart-and-smella.png" width="80"> | **Fart & Smella** | Normal spawn | `/summon isleofberk:zippleback ~ ~ ~ {VariantName:fart_n_sm...` |
-| <img src="/assets/images/toothless/variants/kb-img-hideous-zippleback-fart-and-sniff.png" width="80"> | **Fart & Sniff** | Normal spawn | `/summon isleofberk:zippleback ~ ~ ~ {VariantName:fart_n_sn...` |
-| <img src="/assets/images/toothless/variants/kb-img-hideous-zippleback-gilded-zippleback.png" width="80"> | **Gilded Zippleback** | Rare spawn | `/summon isleofberk:zippleback ~ ~ ~ {VariantName:gilded_zi...` |
-| <img src="/assets/images/toothless/variants/kb-img-hideous-zippleback-glitter-and-light.png" width="80"> | **Glitter & Light** | Bifrost Temple only | `/summon isleofberk:zippleback ~ ~ ~ {VariantName:glitter_n...` |
-| <img src="/assets/images/toothless/variants/kb-img-hideous-zippleback-hamfeist.png" width="80"> | **Hamfeist** | Normal spawn | `/summon isleofberk:zippleback ~ ~ ~ {VariantName:hamfeist}` |
-| <img src="/assets/images/toothless/variants/kb-img-hideous-zippleback-hjarta.png" width="80"> | **Hjarta** | Normal spawn | `/summon isleofberk:zippleback ~ ~ ~ {VariantName:hjarta}` |
-| <img src="/assets/images/toothless/variants/kb-img-hideous-zippleback-hodd.png" width="80"> | **Hodd** | Normal spawn | `/summon isleofberk:zippleback ~ ~ ~ {VariantName:hodd}` |
-| <img src="/assets/images/toothless/variants/kb-img-hideous-zippleback-kandy-and-kane.png" width="80"> | **Kandy & Kane** | Snoggletog only | `/summon isleofberk:zippleback ~ ~ ~ {VariantName:kandy_n_k...` |
-| <img src="/assets/images/toothless/variants/kb-img-hideous-zippleback-leaf-and-bark.png" width="80"> | **Leaf & Bark** | Normal spawn | `/summon isleofberk:zippleback ~ ~ ~ {VariantName:leaf_n_ba...` |
-| <img src="/assets/images/toothless/variants/kb-img-hideous-zippleback-melanistic.png" width="80"> | **Melanistic** | Rare spawn | `/summon isleofberk:zippleback ~ ~ ~ {VariantName:melanisti...` |
-| <img src="/assets/images/toothless/variants/kb-img-hideous-zippleback-pistill.png" width="80"> | **Pistill** | Normal spawn | `/summon isleofberk:zippleback ~ ~ ~ {VariantName:pistill}` |
-| <img src="/assets/images/toothless/variants/kb-img-hideous-zippleback-poison-and-dart.png" width="80"> | **Poison & Dart** | Rare spawn | `/summon isleofberk:zippleback ~ ~ ~ {VariantName:poison_n_...` |
-| <img src="/assets/images/toothless/variants/kb-img-hideous-zippleback-purple-and-nurple.png" width="80"> | **Purple & Nurple** | Normal spawn | `/summon isleofberk:zippleback ~ ~ ~ {VariantName:purple_n_...` |
-| <img src="/assets/images/toothless/variants/kb-img-hideous-zippleback-sandr.png" width="80"> | **Sandr** | Normal spawn | `/summon isleofberk:zippleback ~ ~ ~ {VariantName:sandr}` |
-| <img src="/assets/images/toothless/variants/kb-img-hideous-zippleback-sparkles-and-sparks.png" width="80"> | **Sparkles & Sparks** | Normal spawn | `/summon isleofberk:zippleback ~ ~ ~ {VariantName:sparkles_...` |
-| <img src="/assets/images/toothless/variants/kb-img-hideous-zippleback-water-and-melon.png" width="80"> | **Water & Melon** | Rare spawn | `/summon isleofberk:zippleback ~ ~ ~ {VariantName:water_n_m...` |
-| <img src="/assets/images/toothless/variants/kb-img-hideous-zippleback-whip-and-lash.png" width="80"> | **Whip & Lash** | Normal spawn | `/summon isleofberk:zippleback ~ ~ ~ {VariantName:whip_n_la...` |
+### Albino
+
+<img src="/assets/images/toothless/variants/kb-img-hideous-zippleback-albino.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:zippleback ~ ~ ~ {VariantName:albino_zipple}
+```
+
+### Barf & Belch
+
+<img src="/assets/images/toothless/variants/kb-img-hideous-zippleback-barf-and-belch.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:zippleback ~ ~ ~ {VariantName:barf_n_belch}
+```
+
+### Brachi
+
+<img src="/assets/images/toothless/variants/kb-img-hideous-zippleback-brachi.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:zippleback ~ ~ ~ {VariantName:brachi}
+```
+
+### Exiled
+
+<img src="/assets/images/toothless/variants/kb-img-hideous-zippleback-exiled.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:zippleback ~ ~ ~ {VariantName:exiled}
+```
+
+*Credits: Base IoB variant*
+
+### Fart & Smella
+
+<img src="/assets/images/toothless/variants/kb-img-hideous-zippleback-fart-and-smella.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:zippleback ~ ~ ~ {VariantName:fart_n_smella}
+```
+
+### Fart & Sniff
+
+<img src="/assets/images/toothless/variants/kb-img-hideous-zippleback-fart-and-sniff.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:zippleback ~ ~ ~ {VariantName:fart_n_sniff}
+```
+
+*Credits: Base IoB variant*
+
+### Gilded Zippleback
+
+<img src="/assets/images/toothless/variants/kb-img-hideous-zippleback-gilded-zippleback.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:zippleback ~ ~ ~ {VariantName:gilded_zippleback}
+```
+
+### Glitter & Light
+
+<img src="/assets/images/toothless/variants/kb-img-hideous-zippleback-glitter-and-light.png" width="120">
+
+**Obtainment:** Bifrost Temple only
+
+```
+/summon isleofberk:zippleback ~ ~ ~ {VariantName:glitter_n_light}
+```
+
+### Hamfeist
+
+<img src="/assets/images/toothless/variants/kb-img-hideous-zippleback-hamfeist.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:zippleback ~ ~ ~ {VariantName:hamfeist}
+```
+
+*Credits: Base IoB variant*
+
+### Hjarta
+
+<img src="/assets/images/toothless/variants/kb-img-hideous-zippleback-hjarta.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:zippleback ~ ~ ~ {VariantName:hjarta}
+```
+
+*Credits: Base IoB variant*
+
+### Hodd
+
+<img src="/assets/images/toothless/variants/kb-img-hideous-zippleback-hodd.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:zippleback ~ ~ ~ {VariantName:hodd}
+```
+
+*Credits: Base IoB variant*
+
+### Kandy & Kane
+
+<img src="/assets/images/toothless/variants/kb-img-hideous-zippleback-kandy-and-kane.png" width="120">
+
+**Obtainment:** Snoggletog only
+
+```
+/summon isleofberk:zippleback ~ ~ ~ {VariantName:kandy_n_kane}
+```
+
+*Credits: Base IoB variant*
+
+### Leaf & Bark
+
+<img src="/assets/images/toothless/variants/kb-img-hideous-zippleback-leaf-and-bark.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:zippleback ~ ~ ~ {VariantName:leaf_n_bark}
+```
+
+*Credits: Base IoB variant*
+
+### Melanistic
+
+<img src="/assets/images/toothless/variants/kb-img-hideous-zippleback-melanistic.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:zippleback ~ ~ ~ {VariantName:melanistic_zipple}
+```
+
+### Pistill
+
+<img src="/assets/images/toothless/variants/kb-img-hideous-zippleback-pistill.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:zippleback ~ ~ ~ {VariantName:pistill}
+```
+
+*Credits: Base IoB variant*
+
+### Poison & Dart
+
+<img src="/assets/images/toothless/variants/kb-img-hideous-zippleback-poison-and-dart.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:zippleback ~ ~ ~ {VariantName:poison_n_dart}
+```
+
+*Credits: This variant was donated by Ness*
+
+### Purple & Nurple
+
+<img src="/assets/images/toothless/variants/kb-img-hideous-zippleback-purple-and-nurple.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:zippleback ~ ~ ~ {VariantName:purple_n_nurple}
+```
+
+*Credits: Base IoB variant*
+
+### Sandr
+
+<img src="/assets/images/toothless/variants/kb-img-hideous-zippleback-sandr.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:zippleback ~ ~ ~ {VariantName:sandr}
+```
+
+*Credits: Base IoB variant*
+
+### Sparkles & Sparks
+
+<img src="/assets/images/toothless/variants/kb-img-hideous-zippleback-sparkles-and-sparks.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:zippleback ~ ~ ~ {VariantName:sparkles_n_sparks}
+```
+
+### Water & Melon
+
+<img src="/assets/images/toothless/variants/kb-img-hideous-zippleback-water-and-melon.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:zippleback ~ ~ ~ {VariantName:water_n_melon}
+```
+
+### Whip & Lash
+
+<img src="/assets/images/toothless/variants/kb-img-hideous-zippleback-whip-and-lash.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:zippleback ~ ~ ~ {VariantName:whip_n_lash}
+```
+
+*Credits: Base IoB variant*
 
 ---
 

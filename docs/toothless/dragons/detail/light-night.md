@@ -36,43 +36,359 @@ The Light Night is an Archipelago Additions original hybrid of the Light Fury & 
 
 ## Variants
 
-| | Variant | Obtainment | Summon Command |
-|---|---|---|---|
-| <img src="/assets/images/toothless/variants/kb-img-light-night-cinderpot.png" width="80"> | **Cinderpot** | Normal breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:cinderpot}` |
-| <img src="/assets/images/toothless/variants/kb-img-light-night-cinderpot-alpha.png" width="80"> | **Cinderpot Alpha** | Rare breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:cinderpo...` |
-| <img src="/assets/images/toothless/variants/kb-img-light-night-curls.png" width="80"> | **Curls** | Normal breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:curls}` |
-| <img src="/assets/images/toothless/variants/kb-img-light-night-curls-alpha.png" width="80"> | **Curls Alpha** | Rare breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:curls_al...` |
-| <img src="/assets/images/toothless/variants/kb-img-light-night-cyanea.png" width="80"> | **Cyanea** | Normal breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:cyanea}` |
-| <img src="/assets/images/toothless/variants/kb-img-light-night-dawn.png" width="80"> | **Dawn** | Normal breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:dawn}` |
-| <img src="/assets/images/toothless/variants/kb-img-light-night-dawn-alpha.png" width="80"> | **Dawn Alpha** | Rare breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:dawn_alp...` |
-| <img src="/assets/images/toothless/variants/kb-img-light-night-fenrir.png" width="80"> | **Fenrir** | Normal breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:fenrir}` |
-| <img src="/assets/images/toothless/variants/kb-img-light-night-freckles.png" width="80"> | **Freckles** | Normal breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:freckles}` |
-| <img src="/assets/images/toothless/variants/kb-img-light-night-freckles-alpha.png" width="80"> | **Freckles Alpha** | Rare breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:freckles...` |
-| <img src="/assets/images/toothless/variants/kb-img-light-night-garm.png" width="80"> | **Garm** | Normal breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:garm}` |
-| <img src="/assets/images/toothless/variants/kb-img-light-night-goggles.png" width="80"> | **Goggles** | Normal breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:goggles}` |
-| <img src="/assets/images/toothless/variants/kb-img-light-night-goggles-alpha.png" width="80"> | **Goggles Alpha** | Rare breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:goggles_...` |
-| <img src="/assets/images/toothless/variants/kb-img-light-night-harleking.png" width="80"> | **Harleking** | Normal breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:harleking}` |
-| <img src="/assets/images/toothless/variants/kb-img-light-night-harleking-alpha.png" width="80"> | **Harleking Alpha** | Rare breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:harlekin...` |
-| <img src="/assets/images/toothless/variants/kb-img-light-night-hati.png" width="80"> | **Hati** | Normal breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:hati}` |
-| <img src="/assets/images/toothless/variants/kb-img-light-night-lanula.png" width="80"> | **Lanula** | Normal breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:lanula}` |
-| <img src="/assets/images/toothless/variants/kb-img-light-night-sentingaldr.png" width="80"> | **Sentingaldr** | Normal breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:sentinga...` |
-| <img src="/assets/images/toothless/variants/kb-img-light-night-sentingaldr-alpha.png" width="80"> | **Sentingaldr Alpha** | Rare breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:sentinga...` |
-| <img src="/assets/images/toothless/variants/kb-img-light-night-shimmer.png" width="80"> | **Shimmer** | Normal breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:shimmer}` |
-| <img src="/assets/images/toothless/variants/kb-img-light-night-shimmer-alpha.png" width="80"> | **Shimmer Alpha** | Rare breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:shimmer_...` |
-| <img src="/assets/images/toothless/variants/kb-img-light-night-skoll.png" width="80"> | **Skoll** | Normal breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:skoll}` |
-| <img src="/assets/images/toothless/variants/kb-img-light-night-snowflake.png" width="80"> | **Snowflake** | Normal breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:snowflake}` |
-| <img src="/assets/images/toothless/variants/kb-img-light-night-snowflake-alpha.png" width="80"> | **Snowflake Alpha** | Rare breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:snowflak...` |
-| <img src="/assets/images/toothless/variants/kb-img-light-night-speckle.png" width="80"> | **Speckle** | Normal breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:speckle}` |
-| <img src="/assets/images/toothless/variants/kb-img-light-night-speckle-alpha.png" width="80"> | **Speckle Alpha** | Rare breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:speckle_...` |
-| <img src="/assets/images/toothless/variants/kb-img-light-night-spot-belly.png" width="80"> | **Spot Belly** | Normal breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:spot_bel...` |
-| <img src="/assets/images/toothless/variants/kb-img-light-night-spot-belly-alpha.png" width="80"> | **Spot Belly Alpha** | Rare breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:spot_bel...` |
-| <img src="/assets/images/toothless/variants/kb-img-light-night-star-runner.png" width="80"> | **Star Runner** | Rare breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:star_run...` |
-| <img src="/assets/images/toothless/variants/kb-img-light-night-valentine.png" width="80"> | **Valentine** | Normal breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:valentine}` |
-| <img src="/assets/images/toothless/variants/kb-img-light-night-valentine-alpha.png" width="80"> | **Valentine Alpha** | Rare breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:valentin...` |
-| <img src="/assets/images/toothless/variants/kb-img-light-night-wink.png" width="80"> | **Wink** | Normal breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:wink}` |
-| <img src="/assets/images/toothless/variants/kb-img-light-night-wink-alpha.png" width="80"> | **Wink Alpha** | Rare breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:wink_alp...` |
-| <img src="/assets/images/toothless/variants/kb-img-light-night-yang.png" width="80"> | **Yang** | Normal breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:yang}` |
-| <img src="/assets/images/toothless/variants/kb-img-light-night-yin.png" width="80"> | **Yin** | Normal breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:ying}` |
+### Cinderpot
+
+<img src="/assets/images/toothless/variants/kb-img-light-night-cinderpot.png" width="120">
+
+**Obtainment:** Normal breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:cinderpot}
+```
+
+### Cinderpot Alpha
+
+<img src="/assets/images/toothless/variants/kb-img-light-night-cinderpot-alpha.png" width="120">
+
+**Obtainment:** Rare breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:cinderpot_alpha}
+```
+
+### Curls
+
+<img src="/assets/images/toothless/variants/kb-img-light-night-curls.png" width="120">
+
+**Obtainment:** Normal breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:curls}
+```
+
+### Curls Alpha
+
+<img src="/assets/images/toothless/variants/kb-img-light-night-curls-alpha.png" width="120">
+
+**Obtainment:** Rare breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:curls_alpha}
+```
+
+### Cyanea
+
+<img src="/assets/images/toothless/variants/kb-img-light-night-cyanea.png" width="120">
+
+**Obtainment:** Normal breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:cyanea}
+```
+
+### Dawn
+
+<img src="/assets/images/toothless/variants/kb-img-light-night-dawn.png" width="120">
+
+**Obtainment:** Normal breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:dawn}
+```
+
+### Dawn Alpha
+
+<img src="/assets/images/toothless/variants/kb-img-light-night-dawn-alpha.png" width="120">
+
+**Obtainment:** Rare breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:dawn_alpha}
+```
+
+### Fenrir
+
+<img src="/assets/images/toothless/variants/kb-img-light-night-fenrir.png" width="120">
+
+**Obtainment:** Normal breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:fenrir}
+```
+
+### Freckles
+
+<img src="/assets/images/toothless/variants/kb-img-light-night-freckles.png" width="120">
+
+**Obtainment:** Normal breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:freckles}
+```
+
+### Freckles Alpha
+
+<img src="/assets/images/toothless/variants/kb-img-light-night-freckles-alpha.png" width="120">
+
+**Obtainment:** Rare breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:freckles_alpha}
+```
+
+### Garm
+
+<img src="/assets/images/toothless/variants/kb-img-light-night-garm.png" width="120">
+
+**Obtainment:** Normal breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:garm}
+```
+
+### Goggles
+
+<img src="/assets/images/toothless/variants/kb-img-light-night-goggles.png" width="120">
+
+**Obtainment:** Normal breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:goggles}
+```
+
+### Goggles Alpha
+
+<img src="/assets/images/toothless/variants/kb-img-light-night-goggles-alpha.png" width="120">
+
+**Obtainment:** Rare breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:goggles_alpha}
+```
+
+### Harleking
+
+<img src="/assets/images/toothless/variants/kb-img-light-night-harleking.png" width="120">
+
+**Obtainment:** Normal breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:harleking}
+```
+
+### Harleking Alpha
+
+<img src="/assets/images/toothless/variants/kb-img-light-night-harleking-alpha.png" width="120">
+
+**Obtainment:** Rare breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:harleking_alpha}
+```
+
+### Hati
+
+<img src="/assets/images/toothless/variants/kb-img-light-night-hati.png" width="120">
+
+**Obtainment:** Normal breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:hati}
+```
+
+### Lanula
+
+<img src="/assets/images/toothless/variants/kb-img-light-night-lanula.png" width="120">
+
+**Obtainment:** Normal breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:lanula}
+```
+
+### Sentingaldr
+
+<img src="/assets/images/toothless/variants/kb-img-light-night-sentingaldr.png" width="120">
+
+**Obtainment:** Normal breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:sentingaldr}
+```
+
+### Sentingaldr Alpha
+
+<img src="/assets/images/toothless/variants/kb-img-light-night-sentingaldr-alpha.png" width="120">
+
+**Obtainment:** Rare breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:sentingaldr_alpha}
+```
+
+### Shimmer
+
+<img src="/assets/images/toothless/variants/kb-img-light-night-shimmer.png" width="120">
+
+**Obtainment:** Normal breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:shimmer}
+```
+
+### Shimmer Alpha
+
+<img src="/assets/images/toothless/variants/kb-img-light-night-shimmer-alpha.png" width="120">
+
+**Obtainment:** Rare breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:shimmer_alpha}
+```
+
+### Skoll
+
+<img src="/assets/images/toothless/variants/kb-img-light-night-skoll.png" width="120">
+
+**Obtainment:** Normal breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:skoll}
+```
+
+### Snowflake
+
+<img src="/assets/images/toothless/variants/kb-img-light-night-snowflake.png" width="120">
+
+**Obtainment:** Normal breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:snowflake}
+```
+
+### Snowflake Alpha
+
+<img src="/assets/images/toothless/variants/kb-img-light-night-snowflake-alpha.png" width="120">
+
+**Obtainment:** Rare breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:snowflake_alpha}
+```
+
+### Speckle
+
+<img src="/assets/images/toothless/variants/kb-img-light-night-speckle.png" width="120">
+
+**Obtainment:** Normal breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:speckle}
+```
+
+### Speckle Alpha
+
+<img src="/assets/images/toothless/variants/kb-img-light-night-speckle-alpha.png" width="120">
+
+**Obtainment:** Rare breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:speckle_alpha}
+```
+
+### Spot Belly
+
+<img src="/assets/images/toothless/variants/kb-img-light-night-spot-belly.png" width="120">
+
+**Obtainment:** Normal breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:spot_belly}
+```
+
+### Spot Belly Alpha
+
+<img src="/assets/images/toothless/variants/kb-img-light-night-spot-belly-alpha.png" width="120">
+
+**Obtainment:** Rare breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:spot_belly_alpha}
+```
+
+### Star Runner
+
+<img src="/assets/images/toothless/variants/kb-img-light-night-star-runner.png" width="120">
+
+**Obtainment:** Rare breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:star_runner}
+```
+
+*Credits: This variant was designed by SillySuki*
+
+### Valentine
+
+<img src="/assets/images/toothless/variants/kb-img-light-night-valentine.png" width="120">
+
+**Obtainment:** Normal breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:valentine}
+```
+
+### Valentine Alpha
+
+<img src="/assets/images/toothless/variants/kb-img-light-night-valentine-alpha.png" width="120">
+
+**Obtainment:** Rare breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:valentine_alpha}
+```
+
+### Wink
+
+<img src="/assets/images/toothless/variants/kb-img-light-night-wink.png" width="120">
+
+**Obtainment:** Normal breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:wink}
+```
+
+### Wink Alpha
+
+<img src="/assets/images/toothless/variants/kb-img-light-night-wink-alpha.png" width="120">
+
+**Obtainment:** Rare breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:wink_alpha}
+```
+
+### Yang
+
+<img src="/assets/images/toothless/variants/kb-img-light-night-yang.png" width="120">
+
+**Obtainment:** Normal breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:yang}
+```
+
+### Yin
+
+<img src="/assets/images/toothless/variants/kb-img-light-night-yin.png" width="120">
+
+**Obtainment:** Normal breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:ying}
+```
+
+*Credits: Don't mention the typo*
 
 ---
 

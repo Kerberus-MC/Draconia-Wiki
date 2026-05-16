@@ -42,27 +42,197 @@ Night vision potion effect active
 
 ## Variants
 
-| | Variant | Obtainment | Summon Command |
-|---|---|---|---|
-| <img src="/assets/images/toothless/variants/kb-img-silver-phantom-albino.png" width="80"> | **Albino** | Rare spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:albino_ph...` |
-| <img src="/assets/images/toothless/variants/kb-img-silver-phantom-apoapsis.png" width="80"> | **Apoapsis** | Normal spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:apoapsis}` |
-| <img src="/assets/images/toothless/variants/kb-img-silver-phantom-blackout.png" width="80"> | **Blackout** | Normal spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:blackout}` |
-| <img src="/assets/images/toothless/variants/kb-img-silver-phantom-blood-phantom.png" width="80"> | **Blood Phantom** | Normal spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:blood_pha...` |
-| <img src="/assets/images/toothless/variants/kb-img-silver-phantom-forest-phantom.png" width="80"> | **Forest Phantom** | Normal spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:forest_ph...` |
-| <img src="/assets/images/toothless/variants/kb-img-silver-phantom-galestorm.png" width="80"> | **Galestorm** | Normal spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:galestorm}` |
-| <img src="/assets/images/toothless/variants/kb-img-silver-phantom-green-dragon.png" width="80"> | **Green Dragon** | Normal spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:green_dra...` |
-| <img src="/assets/images/toothless/variants/kb-img-silver-phantom-howl.png" width="80"> | **Howl** | Normal spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:howl}` |
-| <img src="/assets/images/toothless/variants/kb-img-silver-phantom-howl-b.png" width="80"> | **Howl (B)** | Normal spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:howl_b}` |
-| <img src="/assets/images/toothless/variants/kb-img-silver-phantom-legiana.png" width="80"> | **Legiana** | Rare spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:legiana}` |
-| <img src="/assets/images/toothless/variants/kb-img-silver-phantom-melanistic.png" width="80"> | **Melanistic** | Rare spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:melanisti...` |
-| <img src="/assets/images/toothless/variants/kb-img-silver-phantom-night-phantom.png" width="80"> | **Night Phantom** | Rare spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:night_pha...` |
-| <img src="/assets/images/toothless/variants/kb-img-silver-phantom-pearlescent-poltergeist.png" width="80"> | **Pearlescent Poltergeist** | Normal spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:pearlesce...` |
-| <img src="/assets/images/toothless/variants/kb-img-silver-phantom-periapsis.png" width="80"> | **Periapsis** | Normal spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:periapsis}` |
-| <img src="/assets/images/toothless/variants/kb-img-silver-phantom-phantom.png" width="80"> | **Phantom** | Rare spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:phantom}` |
-| <img src="/assets/images/toothless/variants/kb-img-silver-phantom-platinum-phantom.png" width="80"> | **Platinum Phantom** | Normal spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:platinum_...` |
-| <img src="/assets/images/toothless/variants/kb-img-silver-phantom-silver-phantom.png" width="80"> | **Silver Phantom** | Normal spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:rob_phant...` |
-| <img src="/assets/images/toothless/variants/kb-img-silver-phantom-starshard.png" width="80"> | **Starshard** | Rare spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:starshard}` |
-| <img src="/assets/images/toothless/variants/kb-img-silver-phantom-wave-phantom.png" width="80"> | **Wave Phantom** | Normal spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:wave_phan...` |
+### Albino
+
+<img src="/assets/images/toothless/variants/kb-img-silver-phantom-albino.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:albino_phantom}
+```
+
+### Apoapsis
+
+<img src="/assets/images/toothless/variants/kb-img-silver-phantom-apoapsis.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:apoapsis}
+```
+
+### Blackout
+
+<img src="/assets/images/toothless/variants/kb-img-silver-phantom-blackout.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:blackout}
+```
+
+### Blood Phantom
+
+<img src="/assets/images/toothless/variants/kb-img-silver-phantom-blood-phantom.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:blood_phantom}
+```
+
+### Forest Phantom
+
+<img src="/assets/images/toothless/variants/kb-img-silver-phantom-forest-phantom.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:forest_phantom}
+```
+
+### Galestorm
+
+<img src="/assets/images/toothless/variants/kb-img-silver-phantom-galestorm.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:galestorm}
+```
+
+### Green Dragon
+
+<img src="/assets/images/toothless/variants/kb-img-silver-phantom-green-dragon.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:green_dragon}
+```
+
+### Howl
+
+<img src="/assets/images/toothless/variants/kb-img-silver-phantom-howl.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:howl}
+```
+
+### Howl (B)
+
+<img src="/assets/images/toothless/variants/kb-img-silver-phantom-howl-b.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:howl_b}
+```
+
+### Legiana
+
+<img src="/assets/images/toothless/variants/kb-img-silver-phantom-legiana.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:legiana}
+```
+
+### Melanistic
+
+<img src="/assets/images/toothless/variants/kb-img-silver-phantom-melanistic.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:melanistic_phantom}
+```
+
+### Night Phantom
+
+<img src="/assets/images/toothless/variants/kb-img-silver-phantom-night-phantom.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:night_phantom}
+```
+
+*Credits: Designed to be reminiscent of a work of van Gogh's*
+
+### Pearlescent Poltergeist
+
+<img src="/assets/images/toothless/variants/kb-img-silver-phantom-pearlescent-poltergeist.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:pearlescent_poltergeist}
+```
+
+### Periapsis
+
+<img src="/assets/images/toothless/variants/kb-img-silver-phantom-periapsis.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:periapsis}
+```
+
+### Phantom
+
+<img src="/assets/images/toothless/variants/kb-img-silver-phantom-phantom.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:phantom}
+```
+
+### Platinum Phantom
+
+<img src="/assets/images/toothless/variants/kb-img-silver-phantom-platinum-phantom.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:platinum_phantom}
+```
+
+### Silver Phantom
+
+<img src="/assets/images/toothless/variants/kb-img-silver-phantom-silver-phantom.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:rob_phantom}
+```
+
+### Starshard
+
+<img src="/assets/images/toothless/variants/kb-img-silver-phantom-starshard.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:starshard}
+```
+
+### Wave Phantom
+
+<img src="/assets/images/toothless/variants/kb-img-silver-phantom-wave-phantom.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:wave_phantom}
+```
 
 ---
 

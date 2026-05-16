@@ -40,36 +40,301 @@ The Helstryke is a game hybrid. It is an Archipelago Additions dragon on theTrip
 
 ## Variants
 
-| | Variant | Obtainment | Summon Command |
-|---|---|---|---|
-| <img src="/assets/images/toothless/variants/kb-img-helstryke-albino.png" width="80"> | **Albino** | Rare spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:albino...` |
-| <img src="/assets/images/toothless/variants/kb-img-helstryke-amethyst.png" width="80"> | **Amethyst** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:amethy...` |
-| <img src="/assets/images/toothless/variants/kb-img-helstryke-berrysmooth.png" width="80"> | **Berrysmooth** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:berrys...` |
-| <img src="/assets/images/toothless/variants/kb-img-helstryke-buried.png" width="80"> | **Buried** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:buried}` |
-| <img src="/assets/images/toothless/variants/kb-img-helstryke-cactus.png" width="80"> | **Cactus** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:cactus}` |
-| <img src="/assets/images/toothless/variants/kb-img-helstryke-cherubim.png" width="80"> | **Cherubim** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:cherub...` |
-| <img src="/assets/images/toothless/variants/kb-img-helstryke-chorus.png" width="80"> | **Chorus** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:chorus}` |
-| <img src="/assets/images/toothless/variants/kb-img-helstryke-chorus-stryke.png" width="80"> | **Chorus Stryke** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:chorus...` |
-| <img src="/assets/images/toothless/variants/kb-img-helstryke-citrine.png" width="80"> | **Citrine** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:citrine}` |
-| <img src="/assets/images/toothless/variants/kb-img-helstryke-corruption.png" width="80"> | **Corruption** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:corrup...` |
-| <img src="/assets/images/toothless/variants/kb-img-helstryke-crimson-stryke.png" width="80"> | **Crimson Stryke** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:crimso...` |
-| <img src="/assets/images/toothless/variants/kb-img-helstryke-dark.png" width="80"> | **Dark** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:dark}` |
-| <img src="/assets/images/toothless/variants/kb-img-helstryke-desolation.png" width="80"> | **Desolation** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:desola...` |
-| <img src="/assets/images/toothless/variants/kb-img-helstryke-earth-stryke.png" width="80"> | **Earth Stryke** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:earth_...` |
-| <img src="/assets/images/toothless/variants/kb-img-helstryke-end.png" width="80"> | **End** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:end}` |
-| <img src="/assets/images/toothless/variants/kb-img-helstryke-eye.png" width="80"> | **Eye** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:eye}` |
-| <img src="/assets/images/toothless/variants/kb-img-helstryke-floral-stryke.png" width="80"> | **Floral Stryke** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:floral...` |
-| <img src="/assets/images/toothless/variants/kb-img-helstryke-forest-stryke.png" width="80"> | **Forest Stryke** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:forest...` |
-| <img src="/assets/images/toothless/variants/kb-img-helstryke-helstryke.png" width="80"> | **Helstryke** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:helstr...` |
-| <img src="/assets/images/toothless/variants/kb-img-helstryke-ice-stryke.png" width="80"> | **Ice Stryke** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:ice_st...` |
-| <img src="/assets/images/toothless/variants/kb-img-helstryke-lonelyheart.png" width="80"> | **Lonelyheart** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:lonely...` |
-| <img src="/assets/images/toothless/variants/kb-img-helstryke-melanistic.png" width="80"> | **Melanistic** | Rare spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:melani...` |
-| <img src="/assets/images/toothless/variants/kb-img-helstryke-mono.png" width="80"> | **Mono** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:mono}` |
-| <img src="/assets/images/toothless/variants/kb-img-helstryke-nochroma.png" width="80"> | **Nochroma** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:nochro...` |
-| <img src="/assets/images/toothless/variants/kb-img-helstryke-rose-quartz.png" width="80"> | **Rose Quartz** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:rose_q...` |
-| <img src="/assets/images/toothless/variants/kb-img-helstryke-singe-stryke.png" width="80"> | **Singe Stryke** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:singe_...` |
-| <img src="/assets/images/toothless/variants/kb-img-helstryke-spectre-stryke.png" width="80"> | **Spectre Stryke** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:spectr...` |
-| <img src="/assets/images/toothless/variants/kb-img-helstryke-toucan.png" width="80"> | **Toucan** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:toucan}` |
+### Albino
+
+<img src="/assets/images/toothless/variants/kb-img-helstryke-albino.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:albino_singe_stryke}
+```
+
+### Amethyst
+
+<img src="/assets/images/toothless/variants/kb-img-helstryke-amethyst.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:amethyst}
+```
+
+### Berrysmooth
+
+<img src="/assets/images/toothless/variants/kb-img-helstryke-berrysmooth.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:berrysmooth}
+```
+
+### Buried
+
+<img src="/assets/images/toothless/variants/kb-img-helstryke-buried.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:buried}
+```
+
+*Credits: Concept art by:sleepingbelphegorram in collab with MakoWyvern*
+
+### Cactus
+
+<img src="/assets/images/toothless/variants/kb-img-helstryke-cactus.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:cactus}
+```
+
+### Cherubim
+
+<img src="/assets/images/toothless/variants/kb-img-helstryke-cherubim.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:cherubim}
+```
+
+*Credits: Concept art by:sleepingbelphegorram in collab with MakoWyvern*
+
+### Chorus
+
+<img src="/assets/images/toothless/variants/kb-img-helstryke-chorus.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:chorus}
+```
+
+### Chorus Stryke
+
+<img src="/assets/images/toothless/variants/kb-img-helstryke-chorus-stryke.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:chorus_stryke}
+```
+
+### Citrine
+
+<img src="/assets/images/toothless/variants/kb-img-helstryke-citrine.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:citrine}
+```
+
+### Corruption
+
+<img src="/assets/images/toothless/variants/kb-img-helstryke-corruption.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:corruption}
+```
+
+*Credits: Concept art by:sleepingbelphegorram in collab with MakoWyvern*
+
+### Crimson Stryke
+
+<img src="/assets/images/toothless/variants/kb-img-helstryke-crimson-stryke.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:crimson_stryke}
+```
+
+### Dark
+
+<img src="/assets/images/toothless/variants/kb-img-helstryke-dark.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:dark}
+```
+
+*Credits: Concept art by:sleepingbelphegorram in collab with MakoWyvern*
+
+### Desolation
+
+<img src="/assets/images/toothless/variants/kb-img-helstryke-desolation.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:desolation}
+```
+
+*Credits: Concept art by:sleepingbelphegorram in collab with MakoWyvern*
+
+### Earth Stryke
+
+<img src="/assets/images/toothless/variants/kb-img-helstryke-earth-stryke.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:earth_stryke}
+```
+
+### End
+
+<img src="/assets/images/toothless/variants/kb-img-helstryke-end.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:end}
+```
+
+*Credits: Concept art by:sleepingbelphegorram in collab with MakoWyvern*
+
+### Eye
+
+<img src="/assets/images/toothless/variants/kb-img-helstryke-eye.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:eye}
+```
+
+*Credits: Concept art by:sleepingbelphegorram in collab with MakoWyvern*
+
+### Floral Stryke
+
+<img src="/assets/images/toothless/variants/kb-img-helstryke-floral-stryke.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:floral_stryke}
+```
+
+### Forest Stryke
+
+<img src="/assets/images/toothless/variants/kb-img-helstryke-forest-stryke.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:forest_stryke}
+```
+
+### Helstryke
+
+<img src="/assets/images/toothless/variants/kb-img-helstryke-helstryke.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:helstryke}
+```
+
+### Ice Stryke
+
+<img src="/assets/images/toothless/variants/kb-img-helstryke-ice-stryke.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:ice_stryke}
+```
+
+### Lonelyheart
+
+<img src="/assets/images/toothless/variants/kb-img-helstryke-lonelyheart.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:lonelyheart}
+```
+
+*Credits: Concept art by:sleepingbelphegorram in collab with MakoWyvern*
+
+### Melanistic
+
+<img src="/assets/images/toothless/variants/kb-img-helstryke-melanistic.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:melanistic_singe_stryke}
+```
+
+### Mono
+
+<img src="/assets/images/toothless/variants/kb-img-helstryke-mono.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:mono}
+```
+
+### Nochroma
+
+<img src="/assets/images/toothless/variants/kb-img-helstryke-nochroma.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:nochroma}
+```
+
+### Rose Quartz
+
+<img src="/assets/images/toothless/variants/kb-img-helstryke-rose-quartz.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:rose_quartz}
+```
+
+### Singe Stryke
+
+<img src="/assets/images/toothless/variants/kb-img-helstryke-singe-stryke.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:singe_stryke}
+```
+
+### Spectre Stryke
+
+<img src="/assets/images/toothless/variants/kb-img-helstryke-spectre-stryke.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:spectre_stryke}
+```
+
+### Toucan
+
+<img src="/assets/images/toothless/variants/kb-img-helstryke-toucan.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:toucan}
+```
 
 ---
 

@@ -44,37 +44,335 @@ Night vision potion effect active
 
 ## Variants
 
-| | Variant | Obtainment | Summon Command |
-|---|---|---|---|
-| <img src="/assets/images/toothless/variants/kb-img-night-fury-albino.png" width="80"> | **Albino** | Rare spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:albino_ni...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-fury-albino-alpha.png" width="80"> | **Albino alpha** | Extremely Rare spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:albino_al...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-fury-albino-tail.png" width="80"> | **Albino tail** | Extremely Rare spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:albino_ta...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-fury-arsian.png" width="80"> | **Arsian** | Normal spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:arsian}` |
-| <img src="/assets/images/toothless/variants/kb-img-night-fury-arsian-alpha.png" width="80"> | **Arsian alpha** | Rare spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:arsian_al...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-fury-arsian-tail.png" width="80"> | **Arsian tail** | Rare spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:arsian_ta...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-fury-karma.png" width="80"> | **Karma** | Normal spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:karma}` |
-| <img src="/assets/images/toothless/variants/kb-img-night-fury-karma-alpha.png" width="80"> | **Karma alpha** | Rare spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:karma_alp...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-fury-karma-tail.png" width="80"> | **Karma tail** | Rare spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:karma_tail}` |
-| <img src="/assets/images/toothless/variants/kb-img-night-fury-lumora.png" width="80"> | **Lumora** | Bifrost Temple only | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:lumora}` |
-| <img src="/assets/images/toothless/variants/kb-img-night-fury-melanistic.png" width="80"> | **Melanistic** | Rare spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:melanisti...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-fury-melanistic-alpha.png" width="80"> | **Melanistic alpha** | Extremely Rare spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:melanisti...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-fury-melanistic-tail.png" width="80"> | **Melanistic tail** | Extremely Rare spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:melanisti...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-fury-night-fury.png" width="80"> | **Night Fury** | Normal spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:night_fury}` |
-| <img src="/assets/images/toothless/variants/kb-img-night-fury-night-fury-alpha.png" width="80"> | **Night Fury alpha** | Rare spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:night_fur...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-fury-night-fury-tail.png" width="80"> | **Night Fury tail** | Rare spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:night_fur...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-fury-pink.png" width="80"> | **Pink** | Rare spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:pink}` |
-| <img src="/assets/images/toothless/variants/kb-img-night-fury-sentinel.png" width="80"> | **Sentinel** | Normal spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:sentinel}` |
-| <img src="/assets/images/toothless/variants/kb-img-night-fury-sentinel-alpha.png" width="80"> | **Sentinel alpha** | Rare spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:sentinel_...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-fury-sentinel-tail.png" width="80"> | **Sentinel tail** | Rare spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:sentinel_...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-fury-starchaser.png" width="80"> | **Starchaser** | Rare spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:starchaser}` |
-| <img src="/assets/images/toothless/variants/kb-img-night-fury-starlit.png" width="80"> | **Starlit** | Bifrost Temple only | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:starlit}` |
-| <img src="/assets/images/toothless/variants/kb-img-night-fury-svartr.png" width="80"> | **Svartr** | Normal spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:svartr}` |
-| <img src="/assets/images/toothless/variants/kb-img-night-fury-svartr-alpha.png" width="80"> | **Svartr alpha** | Rare spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:svartr_al...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-fury-svartr-tail.png" width="80"> | **Svartr tail** | Rare spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:svartr_ta...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-fury-toothless.png" width="80"> | **Toothless** | Command only | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:toothless}` |
-| <img src="/assets/images/toothless/variants/kb-img-night-fury-toothless-alpha.png" width="80"> | **Toothless alpha** | Command only | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:toothless...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-fury-venus.png" width="80"> | **Venus** | Rare spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:venus}` |
-| <img src="/assets/images/toothless/variants/kb-img-night-fury-xiao.png" width="80"> | **Xiao** | Rare spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:xiao}` |
+### Albino
+
+<img src="/assets/images/toothless/variants/kb-img-night-fury-albino.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:albino_night_fury}
+```
+
+*Credits: Base IoB variant*
+
+### Albino alpha
+
+<img src="/assets/images/toothless/variants/kb-img-night-fury-albino-alpha.png" width="120">
+
+**Obtainment:** Extremely Rare spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:albino_alpha_night_fury}
+```
+
+*Credits: Near base IoB variant*
+
+### Albino tail
+
+<img src="/assets/images/toothless/variants/kb-img-night-fury-albino-tail.png" width="120">
+
+**Obtainment:** Extremely Rare spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:albino_tail_night_fury}
+```
+
+*Credits: Near base IoB variant*
+
+### Arsian
+
+<img src="/assets/images/toothless/variants/kb-img-night-fury-arsian.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:arsian}
+```
+
+*Credits: Base IoB variant*
+
+### Arsian alpha
+
+<img src="/assets/images/toothless/variants/kb-img-night-fury-arsian-alpha.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:arsian_alpha}
+```
+
+*Credits: Near base IoB variant*
+
+### Arsian tail
+
+<img src="/assets/images/toothless/variants/kb-img-night-fury-arsian-tail.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:arsian_tail}
+```
+
+*Credits: Near base IoB variant*
+
+### Karma
+
+<img src="/assets/images/toothless/variants/kb-img-night-fury-karma.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:karma}
+```
+
+*Credits: Base IoB variant*
+
+### Karma alpha
+
+<img src="/assets/images/toothless/variants/kb-img-night-fury-karma-alpha.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:karma_alpha}
+```
+
+*Credits: Near base IoB variant*
+
+### Karma tail
+
+<img src="/assets/images/toothless/variants/kb-img-night-fury-karma-tail.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:karma_tail}
+```
+
+*Credits: Near base IoB variant*
+
+### Lumora
+
+<img src="/assets/images/toothless/variants/kb-img-night-fury-lumora.png" width="120">
+
+**Obtainment:** Bifrost Temple only
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:lumora}
+```
+
+### Melanistic
+
+<img src="/assets/images/toothless/variants/kb-img-night-fury-melanistic.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:melanistic_night_fury}
+```
+
+### Melanistic alpha
+
+<img src="/assets/images/toothless/variants/kb-img-night-fury-melanistic-alpha.png" width="120">
+
+**Obtainment:** Extremely Rare spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:melanistic_alpha_night_fury}
+```
+
+### Melanistic tail
+
+<img src="/assets/images/toothless/variants/kb-img-night-fury-melanistic-tail.png" width="120">
+
+**Obtainment:** Extremely Rare spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:melanistic_tail_night_fury}
+```
+
+### Night Fury
+
+<img src="/assets/images/toothless/variants/kb-img-night-fury-night-fury.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:night_fury}
+```
+
+*Credits: Base IoB variant*
+
+### Night Fury alpha
+
+<img src="/assets/images/toothless/variants/kb-img-night-fury-night-fury-alpha.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:night_fury_alpha}
+```
+
+*Credits: Near base IoB variant*
+
+### Night Fury tail
+
+<img src="/assets/images/toothless/variants/kb-img-night-fury-night-fury-tail.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:night_fury_tail}
+```
+
+*Credits: Near base IoB variant*
+
+### Pink
+
+<img src="/assets/images/toothless/variants/kb-img-night-fury-pink.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:pink}
+```
+
+### Sentinel
+
+<img src="/assets/images/toothless/variants/kb-img-night-fury-sentinel.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:sentinel}
+```
+
+*Credits: Base IoB variant*
+
+### Sentinel alpha
+
+<img src="/assets/images/toothless/variants/kb-img-night-fury-sentinel-alpha.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:sentinel_alpha}
+```
+
+*Credits: Near base IoB variant*
+
+### Sentinel tail
+
+<img src="/assets/images/toothless/variants/kb-img-night-fury-sentinel-tail.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:sentinel_tail}
+```
+
+*Credits: Near base IoB variant*
+
+### Starchaser
+
+<img src="/assets/images/toothless/variants/kb-img-night-fury-starchaser.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:starchaser}
+```
+
+### Starlit
+
+<img src="/assets/images/toothless/variants/kb-img-night-fury-starlit.png" width="120">
+
+**Obtainment:** Bifrost Temple only
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:starlit}
+```
+
+### Svartr
+
+<img src="/assets/images/toothless/variants/kb-img-night-fury-svartr.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:svartr}
+```
+
+*Credits: Base IoB variant*
+
+### Svartr alpha
+
+<img src="/assets/images/toothless/variants/kb-img-night-fury-svartr-alpha.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:svartr_alpha}
+```
+
+*Credits: Near base IoB variant*
+
+### Svartr tail
+
+<img src="/assets/images/toothless/variants/kb-img-night-fury-svartr-tail.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:svartr_tail}
+```
+
+*Credits: Near base IoB variant*
+
+### Toothless
+
+<img src="/assets/images/toothless/variants/kb-img-night-fury-toothless.png" width="120">
+
+**Obtainment:** Command only
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:toothless}
+```
+
+*Credits: Base IoB variant*
+
+### Toothless alpha
+
+<img src="/assets/images/toothless/variants/kb-img-night-fury-toothless-alpha.png" width="120">
+
+**Obtainment:** Command only
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:toothless_alpha}
+```
+
+*Credits: Near base IoB variant*
+
+### Venus
+
+<img src="/assets/images/toothless/variants/kb-img-night-fury-venus.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:venus}
+```
+
+### Xiao
+
+<img src="/assets/images/toothless/variants/kb-img-night-fury-xiao.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:xiao}
+```
 
 ---
 

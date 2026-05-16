@@ -42,35 +42,329 @@ Fire resistance potion effect active
 
 ## Variants
 
-| | Variant | Obtainment | Summon Command |
-|---|---|---|---|
-| <img src="/assets/images/toothless/variants/kb-img-hobblegrunt-albinogrunt.png" width="80"> | **Albinogrunt** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-hobblegrunt-blind-a.png" width="80"> | **Blind (A)** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-hobblegrunt-blind-b.png" width="80"> | **Blind (B)** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-hobblegrunt-cheesegrunt.png" width="80"> | **Cheesegrunt** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-hobblegrunt-chromo.png" width="80"> | **Chromo** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-hobblegrunt-cookie-monster.png" width="80"> | **Cookie Monster** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-hobblegrunt-crimson-gruntgutter.png" width="80"> | **Crimson Gruntgutter** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-hobblegrunt-crooked-bellow.png" width="80"> | **Crooked Bellow** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-hobblegrunt-dawn.png" width="80"> | **Dawn** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-hobblegrunt-demongrunt.png" width="80"> | **Demongrunt** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-hobblegrunt-doomsday-blue.png" width="80"> | **Doomsday Blue** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-hobblegrunt-eclipse.png" width="80"> | **Eclipse** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-hobblegrunt-galaxygrunt.png" width="80"> | **Galaxygrunt** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-hobblegrunt-grunty-zippleback.png" width="80"> | **Grunty Zippleback** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-hobblegrunt-hobblegrunt.png" width="80"> | **Hobblegrunt** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-hobblegrunt-lemongrunt.png" width="80"> | **Lemongrunt** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-hobblegrunt-leucistic.png" width="80"> | **Leucistic** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-hobblegrunt-light-grunter.png" width="80"> | **Light Grunter** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-hobblegrunt-luminigrunt.png" width="80"> | **Luminigrunt** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-hobblegrunt-melanistic.png" width="80"> | **Melanistic** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-hobblegrunt-monstrous-grunter.png" width="80"> | **Monstrous Grunter** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-hobblegrunt-night-grunter.png" width="80"> | **Night Grunter** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-hobblegrunt-seagrunt.png" width="80"> | **Seagrunt** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-hobblegrunt-slavicgrunt.png" width="80"> | **Slavicgrunt** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-hobblegrunt-snowgrunt.png" width="80"> | **Snowgrunt** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-hobblegrunt-stardust.png" width="80"> | **Stardust** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-hobblegrunt-sunrise.png" width="80"> | **Sunrise** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
+### Albinogrunt
+
+<img src="/assets/images/toothless/variants/kb-img-hobblegrunt-albinogrunt.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:albinogrunt}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Blind (A)
+
+<img src="/assets/images/toothless/variants/kb-img-hobblegrunt-blind-a.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:blind}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Blind (B)
+
+<img src="/assets/images/toothless/variants/kb-img-hobblegrunt-blind-b.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:blind2}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Cheesegrunt
+
+<img src="/assets/images/toothless/variants/kb-img-hobblegrunt-cheesegrunt.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:cheesegrunt}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Chromo
+
+<img src="/assets/images/toothless/variants/kb-img-hobblegrunt-chromo.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:chromo}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Cookie Monster
+
+<img src="/assets/images/toothless/variants/kb-img-hobblegrunt-cookie-monster.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:cookie_monster}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Crimson Gruntgutter
+
+<img src="/assets/images/toothless/variants/kb-img-hobblegrunt-crimson-gruntgutter.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:crimson_gruntgutter}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Crooked Bellow
+
+<img src="/assets/images/toothless/variants/kb-img-hobblegrunt-crooked-bellow.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:crookedbellow}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Dawn
+
+<img src="/assets/images/toothless/variants/kb-img-hobblegrunt-dawn.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:dawn}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Demongrunt
+
+<img src="/assets/images/toothless/variants/kb-img-hobblegrunt-demongrunt.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:demongrunt}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Doomsday Blue
+
+<img src="/assets/images/toothless/variants/kb-img-hobblegrunt-doomsday-blue.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:doomsday_blue}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Eclipse
+
+<img src="/assets/images/toothless/variants/kb-img-hobblegrunt-eclipse.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:eclipse}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Galaxygrunt
+
+<img src="/assets/images/toothless/variants/kb-img-hobblegrunt-galaxygrunt.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:galaxygrunt}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Grunty Zippleback
+
+<img src="/assets/images/toothless/variants/kb-img-hobblegrunt-grunty-zippleback.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:grunty_zippleback}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Hobblegrunt
+
+<img src="/assets/images/toothless/variants/kb-img-hobblegrunt-hobblegrunt.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:hobblegrunt}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Lemongrunt
+
+<img src="/assets/images/toothless/variants/kb-img-hobblegrunt-lemongrunt.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:lemongrunt}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Leucistic
+
+<img src="/assets/images/toothless/variants/kb-img-hobblegrunt-leucistic.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:leucistgrunt}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Light Grunter
+
+<img src="/assets/images/toothless/variants/kb-img-hobblegrunt-light-grunter.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:light_grunter}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Luminigrunt
+
+<img src="/assets/images/toothless/variants/kb-img-hobblegrunt-luminigrunt.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:luminigrunt}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Melanistic
+
+<img src="/assets/images/toothless/variants/kb-img-hobblegrunt-melanistic.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:melangrunt}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Monstrous Grunter
+
+<img src="/assets/images/toothless/variants/kb-img-hobblegrunt-monstrous-grunter.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:monstrous_grunter}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Night Grunter
+
+<img src="/assets/images/toothless/variants/kb-img-hobblegrunt-night-grunter.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:night_grunter}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Seagrunt
+
+<img src="/assets/images/toothless/variants/kb-img-hobblegrunt-seagrunt.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:seagrunt}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Slavicgrunt
+
+<img src="/assets/images/toothless/variants/kb-img-hobblegrunt-slavicgrunt.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:slavicgrunt}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Snowgrunt
+
+<img src="/assets/images/toothless/variants/kb-img-hobblegrunt-snowgrunt.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:snowgrunt}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Stardust
+
+<img src="/assets/images/toothless/variants/kb-img-hobblegrunt-stardust.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:stardust}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Sunrise
+
+<img src="/assets/images/toothless/variants/kb-img-hobblegrunt-sunrise.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:sunrise}
+```
+
+*Credits: Stego's Dragons variant*
 
 ---
 

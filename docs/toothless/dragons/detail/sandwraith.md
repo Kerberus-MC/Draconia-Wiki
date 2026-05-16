@@ -42,54 +42,471 @@ No tools or weapons (except Dragon Blades & specified Viking Artifacts ) held
 
 ## Variants
 
-| | Variant | Obtainment | Summon Command |
-|---|---|---|---|
-| <img src="/assets/images/toothless/variants/kb-img-sandwraith-acacia.png" width="80"> | **Acacia** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:acacia}` |
-| <img src="/assets/images/toothless/variants/kb-img-sandwraith-alberto.png" width="80"> | **Alberto** | Rare spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:alberto}` |
-| <img src="/assets/images/toothless/variants/kb-img-sandwraith-albino.png" width="80"> | **Albino** | Rare spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:albinosw}` |
-| <img src="/assets/images/toothless/variants/kb-img-sandwraith-amber.png" width="80"> | **Amber** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:amber}` |
-| <img src="/assets/images/toothless/variants/kb-img-sandwraith-arrowback.png" width="80"> | **Arrowback** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:arrowback}` |
-| <img src="/assets/images/toothless/variants/kb-img-sandwraith-base.png" width="80"> | **Base** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:base}` |
-| <img src="/assets/images/toothless/variants/kb-img-sandwraith-birch.png" width="80"> | **Birch** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:birch}` |
-| <img src="/assets/images/toothless/variants/kb-img-sandwraith-brownie.png" width="80"> | **Brownie** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:brownie}` |
-| <img src="/assets/images/toothless/variants/kb-img-sandwraith-butterflywing.png" width="80"> | **Butterflywing** | Rare spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:butterfly...` |
-| <img src="/assets/images/toothless/variants/kb-img-sandwraith-candysunset.png" width="80"> | **Candysunset** | Bifrost Temple only | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:candysuns...` |
-| <img src="/assets/images/toothless/variants/kb-img-sandwraith-chroma.png" width="80"> | **Chroma** | Bifrost Temple only | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:chroma}` |
-| <img src="/assets/images/toothless/variants/kb-img-sandwraith-cosmic.png" width="80"> | **Cosmic** | Rare spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:cosmic}` |
-| <img src="/assets/images/toothless/variants/kb-img-sandwraith-coral.png" width="80"> | **Coral** | Rare spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:coral}` |
-| <img src="/assets/images/toothless/variants/kb-img-sandwraith-cosmic-brownie.png" width="80"> | **Cosmic Brownie** | Rare spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:cosmic_br...` |
-| <img src="/assets/images/toothless/variants/kb-img-sandwraith-cynder.png" width="80"> | **Cynder** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:cynder}` |
-| <img src="/assets/images/toothless/variants/kb-img-sandwraith-dark-oak.png" width="80"> | **Dark Oak** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:dark_oak}` |
-| <img src="/assets/images/toothless/variants/kb-img-sandwraith-desert-brunch.png" width="80"> | **Desert Brunch** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:desertbru...` |
-| <img src="/assets/images/toothless/variants/kb-img-sandwraith-desert-hare.png" width="80"> | **Desert Hare** | Rare spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:deserthare}` |
-| <img src="/assets/images/toothless/variants/kb-img-sandwraith-desert-wraith.png" width="80"> | **Desert Wraith** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:desert}` |
-| <img src="/assets/images/toothless/variants/kb-img-sandwraith-druidos.png" width="80"> | **Druidos** | Rare spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:druidos}` |
-| <img src="/assets/images/toothless/variants/kb-img-sandwraith-dune.png" width="80"> | **Dune** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:dune}` |
-| <img src="/assets/images/toothless/variants/kb-img-sandwraith-forest-fox.png" width="80"> | **Forest Fox** | Rare spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:forestfox}` |
-| <img src="/assets/images/toothless/variants/kb-img-sandwraith-haili.png" width="80"> | **Haili** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:haili}` |
-| <img src="/assets/images/toothless/variants/kb-img-sandwraith-jungle.png" width="80"> | **Jungle** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:jungle}` |
-| <img src="/assets/images/toothless/variants/kb-img-sandwraith-jungle-cat.png" width="80"> | **Jungle Cat** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:jungle_cat}` |
-| <img src="/assets/images/toothless/variants/kb-img-sandwraith-lemondrop.png" width="80"> | **Lemondrop** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:lemondrop}` |
-| <img src="/assets/images/toothless/variants/kb-img-sandwraith-luca.png" width="80"> | **Luca** | Rare spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:luca}` |
-| <img src="/assets/images/toothless/variants/kb-img-sandwraith-melanistic.png" width="80"> | **Melanistic** | Rare spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:melanisti...` |
-| <img src="/assets/images/toothless/variants/kb-img-sandwraith-mesa.png" width="80"> | **Mesa** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:mesa}` |
-| <img src="/assets/images/toothless/variants/kb-img-sandwraith-morning-chai.png" width="80"> | **Morning Chai** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:morning_c...` |
-| <img src="/assets/images/toothless/variants/kb-img-sandwraith-mossy.png" width="80"> | **Mossy** | Rare spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:mossy}` |
-| <img src="/assets/images/toothless/variants/kb-img-sandwraith-mudwraith.png" width="80"> | **Mudwraith** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:mudwraith}` |
-| <img src="/assets/images/toothless/variants/kb-img-sandwraith-nightcoon.png" width="80"> | **Nightcoon** | Rare spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:nightcoon}` |
-| <img src="/assets/images/toothless/variants/kb-img-sandwraith-oak.png" width="80"> | **Oak** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:oak}` |
-| <img src="/assets/images/toothless/variants/kb-img-sandwraith-pie.png" width="80"> | **Pie** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:pie}` |
-| <img src="/assets/images/toothless/variants/kb-img-sandwraith-red-sandstone.png" width="80"> | **Red Sandstone** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:red_sands...` |
-| <img src="/assets/images/toothless/variants/kb-img-sandwraith-redshot.png" width="80"> | **Redshot** | Rare spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:redshot}` |
-| <img src="/assets/images/toothless/variants/kb-img-sandwraith-reef.png" width="80"> | **Reef** | Bifrost Temple only | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:reef}` |
-| <img src="/assets/images/toothless/variants/kb-img-sandwraith-rhodeia-of-loch.png" width="80"> | **Rhodeia of Loch** | Rare spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:rhodeia}` |
-| <img src="/assets/images/toothless/variants/kb-img-sandwraith-sandstone.png" width="80"> | **Sandstone** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:sandstone}` |
-| <img src="/assets/images/toothless/variants/kb-img-sandwraith-sandwraith.png" width="80"> | **Sandwraith** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:sandwraith}` |
-| <img src="/assets/images/toothless/variants/kb-img-sandwraith-seafoam.png" width="80"> | **Seafoam** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:seafoam}` |
-| <img src="/assets/images/toothless/variants/kb-img-sandwraith-snad.png" width="80"> | **Snad** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:snad}` |
-| <img src="/assets/images/toothless/variants/kb-img-sandwraith-spruce.png" width="80"> | **Spruce** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:spruce}` |
-| <img src="/assets/images/toothless/variants/kb-img-sandwraith-tsunami.png" width="80"> | **Tsunami** | Rare spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:tsunami}` |
-| <img src="/assets/images/toothless/variants/kb-img-sandwraith-tundrafrost.png" width="80"> | **Tundrafrost** | Rare spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:tundrafro...` |
+### Acacia
+
+<img src="/assets/images/toothless/variants/kb-img-sandwraith-acacia.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:acacia}
+```
+
+### Alberto
+
+<img src="/assets/images/toothless/variants/kb-img-sandwraith-alberto.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:alberto}
+```
+
+### Albino
+
+<img src="/assets/images/toothless/variants/kb-img-sandwraith-albino.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:albinosw}
+```
+
+### Amber
+
+<img src="/assets/images/toothless/variants/kb-img-sandwraith-amber.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:amber}
+```
+
+*Credits: This variant was designed by AmiEpyk.*
+
+### Arrowback
+
+<img src="/assets/images/toothless/variants/kb-img-sandwraith-arrowback.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:arrowback}
+```
+
+*Credits: This variant was designed by Suki.*
+
+### Base
+
+<img src="/assets/images/toothless/variants/kb-img-sandwraith-base.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:base}
+```
+
+### Birch
+
+<img src="/assets/images/toothless/variants/kb-img-sandwraith-birch.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:birch}
+```
+
+### Brownie
+
+<img src="/assets/images/toothless/variants/kb-img-sandwraith-brownie.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:brownie}
+```
+
+### Butterflywing
+
+<img src="/assets/images/toothless/variants/kb-img-sandwraith-butterflywing.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:butterflywing}
+```
+
+### Candysunset
+
+<img src="/assets/images/toothless/variants/kb-img-sandwraith-candysunset.png" width="120">
+
+**Obtainment:** Bifrost Temple only
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:candysunset}
+```
+
+### Chroma
+
+<img src="/assets/images/toothless/variants/kb-img-sandwraith-chroma.png" width="120">
+
+**Obtainment:** Bifrost Temple only
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:chroma}
+```
+
+### Cosmic
+
+<img src="/assets/images/toothless/variants/kb-img-sandwraith-cosmic.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:cosmic}
+```
+
+### Coral
+
+<img src="/assets/images/toothless/variants/kb-img-sandwraith-coral.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:coral}
+```
+
+### Cosmic Brownie
+
+<img src="/assets/images/toothless/variants/kb-img-sandwraith-cosmic-brownie.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:cosmic_brownie}
+```
+
+### Cynder
+
+<img src="/assets/images/toothless/variants/kb-img-sandwraith-cynder.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:cynder}
+```
+
+*Credits: This variant was designed by AmiEpyk.*
+
+### Dark Oak
+
+<img src="/assets/images/toothless/variants/kb-img-sandwraith-dark-oak.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:dark_oak}
+```
+
+### Desert Brunch
+
+<img src="/assets/images/toothless/variants/kb-img-sandwraith-desert-brunch.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:desertbrunch}
+```
+
+### Desert Hare
+
+<img src="/assets/images/toothless/variants/kb-img-sandwraith-desert-hare.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:deserthare}
+```
+
+### Desert Wraith
+
+<img src="/assets/images/toothless/variants/kb-img-sandwraith-desert-wraith.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:desert}
+```
+
+### Druidos
+
+<img src="/assets/images/toothless/variants/kb-img-sandwraith-druidos.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:druidos}
+```
+
+### Dune
+
+<img src="/assets/images/toothless/variants/kb-img-sandwraith-dune.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:dune}
+```
+
+### Forest Fox
+
+<img src="/assets/images/toothless/variants/kb-img-sandwraith-forest-fox.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:forestfox}
+```
+
+### Haili
+
+<img src="/assets/images/toothless/variants/kb-img-sandwraith-haili.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:haili}
+```
+
+### Jungle
+
+<img src="/assets/images/toothless/variants/kb-img-sandwraith-jungle.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:jungle}
+```
+
+### Jungle Cat
+
+<img src="/assets/images/toothless/variants/kb-img-sandwraith-jungle-cat.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:jungle_cat}
+```
+
+### Lemondrop
+
+<img src="/assets/images/toothless/variants/kb-img-sandwraith-lemondrop.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:lemondrop}
+```
+
+### Luca
+
+<img src="/assets/images/toothless/variants/kb-img-sandwraith-luca.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:luca}
+```
+
+### Melanistic
+
+<img src="/assets/images/toothless/variants/kb-img-sandwraith-melanistic.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:melanistic_sw}
+```
+
+### Mesa
+
+<img src="/assets/images/toothless/variants/kb-img-sandwraith-mesa.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:mesa}
+```
+
+### Morning Chai
+
+<img src="/assets/images/toothless/variants/kb-img-sandwraith-morning-chai.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:morning_chai}
+```
+
+### Mossy
+
+<img src="/assets/images/toothless/variants/kb-img-sandwraith-mossy.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:mossy}
+```
+
+### Mudwraith
+
+<img src="/assets/images/toothless/variants/kb-img-sandwraith-mudwraith.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:mudwraith}
+```
+
+### Nightcoon
+
+<img src="/assets/images/toothless/variants/kb-img-sandwraith-nightcoon.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:nightcoon}
+```
+
+### Oak
+
+<img src="/assets/images/toothless/variants/kb-img-sandwraith-oak.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:oak}
+```
+
+### Pie
+
+<img src="/assets/images/toothless/variants/kb-img-sandwraith-pie.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:pie}
+```
+
+### Red Sandstone
+
+<img src="/assets/images/toothless/variants/kb-img-sandwraith-red-sandstone.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:red_sandstone}
+```
+
+### Redshot
+
+<img src="/assets/images/toothless/variants/kb-img-sandwraith-redshot.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:redshot}
+```
+
+### Reef
+
+<img src="/assets/images/toothless/variants/kb-img-sandwraith-reef.png" width="120">
+
+**Obtainment:** Bifrost Temple only
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:reef}
+```
+
+### Rhodeia of Loch
+
+<img src="/assets/images/toothless/variants/kb-img-sandwraith-rhodeia-of-loch.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:rhodeia}
+```
+
+### Sandstone
+
+<img src="/assets/images/toothless/variants/kb-img-sandwraith-sandstone.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:sandstone}
+```
+
+### Sandwraith
+
+<img src="/assets/images/toothless/variants/kb-img-sandwraith-sandwraith.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:sandwraith}
+```
+
+### Seafoam
+
+<img src="/assets/images/toothless/variants/kb-img-sandwraith-seafoam.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:seafoam}
+```
+
+### Snad
+
+<img src="/assets/images/toothless/variants/kb-img-sandwraith-snad.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:snad}
+```
+
+### Spruce
+
+<img src="/assets/images/toothless/variants/kb-img-sandwraith-spruce.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:spruce}
+```
+
+### Tsunami
+
+<img src="/assets/images/toothless/variants/kb-img-sandwraith-tsunami.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:tsunami}
+```
+
+### Tundrafrost
+
+<img src="/assets/images/toothless/variants/kb-img-sandwraith-tundrafrost.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:tundrafrost}
+```
 
 ---
 

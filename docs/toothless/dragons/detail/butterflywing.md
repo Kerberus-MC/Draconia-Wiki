@@ -40,27 +40,195 @@ The Butterflywing is a dragon from the China-exclusive game. It is an Archipelag
 
 ## Variants
 
-| | Variant | Obtainment | Summon Command |
-|---|---|---|---|
-| <img src="/assets/images/toothless/variants/kb-img-butterflywing-albino.png" width="80"> | **Albino** | Rare spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:albi...` |
-| <img src="/assets/images/toothless/variants/kb-img-butterflywing-atlaswing.png" width="80"> | **Atlaswing** | Normal spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:atla...` |
-| <img src="/assets/images/toothless/variants/kb-img-butterflywing-browntailwing.png" width="80"> | **Browntailwing** | Normal spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:brow...` |
-| <img src="/assets/images/toothless/variants/kb-img-butterflywing-butterfly-base.png" width="80"> | **Butterfly Base** | Normal spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:butt...` |
-| <img src="/assets/images/toothless/variants/kb-img-butterflywing-butterflywing.png" width="80"> | **Butterflywing** | Normal spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:butt...` |
-| <img src="/assets/images/toothless/variants/kb-img-butterflywing-camberwell.png" width="80"> | **Camberwell** | Normal spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:camb...` |
-| <img src="/assets/images/toothless/variants/kb-img-butterflywing-crescentwing.png" width="80"> | **Crescentwing** | Normal spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:cres...` |
-| <img src="/assets/images/toothless/variants/kb-img-butterflywing-emperorwing.png" width="80"> | **Emperorwing** | Normal spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:empe...` |
-| <img src="/assets/images/toothless/variants/kb-img-butterflywing-harmtune.png" width="80"> | **Harmtune** | Rare spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:harm...` |
-| <img src="/assets/images/toothless/variants/kb-img-butterflywing-lunarwing.png" width="80"> | **Lunarwing** | Normal spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:luna...` |
-| <img src="/assets/images/toothless/variants/kb-img-butterflywing-maplewing.png" width="80"> | **Maplewing** | Normal spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:mapl...` |
-| <img src="/assets/images/toothless/variants/kb-img-butterflywing-melanistic.png" width="80"> | **Melanistic** | Rare spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:mela...` |
-| <img src="/assets/images/toothless/variants/kb-img-butterflywing-monarchwing.png" width="80"> | **Monarchwing** | Normal spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:mona...` |
-| <img src="/assets/images/toothless/variants/kb-img-butterflywing-peacock.png" width="80"> | **Peacock** | Normal spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:peac...` |
-| <img src="/assets/images/toothless/variants/kb-img-butterflywing-postwing.png" width="80"> | **Postwing** | Normal spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:post...` |
-| <img src="/assets/images/toothless/variants/kb-img-butterflywing-purple-edged-copper.png" width="80"> | **Purple-Edged Copper** | Normal spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:purp...` |
-| <img src="/assets/images/toothless/variants/kb-img-butterflywing-radiance.png" width="80"> | **Radiance** | Rare spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:radi...` |
-| <img src="/assets/images/toothless/variants/kb-img-butterflywing-red-admiral.png" width="80"> | **Red Admiral** | Normal spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:red_...` |
-| <img src="/assets/images/toothless/variants/kb-img-butterflywing-swallowtail.png" width="80"> | **Swallowtail** | Normal spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:swal...` |
+### Albino
+
+<img src="/assets/images/toothless/variants/kb-img-butterflywing-albino.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:albinofly}
+```
+
+### Atlaswing
+
+<img src="/assets/images/toothless/variants/kb-img-butterflywing-atlaswing.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:atlaswing}
+```
+
+### Browntailwing
+
+<img src="/assets/images/toothless/variants/kb-img-butterflywing-browntailwing.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:browntailwing}
+```
+
+### Butterfly Base
+
+<img src="/assets/images/toothless/variants/kb-img-butterflywing-butterfly-base.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:butterfly_base}
+```
+
+### Butterflywing
+
+<img src="/assets/images/toothless/variants/kb-img-butterflywing-butterflywing.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:butterflywing}
+```
+
+### Camberwell
+
+<img src="/assets/images/toothless/variants/kb-img-butterflywing-camberwell.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:camberwell}
+```
+
+### Crescentwing
+
+<img src="/assets/images/toothless/variants/kb-img-butterflywing-crescentwing.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:crescentwing}
+```
+
+### Emperorwing
+
+<img src="/assets/images/toothless/variants/kb-img-butterflywing-emperorwing.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:emperorwing}
+```
+
+### Harmtune
+
+<img src="/assets/images/toothless/variants/kb-img-butterflywing-harmtune.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:harmtune}
+```
+
+### Lunarwing
+
+<img src="/assets/images/toothless/variants/kb-img-butterflywing-lunarwing.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:lunarwing}
+```
+
+### Maplewing
+
+<img src="/assets/images/toothless/variants/kb-img-butterflywing-maplewing.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:maplewing}
+```
+
+### Melanistic
+
+<img src="/assets/images/toothless/variants/kb-img-butterflywing-melanistic.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:melanfly}
+```
+
+### Monarchwing
+
+<img src="/assets/images/toothless/variants/kb-img-butterflywing-monarchwing.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:monarchwing}
+```
+
+### Peacock
+
+<img src="/assets/images/toothless/variants/kb-img-butterflywing-peacock.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:peacock}
+```
+
+### Postwing
+
+<img src="/assets/images/toothless/variants/kb-img-butterflywing-postwing.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:postwing}
+```
+
+### Purple-Edged Copper
+
+<img src="/assets/images/toothless/variants/kb-img-butterflywing-purple-edged-copper.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:purple_edged_copper}
+```
+
+### Radiance
+
+<img src="/assets/images/toothless/variants/kb-img-butterflywing-radiance.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:radiance}
+```
+
+### Red Admiral
+
+<img src="/assets/images/toothless/variants/kb-img-butterflywing-red-admiral.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:red_admiral}
+```
+
+### Swallowtail
+
+<img src="/assets/images/toothless/variants/kb-img-butterflywing-swallowtail.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:swallowtail}
+```
 
 ---
 

@@ -40,30 +40,269 @@ The Shockjaw is a game canon dragon. It is a Stego's Dragons dragon, now part of
 
 ## Variants
 
-| | Variant | Obtainment | Summon Command |
-|---|---|---|---|
-| <img src="/assets/images/toothless/variants/kb-img-shockjaw-albino.png" width="80"> | **Albino** | Rare spawn | `/summon isleofberk:skrill ~ ~ ~ {VariantName:albinojaw}` |
-| <img src="/assets/images/toothless/variants/kb-img-shockjaw-anemone.png" width="80"> | **Anemone** | Normal spawn | `/summon isleofberk:skrill ~ ~ ~ {VariantName:anemone}` |
-| <img src="/assets/images/toothless/variants/kb-img-shockjaw-bloodjaw.png" width="80"> | **Bloodjaw** | Normal spawn | `/summon isleofberk:skrill ~ ~ ~ {VariantName:bloodjaw}` |
-| <img src="/assets/images/toothless/variants/kb-img-shockjaw-cheesejaw.png" width="80"> | **Cheesejaw** | Normal spawn | `/summon isleofberk:skrill ~ ~ ~ {VariantName:cheesejaw}` |
-| <img src="/assets/images/toothless/variants/kb-img-shockjaw-deepfreeze.png" width="80"> | **Deepfreeze** | Normal spawn | `/summon isleofberk:skrill ~ ~ ~ {VariantName:deepfreeze}` |
-| <img src="/assets/images/toothless/variants/kb-img-shockjaw-endjaw.png" width="80"> | **Endjaw** | Normal spawn | `/summon isleofberk:skrill ~ ~ ~ {VariantName:endjaw}` |
-| <img src="/assets/images/toothless/variants/kb-img-shockjaw-flamejaw.png" width="80"> | **Flamejaw** | Normal spawn | `/summon isleofberk:skrill ~ ~ ~ {VariantName:flamejaw}` |
-| <img src="/assets/images/toothless/variants/kb-img-shockjaw-heatjaw.png" width="80"> | **Heatjaw** | Rare spawn | `/summon isleofberk:skrill ~ ~ ~ {VariantName:heatjaw}` |
-| <img src="/assets/images/toothless/variants/kb-img-shockjaw-hurricane.png" width="80"> | **Hurricane** | Normal spawn | `/summon isleofberk:skrill ~ ~ ~ {VariantName:hurricane}` |
-| <img src="/assets/images/toothless/variants/kb-img-shockjaw-leucistic.png" width="80"> | **Leucistic** | Rare spawn | `/summon isleofberk:skrill ~ ~ ~ {VariantName:leucistjaw}` |
-| <img src="/assets/images/toothless/variants/kb-img-shockjaw-limejaw.png" width="80"> | **Limejaw** | Normal spawn | `/summon isleofberk:skrill ~ ~ ~ {VariantName:limejaw}` |
-| <img src="/assets/images/toothless/variants/kb-img-shockjaw-melanistic.png" width="80"> | **Melanistic** | Rare spawn | `/summon isleofberk:skrill ~ ~ ~ {VariantName:melanjaw}` |
-| <img src="/assets/images/toothless/variants/kb-img-shockjaw-netherjaw.png" width="80"> | **Netherjaw** | Normal spawn | `/summon isleofberk:skrill ~ ~ ~ {VariantName:netherjaw}` |
-| <img src="/assets/images/toothless/variants/kb-img-shockjaw-nightjaw.png" width="80"> | **Nightjaw** | Normal spawn | `/summon isleofberk:skrill ~ ~ ~ {VariantName:nightjaw}` |
-| <img src="/assets/images/toothless/variants/kb-img-shockjaw-orcajaw.png" width="80"> | **Orcajaw** | Normal spawn | `/summon isleofberk:skrill ~ ~ ~ {VariantName:orcajaw}` |
-| <img src="/assets/images/toothless/variants/kb-img-shockjaw-purplejaw.png" width="80"> | **Purplejaw** | Normal spawn | `/summon isleofberk:skrill ~ ~ ~ {VariantName:purplejaw}` |
-| <img src="/assets/images/toothless/variants/kb-img-shockjaw-shockfall.png" width="80"> | **Shockfall** | Normal spawn | `/summon isleofberk:skrill ~ ~ ~ {VariantName:shockfall}` |
-| <img src="/assets/images/toothless/variants/kb-img-shockjaw-shockjaw.png" width="80"> | **Shockjaw** | Normal spawn | `/summon isleofberk:skrill ~ ~ ~ {VariantName:shockfall}` |
-| <img src="/assets/images/toothless/variants/kb-img-shockjaw-shockwave.png" width="80"> | **Shockwave** | Normal spawn | `/summon isleofberk:skrill ~ ~ ~ {VariantName:shockwave}` |
-| <img src="/assets/images/toothless/variants/kb-img-shockjaw-sparkplug.png" width="80"> | **Sparkplug** | Rare spawn | `/summon isleofberk:skrill ~ ~ ~ {VariantName:sparkplug}` |
-| <img src="/assets/images/toothless/variants/kb-img-shockjaw-tempestjaw.png" width="80"> | **Tempestjaw** | Normal spawn | `/summon isleofberk:skrill ~ ~ ~ {VariantName:tempestjaw}` |
-| <img src="/assets/images/toothless/variants/kb-img-shockjaw-tsunami.png" width="80"> | **Tsunami** | Normal spawn | `/summon isleofberk:skrill ~ ~ ~ {VariantName:tsunami}` |
+### Albino
+
+<img src="/assets/images/toothless/variants/kb-img-shockjaw-albino.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:skrill ~ ~ ~ {VariantName:albinojaw}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Anemone
+
+<img src="/assets/images/toothless/variants/kb-img-shockjaw-anemone.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:skrill ~ ~ ~ {VariantName:anemone}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Bloodjaw
+
+<img src="/assets/images/toothless/variants/kb-img-shockjaw-bloodjaw.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:skrill ~ ~ ~ {VariantName:bloodjaw}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Cheesejaw
+
+<img src="/assets/images/toothless/variants/kb-img-shockjaw-cheesejaw.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:skrill ~ ~ ~ {VariantName:cheesejaw}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Deepfreeze
+
+<img src="/assets/images/toothless/variants/kb-img-shockjaw-deepfreeze.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:skrill ~ ~ ~ {VariantName:deepfreeze}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Endjaw
+
+<img src="/assets/images/toothless/variants/kb-img-shockjaw-endjaw.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:skrill ~ ~ ~ {VariantName:endjaw}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Flamejaw
+
+<img src="/assets/images/toothless/variants/kb-img-shockjaw-flamejaw.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:skrill ~ ~ ~ {VariantName:flamejaw}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Heatjaw
+
+<img src="/assets/images/toothless/variants/kb-img-shockjaw-heatjaw.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:skrill ~ ~ ~ {VariantName:heatjaw}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Hurricane
+
+<img src="/assets/images/toothless/variants/kb-img-shockjaw-hurricane.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:skrill ~ ~ ~ {VariantName:hurricane}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Leucistic
+
+<img src="/assets/images/toothless/variants/kb-img-shockjaw-leucistic.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:skrill ~ ~ ~ {VariantName:leucistjaw}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Limejaw
+
+<img src="/assets/images/toothless/variants/kb-img-shockjaw-limejaw.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:skrill ~ ~ ~ {VariantName:limejaw}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Melanistic
+
+<img src="/assets/images/toothless/variants/kb-img-shockjaw-melanistic.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:skrill ~ ~ ~ {VariantName:melanjaw}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Netherjaw
+
+<img src="/assets/images/toothless/variants/kb-img-shockjaw-netherjaw.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:skrill ~ ~ ~ {VariantName:netherjaw}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Nightjaw
+
+<img src="/assets/images/toothless/variants/kb-img-shockjaw-nightjaw.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:skrill ~ ~ ~ {VariantName:nightjaw}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Orcajaw
+
+<img src="/assets/images/toothless/variants/kb-img-shockjaw-orcajaw.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:skrill ~ ~ ~ {VariantName:orcajaw}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Purplejaw
+
+<img src="/assets/images/toothless/variants/kb-img-shockjaw-purplejaw.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:skrill ~ ~ ~ {VariantName:purplejaw}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Shockfall
+
+<img src="/assets/images/toothless/variants/kb-img-shockjaw-shockfall.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:skrill ~ ~ ~ {VariantName:shockfall}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Shockjaw
+
+<img src="/assets/images/toothless/variants/kb-img-shockjaw-shockjaw.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:skrill ~ ~ ~ {VariantName:shockfall}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Shockwave
+
+<img src="/assets/images/toothless/variants/kb-img-shockjaw-shockwave.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:skrill ~ ~ ~ {VariantName:shockwave}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Sparkplug
+
+<img src="/assets/images/toothless/variants/kb-img-shockjaw-sparkplug.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:skrill ~ ~ ~ {VariantName:sparkplug}
+```
+
+*Credits: This variant was designed by Pallet.*
+
+### Tempestjaw
+
+<img src="/assets/images/toothless/variants/kb-img-shockjaw-tempestjaw.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:skrill ~ ~ ~ {VariantName:tempestjaw}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Tsunami
+
+<img src="/assets/images/toothless/variants/kb-img-shockjaw-tsunami.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:skrill ~ ~ ~ {VariantName:tsunami}
+```
+
+*Credits: Stego's Dragons variant*
 
 ---
 

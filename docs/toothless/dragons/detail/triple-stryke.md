@@ -40,44 +40,401 @@ The Triple Stryke is a series canon dragon, first appearing in Race to the Edge.
 
 ## Variants
 
-| | Variant | Obtainment | Summon Command |
-|---|---|---|---|
-| <img src="/assets/images/toothless/variants/kb-img-triple-stryke-albino.png" width="80"> | **Albino** | Rare spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:albino...` |
-| <img src="/assets/images/toothless/variants/kb-img-triple-stryke-albino-alpha.png" width="80"> | **Albino alpha** | Extremely rare spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:albino...` |
-| <img src="/assets/images/toothless/variants/kb-img-triple-stryke-blue.png" width="80"> | **Blue** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:blue}` |
-| <img src="/assets/images/toothless/variants/kb-img-triple-stryke-blue-alpha.png" width="80"> | **Blue alpha** | Rare spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:blue_a...` |
-| <img src="/assets/images/toothless/variants/kb-img-triple-stryke-boreas.png" width="80"> | **Boreas** | Rare spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:boreas}` |
-| <img src="/assets/images/toothless/variants/kb-img-triple-stryke-champion.png" width="80"> | **Champion** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:champi...` |
-| <img src="/assets/images/toothless/variants/kb-img-triple-stryke-champion-alpha.png" width="80"> | **Champion alpha** | Rare spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:champi...` |
-| <img src="/assets/images/toothless/variants/kb-img-triple-stryke-common.png" width="80"> | **Common** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:common}` |
-| <img src="/assets/images/toothless/variants/kb-img-triple-stryke-common-alpha.png" width="80"> | **Common alpha** | Rare spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:common...` |
-| <img src="/assets/images/toothless/variants/kb-img-triple-stryke-deepsky.png" width="80"> | **Deepsky** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:deepsky}` |
-| <img src="/assets/images/toothless/variants/kb-img-triple-stryke-dg.png" width="80"> | **DG** | Rare spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:dg}` |
-| <img src="/assets/images/toothless/variants/kb-img-triple-stryke-eclipser.png" width="80"> | **Eclipser** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:eclips...` |
-| <img src="/assets/images/toothless/variants/kb-img-triple-stryke-eclipser-alpha.png" width="80"> | **Eclipser alpha** | Rare spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:eclips...` |
-| <img src="/assets/images/toothless/variants/kb-img-triple-stryke-indo.png" width="80"> | **Indo** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:indo}` |
-| <img src="/assets/images/toothless/variants/kb-img-triple-stryke-indo-alpha.png" width="80"> | **Indo alpha** | Rare spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:indo_a...` |
-| <img src="/assets/images/toothless/variants/kb-img-triple-stryke-ketillkott.png" width="80"> | **Ketillkott** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:ketill...` |
-| <img src="/assets/images/toothless/variants/kb-img-triple-stryke-ketillkott-alpha.png" width="80"> | **Ketillkott alpha** | Rare spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:ketill...` |
-| <img src="/assets/images/toothless/variants/kb-img-triple-stryke-melanistic.png" width="80"> | **Melanistic** | Rare spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:melani...` |
-| <img src="/assets/images/toothless/variants/kb-img-triple-stryke-melanistic-alpha.png" width="80"> | **Melanistic alpha** | Extremely rare spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:melani...` |
-| <img src="/assets/images/toothless/variants/kb-img-triple-stryke-nikora.png" width="80"> | **Nikora** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:nikora...` |
-| <img src="/assets/images/toothless/variants/kb-img-triple-stryke-nikora-alpha.png" width="80"> | **Nikora alpha** | Rare spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:nikora...` |
-| <img src="/assets/images/toothless/variants/kb-img-triple-stryke-regnbue.png" width="80"> | **Regnbue** | Bifrost Temple only | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:regnbue}` |
-| <img src="/assets/images/toothless/variants/kb-img-triple-stryke-rosethorn.png" width="80"> | **Rosethorn** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:roseth...` |
-| <img src="/assets/images/toothless/variants/kb-img-triple-stryke-rosethorn-alpha.png" width="80"> | **Rosethorn alpha** | Rare spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:roseth...` |
-| <img src="/assets/images/toothless/variants/kb-img-triple-stryke-scorpius.png" width="80"> | **Scorpius** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:scorpi...` |
-| <img src="/assets/images/toothless/variants/kb-img-triple-stryke-scorpius-alpha.png" width="80"> | **Scorpius alpha** | Rare spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:scorpi...` |
-| <img src="/assets/images/toothless/variants/kb-img-triple-stryke-sleuther.png" width="80"> | **Sleuther** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:sleuth...` |
-| <img src="/assets/images/toothless/variants/kb-img-triple-stryke-sleuther-alpha.png" width="80"> | **Sleuther alpha** | Rare spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:sleuth...` |
-| <img src="/assets/images/toothless/variants/kb-img-triple-stryke-spyro.png" width="80"> | **Spyro** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:spyro}` |
-| <img src="/assets/images/toothless/variants/kb-img-triple-stryke-spyro-alpha.png" width="80"> | **Spyro alpha** | Rare spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:spyro_...` |
-| <img src="/assets/images/toothless/variants/kb-img-triple-stryke-starstreak.png" width="80"> | **Starstreak** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:starst...` |
-| <img src="/assets/images/toothless/variants/kb-img-triple-stryke-starstreak-alpha.png" width="80"> | **Starstreak alpha** | Rare spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:starst...` |
-| <img src="/assets/images/toothless/variants/kb-img-triple-stryke-stone-mother.png" width="80"> | **Stone mother** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:stone_...` |
-| <img src="/assets/images/toothless/variants/kb-img-triple-stryke-stone-mother-alpha.png" width="80"> | **Stone mother alpha** | Rare spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:stone_...` |
-| <img src="/assets/images/toothless/variants/kb-img-triple-stryke-triple-stryke.png" width="80"> | **Triple stryke** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:triple...` |
-| <img src="/assets/images/toothless/variants/kb-img-triple-stryke-triple-stryke-alpha.png" width="80"> | **Triple stryke alpha** | Rare spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:triple...` |
+### Albino
+
+<img src="/assets/images/toothless/variants/kb-img-triple-stryke-albino.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:albino_stryke}
+```
+
+### Albino alpha
+
+<img src="/assets/images/toothless/variants/kb-img-triple-stryke-albino-alpha.png" width="120">
+
+**Obtainment:** Extremely rare spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:albino_alpha_stryke}
+```
+
+### Blue
+
+<img src="/assets/images/toothless/variants/kb-img-triple-stryke-blue.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:blue}
+```
+
+*Credits: Base IoB variant*
+
+### Blue alpha
+
+<img src="/assets/images/toothless/variants/kb-img-triple-stryke-blue-alpha.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:blue_alpha}
+```
+
+*Credits: Near base IoB variant*
+
+### Boreas
+
+<img src="/assets/images/toothless/variants/kb-img-triple-stryke-boreas.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:boreas}
+```
+
+### Champion
+
+<img src="/assets/images/toothless/variants/kb-img-triple-stryke-champion.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:champion}
+```
+
+*Credits: Base IoB variant*
+
+### Champion alpha
+
+<img src="/assets/images/toothless/variants/kb-img-triple-stryke-champion-alpha.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:champion_alpha}
+```
+
+*Credits: Near base IoB variant*
+
+### Common
+
+<img src="/assets/images/toothless/variants/kb-img-triple-stryke-common.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:common}
+```
+
+### Common alpha
+
+<img src="/assets/images/toothless/variants/kb-img-triple-stryke-common-alpha.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:common_alpha}
+```
+
+### Deepsky
+
+<img src="/assets/images/toothless/variants/kb-img-triple-stryke-deepsky.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:deepsky}
+```
+
+### DG
+
+<img src="/assets/images/toothless/variants/kb-img-triple-stryke-dg.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:dg}
+```
+
+### Eclipser
+
+<img src="/assets/images/toothless/variants/kb-img-triple-stryke-eclipser.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:eclipser}
+```
+
+*Credits: Base IoB variant*
+
+### Eclipser alpha
+
+<img src="/assets/images/toothless/variants/kb-img-triple-stryke-eclipser-alpha.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:eclipser_alpha}
+```
+
+*Credits: Near base IoB variant*
+
+### Indo
+
+<img src="/assets/images/toothless/variants/kb-img-triple-stryke-indo.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:indo}
+```
+
+### Indo alpha
+
+<img src="/assets/images/toothless/variants/kb-img-triple-stryke-indo-alpha.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:indo_alpha}
+```
+
+### Ketillkott
+
+<img src="/assets/images/toothless/variants/kb-img-triple-stryke-ketillkott.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:ketillkott}
+```
+
+### Ketillkott alpha
+
+<img src="/assets/images/toothless/variants/kb-img-triple-stryke-ketillkott-alpha.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:ketillkott_alpha}
+```
+
+### Melanistic
+
+<img src="/assets/images/toothless/variants/kb-img-triple-stryke-melanistic.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:melanistic_stryke}
+```
+
+### Melanistic alpha
+
+<img src="/assets/images/toothless/variants/kb-img-triple-stryke-melanistic-alpha.png" width="120">
+
+**Obtainment:** Extremely rare spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:melanistic_alpha_stryke}
+```
+
+### Nikora
+
+<img src="/assets/images/toothless/variants/kb-img-triple-stryke-nikora.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:nikora_triple_stryke}
+```
+
+*Credits: Base IoB variant*
+
+### Nikora alpha
+
+<img src="/assets/images/toothless/variants/kb-img-triple-stryke-nikora-alpha.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:nikora_triple_stryke_alpha}
+```
+
+*Credits: Near base IoB variant*
+
+### Regnbue
+
+<img src="/assets/images/toothless/variants/kb-img-triple-stryke-regnbue.png" width="120">
+
+**Obtainment:** Bifrost Temple only
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:regnbue}
+```
+
+### Rosethorn
+
+<img src="/assets/images/toothless/variants/kb-img-triple-stryke-rosethorn.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:rosethorn}
+```
+
+*Credits: Base IoB variant*
+
+### Rosethorn alpha
+
+<img src="/assets/images/toothless/variants/kb-img-triple-stryke-rosethorn-alpha.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:rosethorn_alpha}
+```
+
+*Credits: Near base IoB variant*
+
+### Scorpius
+
+<img src="/assets/images/toothless/variants/kb-img-triple-stryke-scorpius.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:scorpius}
+```
+
+### Scorpius alpha
+
+<img src="/assets/images/toothless/variants/kb-img-triple-stryke-scorpius-alpha.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:scorpius_alpha}
+```
+
+### Sleuther
+
+<img src="/assets/images/toothless/variants/kb-img-triple-stryke-sleuther.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:sleuther}
+```
+
+*Credits: Base IoB variant*
+
+### Sleuther alpha
+
+<img src="/assets/images/toothless/variants/kb-img-triple-stryke-sleuther-alpha.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:sleuther_alpha}
+```
+
+*Credits: Near base IoB variant*
+
+### Spyro
+
+<img src="/assets/images/toothless/variants/kb-img-triple-stryke-spyro.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:spyro}
+```
+
+*Credits: Base IoB variant*
+
+### Spyro alpha
+
+<img src="/assets/images/toothless/variants/kb-img-triple-stryke-spyro-alpha.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:spyro_alpha}
+```
+
+*Credits: Near base IoB variant*
+
+### Starstreak
+
+<img src="/assets/images/toothless/variants/kb-img-triple-stryke-starstreak.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:starstreak}
+```
+
+*Credits: Base IoB variant*
+
+### Starstreak alpha
+
+<img src="/assets/images/toothless/variants/kb-img-triple-stryke-starstreak-alpha.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:starstreak_alpha}
+```
+
+*Credits: Near base IoB variant*
+
+### Stone mother
+
+<img src="/assets/images/toothless/variants/kb-img-triple-stryke-stone-mother.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:stone_mother}
+```
+
+### Stone mother alpha
+
+<img src="/assets/images/toothless/variants/kb-img-triple-stryke-stone-mother-alpha.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:stone_mother_alpha}
+```
+
+### Triple stryke
+
+<img src="/assets/images/toothless/variants/kb-img-triple-stryke-triple-stryke.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:triple_stryke}
+```
+
+*Credits: Base IoB variant*
+
+### Triple stryke alpha
+
+<img src="/assets/images/toothless/variants/kb-img-triple-stryke-triple-stryke-alpha.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:triple_stryke_alpha}
+```
+
+*Credits: Near base IoB variant*
 
 ---
 

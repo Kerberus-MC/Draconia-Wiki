@@ -11,21 +11,21 @@ All dragons in Archipelago Additions use a conditional override to replace base 
 
 | Boulder | Mystery | Sharp | Stoker | Strike | Tidal | Tracker |
 |---|---|---|---|---|---|---|
-| Crimson Goregutter | Armorwing | Deadly Nadder | Fireworm | Deathgripper | Sandwraith | Butterflywing |
-| Graveknapper | Boneknapper | Deathly Galeslash | Fireworm Queen | Helstryke | Scauldron | Deadly Nadder |
-| Gronckle | Changewing | Devilish Dervish | Flame Whipper | Lightcutter | Shockjaw | Eight-Legged Nadder |
-| Hotburple | Dramillion | Hackatoo | Hobblegrunt | Light Fury | Windwalker | Rumblehorn |
-| Hushboggle | Flightmare | Razorwhip | Magma Breather | Light Night | | Wolf-Fang |
-| Screaming Death | Hideous Zippleback | Scuttleclaw | Monstrous Nightmare | Nightcutter | | |
-| Sentinel | Prickleboggle | Speed Stinger | Night Terror | Night Fury | | |
-| Thunderbottom | Slitherwing | Speed Stryke | Pygmy Death | Night Light | | |
-| Whispering Death | Smothering Smokebreath | Stinger | Silver Phantom | Skrill | | |
-| | Snaptrapper | Stormcutter | Singetail | Skrillcutter | | |
-| | | Timberjack | Storming Nightmare | Skrillknapper | | |
-| | | | Terrible Terror | Snow Wraith | | |
-| | | | Typhoomerang | Songwing | | |
-| | | | | Triple Stryke | | |
-| | | | | Woolly Howl | | |
+  | [Crimson Goregutter](detail/crimson-goregutter.md) | [Armorwing](detail/armorwing.md) | [Deadly Nadder](detail/deadly-nadder.md) | [Fireworm](detail/fireworm.md) | [Deathgripper](detail/deathgripper.md) | [Sandwraith](detail/sandwraith.md) | [Butterflywing](detail/butterflywing.md) |  
+  | [Graveknapper](detail/graveknapper.md) | [Boneknapper](detail/boneknapper.md) | [Deathly Galeslash](detail/deathly-galeslash.md) | [Fireworm Queen](detail/fireworm-queen.md) | [Helstryke](detail/helstryke.md) | [Scauldron](detail/scauldron.md) | [Deadly Nadder](detail/deadly-nadder.md) |  
+  | [Gronckle](detail/gronckle.md) | [Changewing](detail/changewing.md) | [Devilish Dervish](detail/devilish-dervish.md) | [Flame Whipper](detail/flame-whipper.md) | [Lightcutter](detail/lightcutter.md) | [Shockjaw](detail/shockjaw.md) | [Eight-Legged Nadder](detail/eight-legged-nadder.md) |  
+  | [Hotburple](detail/hotburple.md) | [Dramillion](detail/dramillion.md) | [Hackatoo](detail/hackatoo.md) | [Hobblegrunt](detail/hobblegrunt.md) | [Light Fury](detail/light-fury.md) | [Windwalker](detail/windwalker.md) | [Rumblehorn](detail/rumblehorn.md) |  
+  | [Hushboggle](detail/hushboggle.md) | [Flightmare](detail/flightmare.md) | [Razorwhip](detail/razorwhip.md) | [Magma Breather](detail/magma-breather.md) | [Light Night](detail/light-night.md) |  | [Wolf-Fang](detail/wolf-fang.md) |  
+  | [Screaming Death](detail/screaming-death.md) | [Hideous Zippleback](detail/hideous-zippleback.md) | [Scuttleclaw](detail/scuttleclaw.md) | [Monstrous Nightmare](detail/monstrous-nightmare.md) | [Nightcutter](detail/nightcutter.md) |  |  |  
+  | [Sentinel](detail/sentinel.md) | [Prickleboggle](detail/prickleboggle.md) | [Speed Stinger](detail/speed-stinger.md) | [Night Terror](detail/night-terror.md) | [Night Fury](detail/night-fury.md) |  |  |  
+  | [Thunderbottom](detail/thunderbottom.md) | [Slitherwing](detail/slitherwing.md) | [Speed Stryke](detail/speed-stryke.md) | [Pygmy Death](detail/pygmy-death.md) | [Night Light](detail/night-light.md) |  |  |  
+  | [Whispering Death](detail/whispering-death.md) | [Smothering Smokebreath](detail/smothering-smokebreath.md) | [Stinger](detail/stinger.md) | [Silver Phantom](detail/silver-phantom.md) | [Skrill](detail/skrill.md) |  |  |  
+  |  | [Snaptrapper](detail/snaptrapper.md) | [Stormcutter](detail/stormcutter.md) | [Singetail](detail/singetail.md) | [Skrillcutter](detail/skrillcutter.md) |  |  |  
+  |  |  | [Timberjack](detail/timberjack.md) | [Storming Nightmare](detail/storming-nightmare.md) | [Skrillknapper](detail/skrillknapper.md) |  |  |  
+  |  |  |  | [Terrible Terror](detail/terrible-terror.md) | [Snow Wraith](detail/snow-wraith.md) |  |  |  
+  |  |  |  | [Typhoomerang](detail/typhoomerang.md) | [Songwing](detail/songwing.md) |  |  |  
+  |  |  |  |  | [Triple Stryke](detail/triple-stryke.md) |  |  |  
+  |  |  |  |  | [Woolly Howl](detail/woolly-howl.md) |  |  |  
 
 ## Variant Stat Bonuses
 

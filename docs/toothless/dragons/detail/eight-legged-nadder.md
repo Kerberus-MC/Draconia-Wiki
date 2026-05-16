@@ -40,19 +40,115 @@ The Eight-Legged Nadder is a book canon dragon. It is an Archipelago Additions d
 
 ## Variants
 
-| | Variant | Obtainment | Summon Command |
-|---|---|---|---|
-| <img src="/assets/images/toothless/variants/kb-img-eight-legged-nadder-albino.png" width="80"> | **Albino** | Rare spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:eigh...` |
-| <img src="/assets/images/toothless/variants/kb-img-eight-legged-nadder-beiged-blue.png" width="80"> | **Beiged Blue** | Normal spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:beig...` |
-| <img src="/assets/images/toothless/variants/kb-img-eight-legged-nadder-blue.png" width="80"> | **Blue** | Normal spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:eigh...` |
-| <img src="/assets/images/toothless/variants/kb-img-eight-legged-nadder-deadly-flower.png" width="80"> | **Deadly Flower** | Normal spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:dead...` |
-| <img src="/assets/images/toothless/variants/kb-img-eight-legged-nadder-erythristic.png" width="80"> | **Erythristic** | Rare spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:eigh...` |
-| <img src="/assets/images/toothless/variants/kb-img-eight-legged-nadder-leucistic.png" width="80"> | **Leucistic** | Rare spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:eigh...` |
-| <img src="/assets/images/toothless/variants/kb-img-eight-legged-nadder-melanistic.png" width="80"> | **Melanistic** | Rare spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:eigh...` |
-| <img src="/assets/images/toothless/variants/kb-img-eight-legged-nadder-peril.png" width="80"> | **Peril** | Normal spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:peril}` |
-| <img src="/assets/images/toothless/variants/kb-img-eight-legged-nadder-purple.png" width="80"> | **Purple** | Normal spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:eigh...` |
-| <img src="/assets/images/toothless/variants/kb-img-eight-legged-nadder-stormflew.png" width="80"> | **Stormflew** | Normal spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:stor...` |
-| <img src="/assets/images/toothless/variants/kb-img-eight-legged-nadder-taiga-river.png" width="80"> | **Taiga River** | Normal spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:taig...` |
+### Albino
+
+<img src="/assets/images/toothless/variants/kb-img-eight-legged-nadder-albino.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:eightleg_albino}
+```
+
+### Beiged Blue
+
+<img src="/assets/images/toothless/variants/kb-img-eight-legged-nadder-beiged-blue.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:beiged_blue}
+```
+
+### Blue
+
+<img src="/assets/images/toothless/variants/kb-img-eight-legged-nadder-blue.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:eightleg_blue}
+```
+
+### Deadly Flower
+
+<img src="/assets/images/toothless/variants/kb-img-eight-legged-nadder-deadly-flower.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:deadlyflower}
+```
+
+### Erythristic
+
+<img src="/assets/images/toothless/variants/kb-img-eight-legged-nadder-erythristic.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:eightleg_erythristic}
+```
+
+### Leucistic
+
+<img src="/assets/images/toothless/variants/kb-img-eight-legged-nadder-leucistic.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:eightleg_leucistic}
+```
+
+### Melanistic
+
+<img src="/assets/images/toothless/variants/kb-img-eight-legged-nadder-melanistic.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:eightleg_melanistic}
+```
+
+### Peril
+
+<img src="/assets/images/toothless/variants/kb-img-eight-legged-nadder-peril.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:peril}
+```
+
+### Purple
+
+<img src="/assets/images/toothless/variants/kb-img-eight-legged-nadder-purple.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:eightleg_purple}
+```
+
+### Stormflew
+
+<img src="/assets/images/toothless/variants/kb-img-eight-legged-nadder-stormflew.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:stormflew}
+```
+
+### Taiga River
+
+<img src="/assets/images/toothless/variants/kb-img-eight-legged-nadder-taiga-river.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:taiga_river}
+```
 
 ---
 

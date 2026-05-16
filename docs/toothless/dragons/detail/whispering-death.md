@@ -42,46 +42,411 @@ The Whispering Death is a series canon dragon, first appearing in Riders & Defen
 
 ## Variants
 
-| | Variant | Obtainment | Summon Command |
-|---|---|---|---|
-| <img src="/assets/images/toothless/variants/kb-img-whispering-death-albino.png" width="80"> | **Albino** | Rare spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:albino...` |
-| <img src="/assets/images/toothless/variants/kb-img-whispering-death-banded.png" width="80"> | **Banded** | Normal spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:banded}` |
-| <img src="/assets/images/toothless/variants/kb-img-whispering-death-blue-lizard.png" width="80"> | **Blue Lizard** | Normal spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:blueli...` |
-| <img src="/assets/images/toothless/variants/kb-img-whispering-death-bombwelter.png" width="80"> | **Bombwelter** | Normal spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:bombwe...` |
-| <img src="/assets/images/toothless/variants/kb-img-whispering-death-cherry-watermelon.png" width="80"> | **Cherry Watermelon** | Normal spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:cherry...` |
-| <img src="/assets/images/toothless/variants/kb-img-whispering-death-cold-death.png" width="80"> | **Cold Death** | Normal spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:cold_d...` |
-| <img src="/assets/images/toothless/variants/kb-img-whispering-death-dripping-death.png" width="80"> | **Dripping Death** | Normal spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:drippi...` |
-| <img src="/assets/images/toothless/variants/kb-img-whispering-death-exotic.png" width="80"> | **Exotic** | Rare spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:exotic...` |
-| <img src="/assets/images/toothless/variants/kb-img-whispering-death-fluke.png" width="80"> | **Fluke** | Rare spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:fluke}` |
-| <img src="/assets/images/toothless/variants/kb-img-whispering-death-goam.png" width="80"> | **Goam** | Rare spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:goam}` |
-| <img src="/assets/images/toothless/variants/kb-img-whispering-death-gothic.png" width="80"> | **Gothic** | Normal spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:gothic}` |
-| <img src="/assets/images/toothless/variants/kb-img-whispering-death-gravedigger.png" width="80"> | **Gravedigger** | Normal spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:graved...` |
-| <img src="/assets/images/toothless/variants/kb-img-whispering-death-gumby.png" width="80"> | **Gumby** | Rare spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:gumby}` |
-| <img src="/assets/images/toothless/variants/kb-img-whispering-death-guzzling-death.png" width="80"> | **Guzzling Death** | Rare spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:guzzli...` |
-| <img src="/assets/images/toothless/variants/kb-img-whispering-death-jack.png" width="80"> | **Jack** | Rare spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:jack}` |
-| <img src="/assets/images/toothless/variants/kb-img-whispering-death-jordans-regbues.png" width="80"> | **Jordan's Regbues** | Bifrost Temple only | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:jordan...` |
-| <img src="/assets/images/toothless/variants/kb-img-whispering-death-mawdrill.png" width="80"> | **Mawdrill** | Normal spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:mawdri...` |
-| <img src="/assets/images/toothless/variants/kb-img-whispering-death-melanistic.png" width="80"> | **Melanistic** | Rare spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:melani...` |
-| <img src="/assets/images/toothless/variants/kb-img-whispering-death-pink-diamond.png" width="80"> | **Pink Diamond** | Normal spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:pink_d...` |
-| <img src="/assets/images/toothless/variants/kb-img-whispering-death-pink-lizard.png" width="80"> | **Pink Lizard** | Normal spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:pinkli...` |
-| <img src="/assets/images/toothless/variants/kb-img-whispering-death-pistachio-ice-cream.png" width="80"> | **Pistachio Ice Cream** | Normal spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:pistac...` |
-| <img src="/assets/images/toothless/variants/kb-img-whispering-death-pretzel.png" width="80"> | **Pretzel** | Normal spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:pretzle}` |
-| <img src="/assets/images/toothless/variants/kb-img-whispering-death-pumpkin.png" width="80"> | **Pumpkin** | Normal spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:pumpkin}` |
-| <img src="/assets/images/toothless/variants/kb-img-whispering-death-pumpkin-pie.png" width="80"> | **Pumpkin Pie** | Normal spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:pumpki...` |
-| <img src="/assets/images/toothless/variants/kb-img-whispering-death-purple-lizard.png" width="80"> | **Purple Lizard** | Normal spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:purple...` |
-| <img src="/assets/images/toothless/variants/kb-img-whispering-death-red-death.png" width="80"> | **Red Death** | Normal spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:red_de...` |
-| <img src="/assets/images/toothless/variants/kb-img-whispering-death-rimuru.png" width="80"> | **Rimuru** | Rare spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:rimuru}` |
-| <img src="/assets/images/toothless/variants/kb-img-whispering-death-sandcarver.png" width="80"> | **Sandcarver** | Rare spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:sandca...` |
-| <img src="/assets/images/toothless/variants/kb-img-whispering-death-setekh.png" width="80"> | **Setekh** | Normal spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:setekh}` |
-| <img src="/assets/images/toothless/variants/kb-img-whispering-death-spok.png" width="80"> | **Spok** | Normal spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:spok}` |
-| <img src="/assets/images/toothless/variants/kb-img-whispering-death-supernova.png" width="80"> | **Supernova** | Normal spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:supern...` |
-| <img src="/assets/images/toothless/variants/kb-img-whispering-death-toothless.png" width="80"> | **Toothless** | Rare spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:toothl...` |
-| <img src="/assets/images/toothless/variants/kb-img-whispering-death-toothlesss-rival.png" width="80"> | **Toothless's Rival** | Normal spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:toothl...` |
-| <img src="/assets/images/toothless/variants/kb-img-whispering-death-tropical-whispering-death.png" width="80"> | **Tropical Whispering Death** | Rare spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:tropic...` |
-| <img src="/assets/images/toothless/variants/kb-img-whispering-death-tuffnuts-death-ride.png" width="80"> | **Tuffnut's Death Ride** | Rare spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:tuffnu...` |
-| <img src="/assets/images/toothless/variants/kb-img-whispering-death-wasp.png" width="80"> | **Wasp** | Rare spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:wasp}` |
-| <img src="/assets/images/toothless/variants/kb-img-whispering-death-whispering-death.png" width="80"> | **Whispering Death** | Normal spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:whispe...` |
-| <img src="/assets/images/toothless/variants/kb-img-whispering-death-yelling-death.png" width="80"> | **Yelling Death** | Rare spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:yellin...` |
+### Albino
+
+<img src="/assets/images/toothless/variants/kb-img-whispering-death-albino.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:albino_whisper}
+```
+
+*Credits: Modified version of a variant donated by Will.*
+
+### Banded
+
+<img src="/assets/images/toothless/variants/kb-img-whispering-death-banded.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:banded}
+```
+
+### Blue Lizard
+
+<img src="/assets/images/toothless/variants/kb-img-whispering-death-blue-lizard.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:bluelizard}
+```
+
+*Credits: Concept art by:sleepingbelphegorram in collab with MakoWyvern*
+
+### Bombwelter
+
+<img src="/assets/images/toothless/variants/kb-img-whispering-death-bombwelter.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:bombwelter}
+```
+
+*Credits: Modified version of a variant donated by Will.*
+
+### Cherry Watermelon
+
+<img src="/assets/images/toothless/variants/kb-img-whispering-death-cherry-watermelon.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:cherrywatermelon}
+```
+
+*Credits: Concept art by:sleepingbelphegorram in collab with MakoWyvern*
+
+### Cold Death
+
+<img src="/assets/images/toothless/variants/kb-img-whispering-death-cold-death.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:cold_death}
+```
+
+### Dripping Death
+
+<img src="/assets/images/toothless/variants/kb-img-whispering-death-dripping-death.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:dripping_death}
+```
+
+*Credits: Modified version of a variant donated by Will.*
+
+### Exotic
+
+<img src="/assets/images/toothless/variants/kb-img-whispering-death-exotic.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:exotic_whispering_death}
+```
+
+### Fluke
+
+<img src="/assets/images/toothless/variants/kb-img-whispering-death-fluke.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:fluke}
+```
+
+### Goam
+
+<img src="/assets/images/toothless/variants/kb-img-whispering-death-goam.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:goam}
+```
+
+### Gothic
+
+<img src="/assets/images/toothless/variants/kb-img-whispering-death-gothic.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:gothic}
+```
+
+### Gravedigger
+
+<img src="/assets/images/toothless/variants/kb-img-whispering-death-gravedigger.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:gravedigger}
+```
+
+*Credits: Modified version of a variant donated by Will.*
+
+### Gumby
+
+<img src="/assets/images/toothless/variants/kb-img-whispering-death-gumby.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:gumby}
+```
+
+*Credits: Concept art by:sleepingbelphegorram in collab with MakoWyvern*
+
+### Guzzling Death
+
+<img src="/assets/images/toothless/variants/kb-img-whispering-death-guzzling-death.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:guzzling_death}
+```
+
+### Jack
+
+<img src="/assets/images/toothless/variants/kb-img-whispering-death-jack.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:jack}
+```
+
+### Jordan's Regbues
+
+<img src="/assets/images/toothless/variants/kb-img-whispering-death-jordans-regbues.png" width="120">
+
+**Obtainment:** Bifrost Temple only
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:jordans_regbues}
+```
+
+### Mawdrill
+
+<img src="/assets/images/toothless/variants/kb-img-whispering-death-mawdrill.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:mawdrill}
+```
+
+### Melanistic
+
+<img src="/assets/images/toothless/variants/kb-img-whispering-death-melanistic.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:melanistic_whisper}
+```
+
+*Credits: Modified version of a variant donated by Will.*
+
+### Pink Diamond
+
+<img src="/assets/images/toothless/variants/kb-img-whispering-death-pink-diamond.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:pink_diamond}
+```
+
+### Pink Lizard
+
+<img src="/assets/images/toothless/variants/kb-img-whispering-death-pink-lizard.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:pinklizard}
+```
+
+*Credits: Concept art by:sleepingbelphegorram in collab with MakoWyvern*
+
+### Pistachio Ice Cream
+
+<img src="/assets/images/toothless/variants/kb-img-whispering-death-pistachio-ice-cream.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:pistachioicecream}
+```
+
+### Pretzel
+
+<img src="/assets/images/toothless/variants/kb-img-whispering-death-pretzel.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:pretzle}
+```
+
+### Pumpkin
+
+<img src="/assets/images/toothless/variants/kb-img-whispering-death-pumpkin.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:pumpkin}
+```
+
+### Pumpkin Pie
+
+<img src="/assets/images/toothless/variants/kb-img-whispering-death-pumpkin-pie.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:pumpkin_pie}
+```
+
+### Purple Lizard
+
+<img src="/assets/images/toothless/variants/kb-img-whispering-death-purple-lizard.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:purplelizard}
+```
+
+*Credits: Concept art by:sleepingbelphegorram in collab with MakoWyvern*
+
+### Red Death
+
+<img src="/assets/images/toothless/variants/kb-img-whispering-death-red-death.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:red_death}
+```
+
+### Rimuru
+
+<img src="/assets/images/toothless/variants/kb-img-whispering-death-rimuru.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:rimuru}
+```
+
+### Sandcarver
+
+<img src="/assets/images/toothless/variants/kb-img-whispering-death-sandcarver.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:sandcarver}
+```
+
+### Setekh
+
+<img src="/assets/images/toothless/variants/kb-img-whispering-death-setekh.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:setekh}
+```
+
+### Spok
+
+<img src="/assets/images/toothless/variants/kb-img-whispering-death-spok.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:spok}
+```
+
+### Supernova
+
+<img src="/assets/images/toothless/variants/kb-img-whispering-death-supernova.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:supernova}
+```
+
+### Toothless
+
+<img src="/assets/images/toothless/variants/kb-img-whispering-death-toothless.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:toothless}
+```
+
+### Toothless's Rival
+
+<img src="/assets/images/toothless/variants/kb-img-whispering-death-toothlesss-rival.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:toothless_rival}
+```
+
+*Credits: Modified version of a variant donated by Will.*
+
+### Tropical Whispering Death
+
+<img src="/assets/images/toothless/variants/kb-img-whispering-death-tropical-whispering-death.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:tropical_whispering_death}
+```
+
+### Tuffnut's Death Ride
+
+<img src="/assets/images/toothless/variants/kb-img-whispering-death-tuffnuts-death-ride.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:tuffnutt_death}
+```
+
+*Credits: Modified version of a variant donated by Will.*
+
+### Wasp
+
+<img src="/assets/images/toothless/variants/kb-img-whispering-death-wasp.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:wasp}
+```
+
+### Whispering Death
+
+<img src="/assets/images/toothless/variants/kb-img-whispering-death-whispering-death.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:whispering_death}
+```
+
+*Credits: Modified version of a variant donated by Will.*
+
+### Yelling Death
+
+<img src="/assets/images/toothless/variants/kb-img-whispering-death-yelling-death.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:yelling_death}
+```
 
 ---
 

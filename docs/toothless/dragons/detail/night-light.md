@@ -36,41 +36,387 @@ The Night Light is a main canon dragon from the third film. It is a base Isle of
 
 ## Variants
 
-| | Variant | Obtainment | Summon Command |
-|---|---|---|---|
-| <img src="/assets/images/toothless/variants/kb-img-night-light-appaloosa.png" width="80"> | **Appaloosa** | Normal breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:appaloosa}` |
-| <img src="/assets/images/toothless/variants/kb-img-night-light-appaloosa-alpha.png" width="80"> | **Appaloosa alpha** | Rare breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:appaloos...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-light-ashwing.png" width="80"> | **Ashwing** | Normal breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:ashwing}` |
-| <img src="/assets/images/toothless/variants/kb-img-night-light-ashwing-alpha.png" width="80"> | **Ashwing alpha** | Rare breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:ashwing_...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-light-colour.png" width="80"> | **Colour** | Bifrost Temple only | `/summon isleofberk:night_light ~ ~ ~ {VariantName:color}` |
-| <img src="/assets/images/toothless/variants/kb-img-night-light-dart.png" width="80"> | **Dart** | Normal breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:dart}` |
-| <img src="/assets/images/toothless/variants/kb-img-night-light-dart-alpha.png" width="80"> | **Dart alpha** | Rare breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:dart_alp...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-light-dusk.png" width="80"> | **Dusk** | Normal breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:dusk}` |
-| <img src="/assets/images/toothless/variants/kb-img-night-light-dusk-alpha.png" width="80"> | **Dusk alpha** | Rare breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:dusk_alp...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-light-harlequeen.png" width="80"> | **Harlequeen** | Normal breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:harleque...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-light-harlequeen-alpha.png" width="80"> | **Harlequeen alpha** | Rare breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:harleque...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-light-iridescence.png" width="80"> | **Iridescence** | Normal breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:iridesce...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-light-iridescence-alpha.png" width="80"> | **Iridescence alpha** | Rare breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:iridesce...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-light-leopard.png" width="80"> | **Leopard** | Normal breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:leopard}` |
-| <img src="/assets/images/toothless/variants/kb-img-night-light-leopard-alpha.png" width="80"> | **Leopard alpha** | Rare breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:leopard_...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-light-nightdancer.png" width="80"> | **Nightdancer** | Normal breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:nightdan...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-light-nightdancer-alpha.png" width="80"> | **Nightdancer alpha** | Rare breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:nightdan...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-light-occasus.png" width="80"> | **Occasus** | Normal breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:occasus}` |
-| <img src="/assets/images/toothless/variants/kb-img-night-light-occasus-alpha.png" width="80"> | **Occasus alpha** | Rare breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:occasus_...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-light-orca.png" width="80"> | **Orca** | Normal breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:orca}` |
-| <img src="/assets/images/toothless/variants/kb-img-night-light-pouncer.png" width="80"> | **Pouncer** | Normal breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:pouncer}` |
-| <img src="/assets/images/toothless/variants/kb-img-night-light-pouncer-alpha.png" width="80"> | **Pouncer alpha** | Rare breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:pouncer_...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-light-ruffrunner.png" width="80"> | **Ruffrunner** | Normal breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:ruffrunn...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-light-ruffrunner-alpha.png" width="80"> | **Ruffrunner alpha** | Rare breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:ruffrunn...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-light-skydancer.png" width="80"> | **Skydancer** | Normal breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:skydancer}` |
-| <img src="/assets/images/toothless/variants/kb-img-night-light-skydancer-alpha.png" width="80"> | **Skydancer alpha** | Rare breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:skydance...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-light-smores.png" width="80"> | **Smores** | Normal breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:smores}` |
-| <img src="/assets/images/toothless/variants/kb-img-night-light-snow-owl.png" width="80"> | **Snow Owl** | Normal breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:snow_owl}` |
-| <img src="/assets/images/toothless/variants/kb-img-night-light-snow-owl-alpha.png" width="80"> | **Snow Owl alpha** | Normal breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:snow_owl...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-light-tiger.png" width="80"> | **Tiger** | Normal breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:tiger}` |
-| <img src="/assets/images/toothless/variants/kb-img-night-light-tiger-alpha.png" width="80"> | **Tiger alpha** | Normal breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:tiger_al...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-light-tigress.png" width="80"> | **Tigress** | Normal breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:tigress}` |
-| <img src="/assets/images/toothless/variants/kb-img-night-light-tigress-alpha.png" width="80"> | **Tigress alpha** | Normal breeding | `/summon isleofberk:night_light ~ ~ ~ {VariantName:tigress_...` |
+### Appaloosa
+
+<img src="/assets/images/toothless/variants/kb-img-night-light-appaloosa.png" width="120">
+
+**Obtainment:** Normal breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:appaloosa}
+```
+
+*Credits: Base IoB variant*
+
+### Appaloosa alpha
+
+<img src="/assets/images/toothless/variants/kb-img-night-light-appaloosa-alpha.png" width="120">
+
+**Obtainment:** Rare breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:appaloosa_alpha}
+```
+
+*Credits: Near base IoB variant*
+
+### Ashwing
+
+<img src="/assets/images/toothless/variants/kb-img-night-light-ashwing.png" width="120">
+
+**Obtainment:** Normal breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:ashwing}
+```
+
+*Credits: Base IoB variant*
+
+### Ashwing alpha
+
+<img src="/assets/images/toothless/variants/kb-img-night-light-ashwing-alpha.png" width="120">
+
+**Obtainment:** Rare breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:ashwing_alpha}
+```
+
+*Credits: Near base IoB variant*
+
+### Colour
+
+<img src="/assets/images/toothless/variants/kb-img-night-light-colour.png" width="120">
+
+**Obtainment:** Bifrost Temple only
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:color}
+```
+
+### Dart
+
+<img src="/assets/images/toothless/variants/kb-img-night-light-dart.png" width="120">
+
+**Obtainment:** Normal breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:dart}
+```
+
+*Credits: Base IoB variant*
+
+### Dart alpha
+
+<img src="/assets/images/toothless/variants/kb-img-night-light-dart-alpha.png" width="120">
+
+**Obtainment:** Rare breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:dart_alpha}
+```
+
+*Credits: Near base IoB variant*
+
+### Dusk
+
+<img src="/assets/images/toothless/variants/kb-img-night-light-dusk.png" width="120">
+
+**Obtainment:** Normal breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:dusk}
+```
+
+*Credits: Base IoB variant*
+
+### Dusk alpha
+
+<img src="/assets/images/toothless/variants/kb-img-night-light-dusk-alpha.png" width="120">
+
+**Obtainment:** Rare breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:dusk_alpha}
+```
+
+*Credits: Near base IoB variant*
+
+### Harlequeen
+
+<img src="/assets/images/toothless/variants/kb-img-night-light-harlequeen.png" width="120">
+
+**Obtainment:** Normal breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:harlequeen}
+```
+
+*Credits: Base IoB variant*
+
+### Harlequeen alpha
+
+<img src="/assets/images/toothless/variants/kb-img-night-light-harlequeen-alpha.png" width="120">
+
+**Obtainment:** Rare breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:harlequeen_alpha}
+```
+
+*Credits: Near base IoB variant*
+
+### Iridescence
+
+<img src="/assets/images/toothless/variants/kb-img-night-light-iridescence.png" width="120">
+
+**Obtainment:** Normal breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:iridescence}
+```
+
+*Credits: Base IoB variant*
+
+### Iridescence alpha
+
+<img src="/assets/images/toothless/variants/kb-img-night-light-iridescence-alpha.png" width="120">
+
+**Obtainment:** Rare breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:iridescence_alpha}
+```
+
+*Credits: Near base IoB variant*
+
+### Leopard
+
+<img src="/assets/images/toothless/variants/kb-img-night-light-leopard.png" width="120">
+
+**Obtainment:** Normal breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:leopard}
+```
+
+*Credits: Base IoB variant*
+
+### Leopard alpha
+
+<img src="/assets/images/toothless/variants/kb-img-night-light-leopard-alpha.png" width="120">
+
+**Obtainment:** Rare breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:leopard_alpha}
+```
+
+*Credits: Near base IoB variant*
+
+### Nightdancer
+
+<img src="/assets/images/toothless/variants/kb-img-night-light-nightdancer.png" width="120">
+
+**Obtainment:** Normal breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:nightdancer}
+```
+
+*Credits: Base IoB variant*
+
+### Nightdancer alpha
+
+<img src="/assets/images/toothless/variants/kb-img-night-light-nightdancer-alpha.png" width="120">
+
+**Obtainment:** Rare breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:nightdancer_alpha}
+```
+
+*Credits: Near base IoB variant*
+
+### Occasus
+
+<img src="/assets/images/toothless/variants/kb-img-night-light-occasus.png" width="120">
+
+**Obtainment:** Normal breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:occasus}
+```
+
+### Occasus alpha
+
+<img src="/assets/images/toothless/variants/kb-img-night-light-occasus-alpha.png" width="120">
+
+**Obtainment:** Rare breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:occasus_alpha}
+```
+
+### Orca
+
+<img src="/assets/images/toothless/variants/kb-img-night-light-orca.png" width="120">
+
+**Obtainment:** Normal breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:orca}
+```
+
+### Pouncer
+
+<img src="/assets/images/toothless/variants/kb-img-night-light-pouncer.png" width="120">
+
+**Obtainment:** Normal breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:pouncer}
+```
+
+*Credits: Base IoB variant*
+
+### Pouncer alpha
+
+<img src="/assets/images/toothless/variants/kb-img-night-light-pouncer-alpha.png" width="120">
+
+**Obtainment:** Rare breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:pouncer_alpha}
+```
+
+*Credits: Near base IoB variant*
+
+### Ruffrunner
+
+<img src="/assets/images/toothless/variants/kb-img-night-light-ruffrunner.png" width="120">
+
+**Obtainment:** Normal breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:ruffrunner}
+```
+
+*Credits: Base IoB variant*
+
+### Ruffrunner alpha
+
+<img src="/assets/images/toothless/variants/kb-img-night-light-ruffrunner-alpha.png" width="120">
+
+**Obtainment:** Rare breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:ruffrunner_alpha}
+```
+
+*Credits: Near base IoB variant*
+
+### Skydancer
+
+<img src="/assets/images/toothless/variants/kb-img-night-light-skydancer.png" width="120">
+
+**Obtainment:** Normal breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:skydancer}
+```
+
+*Credits: Base IoB variant*
+
+### Skydancer alpha
+
+<img src="/assets/images/toothless/variants/kb-img-night-light-skydancer-alpha.png" width="120">
+
+**Obtainment:** Rare breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:skydancer_alpha}
+```
+
+*Credits: Near base IoB variant*
+
+### Smores
+
+<img src="/assets/images/toothless/variants/kb-img-night-light-smores.png" width="120">
+
+**Obtainment:** Normal breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:smores}
+```
+
+### Snow Owl
+
+<img src="/assets/images/toothless/variants/kb-img-night-light-snow-owl.png" width="120">
+
+**Obtainment:** Normal breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:snow_owl}
+```
+
+*Credits: This variant was donated by Ness*
+
+### Snow Owl alpha
+
+<img src="/assets/images/toothless/variants/kb-img-night-light-snow-owl-alpha.png" width="120">
+
+**Obtainment:** Normal breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:snow_owl_alpha}
+```
+
+*Credits: This variant was donated by Ness*
+
+### Tiger
+
+<img src="/assets/images/toothless/variants/kb-img-night-light-tiger.png" width="120">
+
+**Obtainment:** Normal breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:tiger}
+```
+
+### Tiger alpha
+
+<img src="/assets/images/toothless/variants/kb-img-night-light-tiger-alpha.png" width="120">
+
+**Obtainment:** Normal breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:tiger_alpha}
+```
+
+### Tigress
+
+<img src="/assets/images/toothless/variants/kb-img-night-light-tigress.png" width="120">
+
+**Obtainment:** Normal breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:tigress}
+```
+
+*Credits: This variant was designed by Mittens365*
+
+### Tigress alpha
+
+<img src="/assets/images/toothless/variants/kb-img-night-light-tigress-alpha.png" width="120">
+
+**Obtainment:** Normal breeding
+
+```
+/summon isleofberk:night_light ~ ~ ~ {VariantName:tigress_alpha}
+```
+
+*Credits: This variant was designed by Mittens365*
 
 ---
 

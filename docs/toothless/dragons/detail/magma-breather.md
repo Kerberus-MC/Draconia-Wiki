@@ -40,18 +40,105 @@ The Magma Breather is a consequence of the Nine Realms series. It is an Archipel
 
 ## Variants
 
-| | Variant | Obtainment | Summon Command |
-|---|---|---|---|
-| <img src="/assets/images/toothless/variants/kb-img-magma-breather-albino.png" width="80"> | **Albino** | Rare spawn | `/summon isleofberk:gronckle ~ ~ ~ {VariantName:albino_magma}` |
-| <img src="/assets/images/toothless/variants/kb-img-magma-breather-butterball.png" width="80"> | **Butterball** | Normal spawn | `/summon isleofberk:gronckle ~ ~ ~ {VariantName:butterball}` |
-| <img src="/assets/images/toothless/variants/kb-img-magma-breather-magma-breather.png" width="80"> | **Magma Breather** | Normal spawn | `/summon isleofberk:gronckle ~ ~ ~ {VariantName:magma_breat...` |
-| <img src="/assets/images/toothless/variants/kb-img-magma-breather-melanistic.png" width="80"> | **Melanistic** | Rare spawn | `/summon isleofberk:gronckle ~ ~ ~ {VariantName:melanistic_...` |
-| <img src="/assets/images/toothless/variants/kb-img-magma-breather-peppa.png" width="80"> | **Peppa** | Normal spawn | `/summon isleofberk:gronckle ~ ~ ~ {VariantName:peppa}` |
-| <img src="/assets/images/toothless/variants/kb-img-magma-breather-red.png" width="80"> | **Red** | Normal spawn | `/summon isleofberk:gronckle ~ ~ ~ {VariantName:red}` |
-| <img src="/assets/images/toothless/variants/kb-img-magma-breather-toxic-breather.png" width="80"> | **Toxic Breather** | Rare spawn | `/summon isleofberk:gronckle ~ ~ ~ {VariantName:toxic_breat...` |
-| <img src="/assets/images/toothless/variants/kb-img-magma-breather-truffle.png" width="80"> | **Truffle** | Normal spawn | `/summon isleofberk:gronckle ~ ~ ~ {VariantName:truffle}` |
-| <img src="/assets/images/toothless/variants/kb-img-magma-breather-whale.png" width="80"> | **Whale** | Normal spawn | `/summon isleofberk:gronckle ~ ~ ~ {VariantName:whale}` |
-| <img src="/assets/images/toothless/variants/kb-img-magma-breather-zogler.png" width="80"> | **Zogler** | Dreadfall only | `/summon isleofberk:gronckle ~ ~ ~ {VariantName:zogler}` |
+### Albino
+
+<img src="/assets/images/toothless/variants/kb-img-magma-breather-albino.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:gronckle ~ ~ ~ {VariantName:albino_magma}
+```
+
+### Butterball
+
+<img src="/assets/images/toothless/variants/kb-img-magma-breather-butterball.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:gronckle ~ ~ ~ {VariantName:butterball}
+```
+
+### Magma Breather
+
+<img src="/assets/images/toothless/variants/kb-img-magma-breather-magma-breather.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:gronckle ~ ~ ~ {VariantName:magma_breather}
+```
+
+### Melanistic
+
+<img src="/assets/images/toothless/variants/kb-img-magma-breather-melanistic.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:gronckle ~ ~ ~ {VariantName:melanistic_magma}
+```
+
+### Peppa
+
+<img src="/assets/images/toothless/variants/kb-img-magma-breather-peppa.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:gronckle ~ ~ ~ {VariantName:peppa}
+```
+
+### Red
+
+<img src="/assets/images/toothless/variants/kb-img-magma-breather-red.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:gronckle ~ ~ ~ {VariantName:red}
+```
+
+### Toxic Breather
+
+<img src="/assets/images/toothless/variants/kb-img-magma-breather-toxic-breather.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:gronckle ~ ~ ~ {VariantName:toxic_breather}
+```
+
+### Truffle
+
+<img src="/assets/images/toothless/variants/kb-img-magma-breather-truffle.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:gronckle ~ ~ ~ {VariantName:truffle}
+```
+
+### Whale
+
+<img src="/assets/images/toothless/variants/kb-img-magma-breather-whale.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:gronckle ~ ~ ~ {VariantName:whale}
+```
+
+### Zogler
+
+<img src="/assets/images/toothless/variants/kb-img-magma-breather-zogler.png" width="120">
+
+**Obtainment:** Dreadfall only
+
+```
+/summon isleofberk:gronckle ~ ~ ~ {VariantName:zogler}
+```
 
 ---
 

@@ -40,9 +40,15 @@ The Skrillcutter is an Archipelago Additions original hybrid of theSkrill&Stormc
 
 ## Variants
 
-| | Variant | Obtainment | Summon Command |
-|---|---|---|---|
-| <img src="/assets/images/toothless/variants/kb-img-skrillcutter-skrillcutter.png" width="80"> | **Skrillcutter** | Nomral spawn | `/summon isleofberk:skrill ~ ~ ~ {VariantName:skrillcutter}` |
+### Skrillcutter
+
+<img src="/assets/images/toothless/variants/kb-img-skrillcutter-skrillcutter.png" width="120">
+
+**Obtainment:** Nomral spawn
+
+```
+/summon isleofberk:skrill ~ ~ ~ {VariantName:skrillcutter}
+```
 
 ---
 

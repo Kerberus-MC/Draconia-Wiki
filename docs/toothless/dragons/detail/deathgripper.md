@@ -40,37 +40,297 @@ The Deathgripper is a main canon dragon, first appearing in HTTYD 3. It is an Ar
 
 ## Variants
 
-| | Variant | Obtainment | Summon Command |
-|---|---|---|---|
-| <img src="/assets/images/toothless/variants/kb-img-deathgripper-albino.png" width="80"> | **Albino** | Rare spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:dg_alb...` |
-| <img src="/assets/images/toothless/variants/kb-img-deathgripper-aloidurix.png" width="80"> | **Aloidurix** | Rare spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:aloidu...` |
-| <img src="/assets/images/toothless/variants/kb-img-deathgripper-banan.png" width="80"> | **Banan** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:banan}` |
-| <img src="/assets/images/toothless/variants/kb-img-deathgripper-barkgripper.png" width="80"> | **Barkgripper** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:barkgr...` |
-| <img src="/assets/images/toothless/variants/kb-img-deathgripper-blood.png" width="80"> | **Blood** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:blood}` |
-| <img src="/assets/images/toothless/variants/kb-img-deathgripper-deathgripper.png" width="80"> | **Deathgripper** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:deathg...` |
-| <img src="/assets/images/toothless/variants/kb-img-deathgripper-death-knight.png" width="80"> | **Death Knight** | Rare spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:deathk...` |
-| <img src="/assets/images/toothless/variants/kb-img-deathgripper-deserter.png" width="80"> | **Deserter** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:desert...` |
-| <img src="/assets/images/toothless/variants/kb-img-deathgripper-ender.png" width="80"> | **Ender** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:ender}` |
-| <img src="/assets/images/toothless/variants/kb-img-deathgripper-executie.png" width="80"> | **Executie** | Rare spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:execut...` |
-| <img src="/assets/images/toothless/variants/kb-img-deathgripper-eyeball.png" width="80"> | **Eyeball** | Rare spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:eyeball}` |
-| <img src="/assets/images/toothless/variants/kb-img-deathgripper-fenrirs-eviscereaper.png" width="80"> | **Fenrir's Eviscereaper** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:fenrir...` |
-| <img src="/assets/images/toothless/variants/kb-img-deathgripper-flamin-hot.png" width="80"> | **Flamin' Hot** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:flamin...` |
-| <img src="/assets/images/toothless/variants/kb-img-deathgripper-gilded.png" width="80"> | **Gilded** | Rare spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:gilded}` |
-| <img src="/assets/images/toothless/variants/kb-img-deathgripper-grim-hornettle.png" width="80"> | **Grim Hornettle** | Rare spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:grim_h...` |
-| <img src="/assets/images/toothless/variants/kb-img-deathgripper-heatlamp.png" width="80"> | **Heatlamp** | Rare spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:heatla...` |
-| <img src="/assets/images/toothless/variants/kb-img-deathgripper-inexorable-end.png" width="80"> | **Inexorable End** | Rare spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:inexor...` |
-| <img src="/assets/images/toothless/variants/kb-img-deathgripper-leu.png" width="80"> | **Leu** | Rare spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:leu}` |
-| <img src="/assets/images/toothless/variants/kb-img-deathgripper-maelstrom.png" width="80"> | **Maelstrom** | Rare spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:maelst...` |
-| <img src="/assets/images/toothless/variants/kb-img-deathgripper-melanistic.png" width="80"> | **Melanistic** | Rare spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:dg_mel...` |
-| <img src="/assets/images/toothless/variants/kb-img-deathgripper-miasmic-deathgripper.png" width="80"> | **Miasmic Deathgripper** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:miasmi...` |
-| <img src="/assets/images/toothless/variants/kb-img-deathgripper-midnatt.png" width="80"> | **Midnatt** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:midnatt}` |
-| <img src="/assets/images/toothless/variants/kb-img-deathgripper-monarchic-murderfly.png" width="80"> | **Monarchic Murderfly** | Rare spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:monarch}` |
-| <img src="/assets/images/toothless/variants/kb-img-deathgripper-sappheral.png" width="80"> | **Sappheral** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:sapphe...` |
-| <img src="/assets/images/toothless/variants/kb-img-deathgripper-scorch.png" width="80"> | **Scorch** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:scorch}` |
-| <img src="/assets/images/toothless/variants/kb-img-deathgripper-shepherds-delight.png" width="80"> | **Shepherd's Delight** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:shephe...` |
-| <img src="/assets/images/toothless/variants/kb-img-deathgripper-snowy.png" width="80"> | **Snowy** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:snowy}` |
-| <img src="/assets/images/toothless/variants/kb-img-deathgripper-sunset.png" width="80"> | **Sunset** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:sunset}` |
-| <img src="/assets/images/toothless/variants/kb-img-deathgripper-yala.png" width="80"> | **Yala** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:yala}` |
+### Albino
+
+<img src="/assets/images/toothless/variants/kb-img-deathgripper-albino.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:dg_albino}
+```
+
+### Aloidurix
+
+<img src="/assets/images/toothless/variants/kb-img-deathgripper-aloidurix.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:aloidurix}
+```
+
+### Banan
+
+<img src="/assets/images/toothless/variants/kb-img-deathgripper-banan.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:banan}
+```
+
+### Barkgripper
+
+<img src="/assets/images/toothless/variants/kb-img-deathgripper-barkgripper.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:barkgripper}
+```
+
+### Blood
+
+<img src="/assets/images/toothless/variants/kb-img-deathgripper-blood.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:blood}
+```
+
+### Deathgripper
+
+<img src="/assets/images/toothless/variants/kb-img-deathgripper-deathgripper.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:deathgripper}
+```
+
+### Death Knight
+
+<img src="/assets/images/toothless/variants/kb-img-deathgripper-death-knight.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:deathknight}
+```
+
+### Deserter
+
+<img src="/assets/images/toothless/variants/kb-img-deathgripper-deserter.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:deserter}
+```
+
+### Ender
+
+<img src="/assets/images/toothless/variants/kb-img-deathgripper-ender.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:ender}
+```
+
+### Executie
+
+<img src="/assets/images/toothless/variants/kb-img-deathgripper-executie.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:executie}
+```
+
+### Eyeball
+
+<img src="/assets/images/toothless/variants/kb-img-deathgripper-eyeball.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:eyeball}
+```
+
+### Fenrir's Eviscereaper
+
+<img src="/assets/images/toothless/variants/kb-img-deathgripper-fenrirs-eviscereaper.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:fenrirs_eviscereaper}
+```
+
+### Flamin' Hot
+
+<img src="/assets/images/toothless/variants/kb-img-deathgripper-flamin-hot.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:flamin_hot}
+```
+
+### Gilded
+
+<img src="/assets/images/toothless/variants/kb-img-deathgripper-gilded.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:gilded}
+```
+
+### Grim Hornettle
+
+<img src="/assets/images/toothless/variants/kb-img-deathgripper-grim-hornettle.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:grim_hornettle}
+```
+
+### Heatlamp
+
+<img src="/assets/images/toothless/variants/kb-img-deathgripper-heatlamp.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:heatlamp}
+```
+
+### Inexorable End
+
+<img src="/assets/images/toothless/variants/kb-img-deathgripper-inexorable-end.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:inexorable_end}
+```
+
+### Leu
+
+<img src="/assets/images/toothless/variants/kb-img-deathgripper-leu.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:leu}
+```
+
+### Maelstrom
+
+<img src="/assets/images/toothless/variants/kb-img-deathgripper-maelstrom.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:maelstrom}
+```
+
+### Melanistic
+
+<img src="/assets/images/toothless/variants/kb-img-deathgripper-melanistic.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:dg_melanistic}
+```
+
+### Miasmic Deathgripper
+
+<img src="/assets/images/toothless/variants/kb-img-deathgripper-miasmic-deathgripper.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:miasmic_deathgripper}
+```
+
+### Midnatt
+
+<img src="/assets/images/toothless/variants/kb-img-deathgripper-midnatt.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:midnatt}
+```
+
+### Monarchic Murderfly
+
+<img src="/assets/images/toothless/variants/kb-img-deathgripper-monarchic-murderfly.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:monarch}
+```
+
+### Sappheral
+
+<img src="/assets/images/toothless/variants/kb-img-deathgripper-sappheral.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:sappheral}
+```
+
+### Scorch
+
+<img src="/assets/images/toothless/variants/kb-img-deathgripper-scorch.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:scorch}
+```
+
+### Shepherd's Delight
+
+<img src="/assets/images/toothless/variants/kb-img-deathgripper-shepherds-delight.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:shepherds_delight}
+```
+
+*Credits: This is nothing to do with a dog, however much people keep asking. It derives from a proverb.*
+
+### Snowy
+
+<img src="/assets/images/toothless/variants/kb-img-deathgripper-snowy.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:snowy}
+```
+
+### Sunset
+
+<img src="/assets/images/toothless/variants/kb-img-deathgripper-sunset.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:sunset}
+```
+
+### Yala
+
+<img src="/assets/images/toothless/variants/kb-img-deathgripper-yala.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:yala}
+```
 
 ---
 

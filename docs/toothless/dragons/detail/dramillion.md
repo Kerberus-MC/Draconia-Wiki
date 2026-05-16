@@ -42,23 +42,155 @@ No tools or weapons (except Dragon Blades & specified Viking Artifacts ) held
 
 ## Variants
 
-| | Variant | Obtainment | Summon Command |
-|---|---|---|---|
-| <img src="/assets/images/toothless/variants/kb-img-dramillion-albino.png" width="80"> | **Albino** | Rare spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:albino_dr...` |
-| <img src="/assets/images/toothless/variants/kb-img-dramillion-aquamarillion.png" width="80"> | **Aquamarillion** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:aquamaril...` |
-| <img src="/assets/images/toothless/variants/kb-img-dramillion-bonnefire.png" width="80"> | **Bonnefire** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:bonnefire}` |
-| <img src="/assets/images/toothless/variants/kb-img-dramillion-dramillion.png" width="80"> | **Dramillion** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:dramillio...` |
-| <img src="/assets/images/toothless/variants/kb-img-dramillion-elder-dramillion.png" width="80"> | **Elder Dramillion** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:elder_dra...` |
-| <img src="/assets/images/toothless/variants/kb-img-dramillion-hurleqast.png" width="80"> | **Hurleqast** | Rare spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:hurleqast}` |
-| <img src="/assets/images/toothless/variants/kb-img-dramillion-macaron.png" width="80"> | **Macaron** | Thawfest only | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:macaron}` |
-| <img src="/assets/images/toothless/variants/kb-img-dramillion-melanistic.png" width="80"> | **Melanistic** | Rare spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:melanisti...` |
-| <img src="/assets/images/toothless/variants/kb-img-dramillion-mimiric.png" width="80"> | **Mimiric** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:mimiric}` |
-| <img src="/assets/images/toothless/variants/kb-img-dramillion-muffin.png" width="80"> | **Muffin** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:muffin_wcc}` |
-| <img src="/assets/images/toothless/variants/kb-img-dramillion-myrkva.png" width="80"> | **Myrkva** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:myrkva}` |
-| <img src="/assets/images/toothless/variants/kb-img-dramillion-nattvig.png" width="80"> | **Nattvig** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:nattvig}` |
-| <img src="/assets/images/toothless/variants/kb-img-dramillion-ormsliki.png" width="80"> | **Ormsliki** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:ormsliki}` |
-| <img src="/assets/images/toothless/variants/kb-img-dramillion-pineapple.png" width="80"> | **Pineapple** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:pineapple}` |
-| <img src="/assets/images/toothless/variants/kb-img-dramillion-titanwing.png" width="80"> | **Titanwing** | Rare spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:titan_win...` |
+### Albino
+
+<img src="/assets/images/toothless/variants/kb-img-dramillion-albino.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:albino_dramillion}
+```
+
+### Aquamarillion
+
+<img src="/assets/images/toothless/variants/kb-img-dramillion-aquamarillion.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:aquamarillion}
+```
+
+### Bonnefire
+
+<img src="/assets/images/toothless/variants/kb-img-dramillion-bonnefire.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:bonnefire}
+```
+
+### Dramillion
+
+<img src="/assets/images/toothless/variants/kb-img-dramillion-dramillion.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:dramillion }
+```
+
+### Elder Dramillion
+
+<img src="/assets/images/toothless/variants/kb-img-dramillion-elder-dramillion.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:elder_dramillion }
+```
+
+### Hurleqast
+
+<img src="/assets/images/toothless/variants/kb-img-dramillion-hurleqast.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:hurleqast}
+```
+
+### Macaron
+
+<img src="/assets/images/toothless/variants/kb-img-dramillion-macaron.png" width="120">
+
+**Obtainment:** Thawfest only
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:macaron}
+```
+
+### Melanistic
+
+<img src="/assets/images/toothless/variants/kb-img-dramillion-melanistic.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:melanistic_dramillion}
+```
+
+### Mimiric
+
+<img src="/assets/images/toothless/variants/kb-img-dramillion-mimiric.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:mimiric}
+```
+
+### Muffin
+
+<img src="/assets/images/toothless/variants/kb-img-dramillion-muffin.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:muffin_wcc}
+```
+
+### Myrkva
+
+<img src="/assets/images/toothless/variants/kb-img-dramillion-myrkva.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:myrkva}
+```
+
+### Nattvig
+
+<img src="/assets/images/toothless/variants/kb-img-dramillion-nattvig.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:nattvig}
+```
+
+### Ormsliki
+
+<img src="/assets/images/toothless/variants/kb-img-dramillion-ormsliki.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:ormsliki}
+```
+
+### Pineapple
+
+<img src="/assets/images/toothless/variants/kb-img-dramillion-pineapple.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:pineapple}
+```
+
+### Titanwing
+
+<img src="/assets/images/toothless/variants/kb-img-dramillion-titanwing.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:titan_wing_dramillion}
+```
 
 ---
 

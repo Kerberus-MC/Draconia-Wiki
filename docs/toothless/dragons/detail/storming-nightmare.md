@@ -42,19 +42,115 @@ Fire resistance potion effect active
 
 ## Variants
 
-| | Variant | Obtainment | Summon Command |
-|---|---|---|---|
-| <img src="/assets/images/toothless/variants/kb-img-storming-nightmare-albino.png" width="80"> | **Albino** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-storming-nightmare-atlantic.png" width="80"> | **Atlantic** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-storming-nightmare-bad-weather.png" width="80"> | **Bad Weather** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-storming-nightmare-greenwind-storm.png" width="80"> | **Greenwind Storm** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-storming-nightmare-host.png" width="80"> | **Host** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-storming-nightmare-melanistic.png" width="80"> | **Melanistic** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-storming-nightmare-pixel.png" width="80"> | **Pixel** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-storming-nightmare-storming-hookfang.png" width="80"> | **Storming Hookfang** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-storming-nightmare-tempest.png" width="80"> | **Tempest** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-storming-nightmare-thunder.png" width="80"> | **Thunder** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-storming-nightmare-violet-storm.png" width="80"> | **Violet Storm** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
+### Albino
+
+<img src="/assets/images/toothless/variants/kb-img-storming-nightmare-albino.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:albino_stormingnightmare}
+```
+
+### Atlantic
+
+<img src="/assets/images/toothless/variants/kb-img-storming-nightmare-atlantic.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:atlantic}
+```
+
+### Bad Weather
+
+<img src="/assets/images/toothless/variants/kb-img-storming-nightmare-bad-weather.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:bad_weather}
+```
+
+### Greenwind Storm
+
+<img src="/assets/images/toothless/variants/kb-img-storming-nightmare-greenwind-storm.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:greenwind_storm}
+```
+
+### Host
+
+<img src="/assets/images/toothless/variants/kb-img-storming-nightmare-host.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:host}
+```
+
+### Melanistic
+
+<img src="/assets/images/toothless/variants/kb-img-storming-nightmare-melanistic.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:melanistic_stormingnightmare}
+```
+
+### Pixel
+
+<img src="/assets/images/toothless/variants/kb-img-storming-nightmare-pixel.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:pixel}
+```
+
+### Storming Hookfang
+
+<img src="/assets/images/toothless/variants/kb-img-storming-nightmare-storming-hookfang.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:storming_hookfang}
+```
+
+### Tempest
+
+<img src="/assets/images/toothless/variants/kb-img-storming-nightmare-tempest.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:tempest}
+```
+
+### Thunder
+
+<img src="/assets/images/toothless/variants/kb-img-storming-nightmare-thunder.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:thunder}
+```
+
+### Violet Storm
+
+<img src="/assets/images/toothless/variants/kb-img-storming-nightmare-violet-storm.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:violet_storm}
+```
 
 ---
 

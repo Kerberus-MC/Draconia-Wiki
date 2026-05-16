@@ -42,23 +42,185 @@ Fire resistance potion effect active
 
 ## Variants
 
-| | Variant | Obtainment | Summon Command |
-|---|---|---|---|
-| <img src="/assets/images/toothless/variants/kb-img-devilish-dervish-albino.png" width="80"> | **Albino** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-devilish-dervish-angelic-dervish.png" width="80"> | **Angelic Dervish** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-devilish-dervish-azurish-dervish.png" width="80"> | **Azurish Dervish** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-devilish-dervish-devilish-alastor.png" width="80"> | **Devilish Alastor** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-devilish-dervish-devilish-cheese.png" width="80"> | **Devilish Cheese** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-devilish-dervish-devilish-dervish.png" width="80"> | **Devilish Dervish** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-devilish-dervish-devilish-glow.png" width="80"> | **Devilish Glow** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-devilish-dervish-ducky-feet.png" width="80"> | **Ducky Feet** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-devilish-dervish-golden-devil.png" width="80"> | **Golden Devil** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-devilish-dervish-greenish-dervish.png" width="80"> | **Greenish Dervish** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-devilish-dervish-hellish-dervish.png" width="80"> | **Hellish Dervish** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-devilish-dervish-icy-dervish.png" width="80"> | **Icy Dervish** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-devilish-dervish-leucistic.png" width="80"> | **Leucistic** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-devilish-dervish-luminish-dervish.png" width="80"> | **Luminish Dervish** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-devilish-dervish-melanish-dervish.png" width="80"> | **Melanish Dervish** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
+### Albino
+
+<img src="/assets/images/toothless/variants/kb-img-devilish-dervish-albino.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:albinish_dervish}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Angelic Dervish
+
+<img src="/assets/images/toothless/variants/kb-img-devilish-dervish-angelic-dervish.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:angelic_dervish}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Azurish Dervish
+
+<img src="/assets/images/toothless/variants/kb-img-devilish-dervish-azurish-dervish.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:azurish_dervish}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Devilish Alastor
+
+<img src="/assets/images/toothless/variants/kb-img-devilish-dervish-devilish-alastor.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:devilish_alastor}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Devilish Cheese
+
+<img src="/assets/images/toothless/variants/kb-img-devilish-dervish-devilish-cheese.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:devilish_cheese}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Devilish Dervish
+
+<img src="/assets/images/toothless/variants/kb-img-devilish-dervish-devilish-dervish.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:devilish_dervish}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Devilish Glow
+
+<img src="/assets/images/toothless/variants/kb-img-devilish-dervish-devilish-glow.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:devilish_glow}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Ducky Feet
+
+<img src="/assets/images/toothless/variants/kb-img-devilish-dervish-ducky-feet.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:ducky_feet}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Golden Devil
+
+<img src="/assets/images/toothless/variants/kb-img-devilish-dervish-golden-devil.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:golden_devil}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Greenish Dervish
+
+<img src="/assets/images/toothless/variants/kb-img-devilish-dervish-greenish-dervish.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:greenish_dervish}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Hellish Dervish
+
+<img src="/assets/images/toothless/variants/kb-img-devilish-dervish-hellish-dervish.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:hellish_dervish}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Icy Dervish
+
+<img src="/assets/images/toothless/variants/kb-img-devilish-dervish-icy-dervish.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:icy_dervish}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Leucistic
+
+<img src="/assets/images/toothless/variants/kb-img-devilish-dervish-leucistic.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:leucistish_dervish}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Luminish Dervish
+
+<img src="/assets/images/toothless/variants/kb-img-devilish-dervish-luminish-dervish.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:luminish_dervish}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Melanish Dervish
+
+<img src="/assets/images/toothless/variants/kb-img-devilish-dervish-melanish-dervish.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:melanish_dervish}
+```
+
+*Credits: Stego's Dragons variant*
 
 ---
 

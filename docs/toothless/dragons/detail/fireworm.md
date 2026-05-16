@@ -40,19 +40,137 @@ The Fireworm is a series canon dragon, first appearing in Riders & Defenders of 
 
 ## Variants
 
-| | Variant | Obtainment | Summon Command |
-|---|---|---|---|
-| <img src="/assets/images/toothless/variants/kb-img-fireworm-bonefire.png" width="80"> | **Bonefire** | Normal spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:bone...` |
-| <img src="/assets/images/toothless/variants/kb-img-fireworm-copperworm.png" width="80"> | **Copperworm** | Normal spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:copp...` |
-| <img src="/assets/images/toothless/variants/kb-img-fireworm-fearsome-flamellion.png" width="80"> | **Fearsome Flamellion** | Normal spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:fear...` |
-| <img src="/assets/images/toothless/variants/kb-img-fireworm-fireworm.png" width="80"> | **Fireworm** | Normal spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:fire...` |
-| <img src="/assets/images/toothless/variants/kb-img-fireworm-fireworm-rise-of-berk.png" width="80"> | **Fireworm (Rise of Berk)** | Normal spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:rob_...` |
-| <img src="/assets/images/toothless/variants/kb-img-fireworm-iceworm.png" width="80"> | **Iceworm** | Normal spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:icew...` |
-| <img src="/assets/images/toothless/variants/kb-img-fireworm-indiumworm.png" width="80"> | **Indiumworm** | Normal spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:indi...` |
-| <img src="/assets/images/toothless/variants/kb-img-fireworm-ironworm.png" width="80"> | **Ironworm** | Normal spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:iron...` |
-| <img src="/assets/images/toothless/variants/kb-img-fireworm-lithiumworm.png" width="80"> | **Lithiumworm** | Normal spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:lith...` |
-| <img src="/assets/images/toothless/variants/kb-img-fireworm-metallicworm.png" width="80"> | **Metallicworm** | Normal spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:meta...` |
-| <img src="/assets/images/toothless/variants/kb-img-fireworm-verdigriffworm.png" width="80"> | **Verdigriffworm** | Normal spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:verd...` |
+### Bonefire
+
+<img src="/assets/images/toothless/variants/kb-img-fireworm-bonefire.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:bonefire}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Copperworm
+
+<img src="/assets/images/toothless/variants/kb-img-fireworm-copperworm.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:copperworm}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Fearsome Flamellion
+
+<img src="/assets/images/toothless/variants/kb-img-fireworm-fearsome-flamellion.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:fearsome_flamellion}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Fireworm
+
+<img src="/assets/images/toothless/variants/kb-img-fireworm-fireworm.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:fireworm}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Fireworm (Rise of Berk)
+
+<img src="/assets/images/toothless/variants/kb-img-fireworm-fireworm-rise-of-berk.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:rob_fireworm}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Iceworm
+
+<img src="/assets/images/toothless/variants/kb-img-fireworm-iceworm.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:iceworm}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Indiumworm
+
+<img src="/assets/images/toothless/variants/kb-img-fireworm-indiumworm.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:indiumworm}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Ironworm
+
+<img src="/assets/images/toothless/variants/kb-img-fireworm-ironworm.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:ironworm}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Lithiumworm
+
+<img src="/assets/images/toothless/variants/kb-img-fireworm-lithiumworm.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:lithiumworm}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Metallicworm
+
+<img src="/assets/images/toothless/variants/kb-img-fireworm-metallicworm.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:metalicworm}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Verdigriffworm
+
+<img src="/assets/images/toothless/variants/kb-img-fireworm-verdigriffworm.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:verdigriffworm}
+```
+
+*Credits: Stego's Dragons variant*
 
 ---
 

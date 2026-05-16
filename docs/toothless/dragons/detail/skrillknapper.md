@@ -41,9 +41,15 @@ The Skrillknapper is a game canon hybrid of theBoneknapper&Skrill, first appeari
 
 ## Variants
 
-| | Variant | Obtainment | Summon Command |
-|---|---|---|---|
-| <img src="/assets/images/toothless/variants/kb-img-skrillknapper-skrillknapper.png" width="80"> | **Skrillknapper** | Nomral spawn | `/summon isleofberk:skrill ~ ~ ~ {VariantName:skrillknapper}` |
+### Skrillknapper
+
+<img src="/assets/images/toothless/variants/kb-img-skrillknapper-skrillknapper.png" width="120">
+
+**Obtainment:** Nomral spawn
+
+```
+/summon isleofberk:skrill ~ ~ ~ {VariantName:skrillknapper}
+```
 
 ---
 

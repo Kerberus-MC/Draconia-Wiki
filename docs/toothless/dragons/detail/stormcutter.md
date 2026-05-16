@@ -43,38 +43,309 @@ Fire resistance potion effect active
 
 ## Variants
 
-| | Variant | Obtainment | Summon Command |
-|---|---|---|---|
-| <img src="/assets/images/toothless/variants/kb-img-stormcutter-albino.png" width="80"> | **Albino** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-stormcutter-aurora.png" width="80"> | **Aurora** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-stormcutter-bananastorm.png" width="80"> | **Bananastorm** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-stormcutter-barn-owl.png" width="80"> | **Barn Owl** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-stormcutter-black-barn-owl.png" width="80"> | **Black Barn Owl** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-stormcutter-boreal-owl.png" width="80"> | **Boreal Owl** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-stormcutter-burrowing-owl.png" width="80"> | **Burrowing Owl** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-stormcutter-cloudjumper.png" width="80"> | **Cloudjumper** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-stormcutter-cookiecutter.png" width="80"> | **Cookiecutter** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-stormcutter-dimflight.png" width="80"> | **Dimflight** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-stormcutter-dvalin.png" width="80"> | **Dvalin** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-stormcutter-gloomleer.png" width="80"> | **Gloomleer** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-stormcutter-hopewing.png" width="80"> | **Hopewing** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-stormcutter-hurribane.png" width="80"> | **Hurribane** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-stormcutter-icestorm.png" width="80"> | **Icestorm** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-stormcutter-melanistic.png" width="80"> | **Melanistic** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-stormcutter-owlhoot.png" width="80"> | **Owlhoot** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-stormcutter-rebel.png" width="80"> | **Rebel** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-stormcutter-red-dragon.png" width="80"> | **Red Dragon** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-stormcutter-resistance.png" width="80"> | **Resistance** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-stormcutter-rogue.png" width="80"> | **Rogue** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-stormcutter-saddleback.png" width="80"> | **Saddleback** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-stormcutter-serene.png" width="80"> | **Serene** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-stormcutter-snowy-owl.png" width="80"> | **Snowy Owl** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-stormcutter-stormcutter.png" width="80"> | **Stormcutter** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-stormcutter-tempestuous-scalestrom.png" width="80"> | **Tempestuous Scalestrom** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-stormcutter-tripfire.png" width="80"> | **Tripfire** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-stormcutter-vibrant.png" width="80"> | **Vibrant** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-stormcutter-warpstorm.png" width="80"> | **Warpstorm** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-stormcutter-woodland.png" width="80"> | **Woodland** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
+### Albino
+
+<img src="/assets/images/toothless/variants/kb-img-stormcutter-albino.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:albino_stormcutter}
+```
+
+### Aurora
+
+<img src="/assets/images/toothless/variants/kb-img-stormcutter-aurora.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:aurora}
+```
+
+### Bananastorm
+
+<img src="/assets/images/toothless/variants/kb-img-stormcutter-bananastorm.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:bananastorm}
+```
+
+### Barn Owl
+
+<img src="/assets/images/toothless/variants/kb-img-stormcutter-barn-owl.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:barn_owl}
+```
+
+### Black Barn Owl
+
+<img src="/assets/images/toothless/variants/kb-img-stormcutter-black-barn-owl.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:black_barn_owl}
+```
+
+### Boreal Owl
+
+<img src="/assets/images/toothless/variants/kb-img-stormcutter-boreal-owl.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:boreal_owl}
+```
+
+### Burrowing Owl
+
+<img src="/assets/images/toothless/variants/kb-img-stormcutter-burrowing-owl.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:burrowing_owl}
+```
+
+### Cloudjumper
+
+<img src="/assets/images/toothless/variants/kb-img-stormcutter-cloudjumper.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:cloudjumper}
+```
+
+### Cookiecutter
+
+<img src="/assets/images/toothless/variants/kb-img-stormcutter-cookiecutter.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:cookiecutter}
+```
+
+### Dimflight
+
+<img src="/assets/images/toothless/variants/kb-img-stormcutter-dimflight.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:dimflight}
+```
+
+### Dvalin
+
+<img src="/assets/images/toothless/variants/kb-img-stormcutter-dvalin.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:dvalin}
+```
+
+### Gloomleer
+
+<img src="/assets/images/toothless/variants/kb-img-stormcutter-gloomleer.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:gloomleer}
+```
+
+### Hopewing
+
+<img src="/assets/images/toothless/variants/kb-img-stormcutter-hopewing.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:hopewing}
+```
+
+*Credits: This variant was originally designed and made by Roar. It has since been remade but the design remains the same.*
+
+### Hurribane
+
+<img src="/assets/images/toothless/variants/kb-img-stormcutter-hurribane.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:hurribane}
+```
+
+### Icestorm
+
+<img src="/assets/images/toothless/variants/kb-img-stormcutter-icestorm.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:icestorm}
+```
+
+### Melanistic
+
+<img src="/assets/images/toothless/variants/kb-img-stormcutter-melanistic.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:melanistic_stormcutter}
+```
+
+### Owlhoot
+
+<img src="/assets/images/toothless/variants/kb-img-stormcutter-owlhoot.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:owlhoot}
+```
+
+*Credits: This variant was originally designed and made by Wispy. It has since been remade but the design remains the same.*
+
+### Rebel
+
+<img src="/assets/images/toothless/variants/kb-img-stormcutter-rebel.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:rebel}
+```
+
+### Red Dragon
+
+<img src="/assets/images/toothless/variants/kb-img-stormcutter-red-dragon.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:red_dragon}
+```
+
+### Resistance
+
+<img src="/assets/images/toothless/variants/kb-img-stormcutter-resistance.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:resistance}
+```
+
+### Rogue
+
+<img src="/assets/images/toothless/variants/kb-img-stormcutter-rogue.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:rogue}
+```
+
+### Saddleback
+
+<img src="/assets/images/toothless/variants/kb-img-stormcutter-saddleback.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:saddleback}
+```
+
+### Serene
+
+<img src="/assets/images/toothless/variants/kb-img-stormcutter-serene.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:serene}
+```
+
+### Snowy Owl
+
+<img src="/assets/images/toothless/variants/kb-img-stormcutter-snowy-owl.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:snowy_owl}
+```
+
+### Stormcutter
+
+<img src="/assets/images/toothless/variants/kb-img-stormcutter-stormcutter.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:stormcutter}
+```
+
+### Tempestuous Scalestrom
+
+<img src="/assets/images/toothless/variants/kb-img-stormcutter-tempestuous-scalestrom.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:tempestuous_scalestrom}
+```
+
+### Tripfire
+
+<img src="/assets/images/toothless/variants/kb-img-stormcutter-tripfire.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:tripfire}
+```
+
+### Vibrant
+
+<img src="/assets/images/toothless/variants/kb-img-stormcutter-vibrant.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:vibrant}
+```
+
+### Warpstorm
+
+<img src="/assets/images/toothless/variants/kb-img-stormcutter-warpstorm.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:warpstorm}
+```
+
+### Woodland
+
+<img src="/assets/images/toothless/variants/kb-img-stormcutter-woodland.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:woodland}
+```
 
 ---
 

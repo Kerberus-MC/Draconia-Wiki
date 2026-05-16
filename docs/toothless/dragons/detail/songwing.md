@@ -43,31 +43,281 @@ Night Vision potion effect active
 
 ## Variants
 
-| | Variant | Obtainment | Summon Command |
-|---|---|---|---|
-| <img src="/assets/images/toothless/variants/kb-img-songwing-albino.png" width="80"> | **Albino** | Rare spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:albino_so...` |
-| <img src="/assets/images/toothless/variants/kb-img-songwing-autumnsong.png" width="80"> | **Autumnsong** | Normal spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:autumnsong}` |
-| <img src="/assets/images/toothless/variants/kb-img-songwing-blueflame.png" width="80"> | **Blueflame** | Normal spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:blueflame...` |
-| <img src="/assets/images/toothless/variants/kb-img-songwing-cheesesong.png" width="80"> | **Cheesesong** | Rare spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:cheesesong}` |
-| <img src="/assets/images/toothless/variants/kb-img-songwing-copperwing.png" width="80"> | **Copperwing** | Normal spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:copperwing}` |
-| <img src="/assets/images/toothless/variants/kb-img-songwing-dragonfruitwing.png" width="80"> | **Dragonfruitwing** | Normal spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:dragonfru...` |
-| <img src="/assets/images/toothless/variants/kb-img-songwing-endereye.png" width="80"> | **Endereye** | Normal spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:endereye}` |
-| <img src="/assets/images/toothless/variants/kb-img-songwing-flourishsong.png" width="80"> | **Flourishsong** | Normal spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:flourishs...` |
-| <img src="/assets/images/toothless/variants/kb-img-songwing-leucistic.png" width="80"> | **Leucistic** | Rare spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:leucistic...` |
-| <img src="/assets/images/toothless/variants/kb-img-songwing-lullabywing.png" width="80"> | **Lullabywing** | Normal spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:lullabywi...` |
-| <img src="/assets/images/toothless/variants/kb-img-songwing-melanistic.png" width="80"> | **Melanistic** | Rare spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:melanisti...` |
-| <img src="/assets/images/toothless/variants/kb-img-songwing-midsummersong.png" width="80"> | **Midsummersong** | Normal spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:midsummer...` |
-| <img src="/assets/images/toothless/variants/kb-img-songwing-mothra.png" width="80"> | **Mothra** | Normal spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:mothra}` |
-| <img src="/assets/images/toothless/variants/kb-img-songwing-northsong.png" width="80"> | **Northsong** | Normal spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:northsong}` |
-| <img src="/assets/images/toothless/variants/kb-img-songwing-prism.png" width="80"> | **Prism** | Bifrost Temple only | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:prism_son...` |
-| <img src="/assets/images/toothless/variants/kb-img-songwing-scarletsong.png" width="80"> | **Scarletsong** | Normal spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:scarletso...` |
-| <img src="/assets/images/toothless/variants/kb-img-songwing-solarflare.png" width="80"> | **Solarflare** | Normal spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:solarflare}` |
-| <img src="/assets/images/toothless/variants/kb-img-songwing-songdeath.png" width="80"> | **Songdeath** | Normal spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:songdeath}` |
-| <img src="/assets/images/toothless/variants/kb-img-songwing-songwing.png" width="80"> | **Songwing** | Normal spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:songwing}` |
-| <img src="/assets/images/toothless/variants/kb-img-songwing-vaporwave.png" width="80"> | **Vaporwave** | Normal spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:vaporwave}` |
-| <img src="/assets/images/toothless/variants/kb-img-songwing-voidwing.png" width="80"> | **Voidwing** | Normal spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:voidwing}` |
-| <img src="/assets/images/toothless/variants/kb-img-songwing-wastewing.png" width="80"> | **Wastewing** | Normal spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:wastewing}` |
-| <img src="/assets/images/toothless/variants/kb-img-songwing-watermelonwing.png" width="80"> | **Watermelonwing** | Normal spawn | `/summon isleofberk:night_fury ~ ~ ~ {VariantName:watermelo...` |
+### Albino
+
+<img src="/assets/images/toothless/variants/kb-img-songwing-albino.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:albino_songwing}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Autumnsong
+
+<img src="/assets/images/toothless/variants/kb-img-songwing-autumnsong.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:autumnsong}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Blueflame
+
+<img src="/assets/images/toothless/variants/kb-img-songwing-blueflame.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:blueflame_songwing}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Cheesesong
+
+<img src="/assets/images/toothless/variants/kb-img-songwing-cheesesong.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:cheesesong}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Copperwing
+
+<img src="/assets/images/toothless/variants/kb-img-songwing-copperwing.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:copperwing}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Dragonfruitwing
+
+<img src="/assets/images/toothless/variants/kb-img-songwing-dragonfruitwing.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:dragonfruitwing}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Endereye
+
+<img src="/assets/images/toothless/variants/kb-img-songwing-endereye.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:endereye}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Flourishsong
+
+<img src="/assets/images/toothless/variants/kb-img-songwing-flourishsong.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:flourishsong}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Leucistic
+
+<img src="/assets/images/toothless/variants/kb-img-songwing-leucistic.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:leucistic_songwing}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Lullabywing
+
+<img src="/assets/images/toothless/variants/kb-img-songwing-lullabywing.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:lullabywing}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Melanistic
+
+<img src="/assets/images/toothless/variants/kb-img-songwing-melanistic.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:melanistic_songwing}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Midsummersong
+
+<img src="/assets/images/toothless/variants/kb-img-songwing-midsummersong.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:midsummersong}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Mothra
+
+<img src="/assets/images/toothless/variants/kb-img-songwing-mothra.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:mothra}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Northsong
+
+<img src="/assets/images/toothless/variants/kb-img-songwing-northsong.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:northsong}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Prism
+
+<img src="/assets/images/toothless/variants/kb-img-songwing-prism.png" width="120">
+
+**Obtainment:** Bifrost Temple only
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:prism_songwing}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Scarletsong
+
+<img src="/assets/images/toothless/variants/kb-img-songwing-scarletsong.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:scarletsong}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Solarflare
+
+<img src="/assets/images/toothless/variants/kb-img-songwing-solarflare.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:solarflare}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Songdeath
+
+<img src="/assets/images/toothless/variants/kb-img-songwing-songdeath.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:songdeath}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Songwing
+
+<img src="/assets/images/toothless/variants/kb-img-songwing-songwing.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:songwing}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Vaporwave
+
+<img src="/assets/images/toothless/variants/kb-img-songwing-vaporwave.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:vaporwave}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Voidwing
+
+<img src="/assets/images/toothless/variants/kb-img-songwing-voidwing.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:voidwing}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Wastewing
+
+<img src="/assets/images/toothless/variants/kb-img-songwing-wastewing.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:wastewing}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Watermelonwing
+
+<img src="/assets/images/toothless/variants/kb-img-songwing-watermelonwing.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:night_fury ~ ~ ~ {VariantName:watermelonwing}
+```
+
+*Credits: Stego's Dragons variant*
 
 ---
 

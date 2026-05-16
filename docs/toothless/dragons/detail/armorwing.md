@@ -42,19 +42,115 @@ Fire resistance potion effect active
 
 ## Variants
 
-| | Variant | Obtainment | Summon Command |
-|---|---|---|---|
-| <img src="/assets/images/toothless/variants/kb-img-armorwing-animated-armour.png" width="80"> | **Animated Armour** | Command only | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-armorwing-albino.png" width="80"> | **Albino** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-armorwing-armourwing.png" width="80"> | **Armourwing** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-armorwing-battlenaenae.png" width="80"> | **Battlenaenae** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-armorwing-battlewhip.png" width="80"> | **Battlewhip** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-armorwing-copperwing.png" width="80"> | **Copperwing** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-armorwing-diamondback.png" width="80"> | **Diamondback** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-armorwing-emerald-guardian.png" width="80"> | **Emerald Guardian** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-armorwing-goldrush.png" width="80"> | **Goldrush** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-armorwing-melanistic.png" width="80"> | **Melanistic** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-armorwing-netherwing.png" width="80"> | **Netherwing** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
+### Animated Armour
+
+<img src="/assets/images/toothless/variants/kb-img-armorwing-animated-armour.png" width="120">
+
+**Obtainment:** Command only
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:animated_armour}
+```
+
+### Albino
+
+<img src="/assets/images/toothless/variants/kb-img-armorwing-albino.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:albino_armorwing}
+```
+
+### Armourwing
+
+<img src="/assets/images/toothless/variants/kb-img-armorwing-armourwing.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:armorwing}
+```
+
+### Battlenaenae
+
+<img src="/assets/images/toothless/variants/kb-img-armorwing-battlenaenae.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:battlenaenae}
+```
+
+### Battlewhip
+
+<img src="/assets/images/toothless/variants/kb-img-armorwing-battlewhip.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:battlewhip}
+```
+
+### Copperwing
+
+<img src="/assets/images/toothless/variants/kb-img-armorwing-copperwing.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:copperwing}
+```
+
+### Diamondback
+
+<img src="/assets/images/toothless/variants/kb-img-armorwing-diamondback.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:diamond}
+```
+
+### Emerald Guardian
+
+<img src="/assets/images/toothless/variants/kb-img-armorwing-emerald-guardian.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:emerald_guardian}
+```
+
+### Goldrush
+
+<img src="/assets/images/toothless/variants/kb-img-armorwing-goldrush.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:goldrush}
+```
+
+### Melanistic
+
+<img src="/assets/images/toothless/variants/kb-img-armorwing-melanistic.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:melanistic_armorwing}
+```
+
+### Netherwing
+
+<img src="/assets/images/toothless/variants/kb-img-armorwing-netherwing.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:netherwing}
+```
 
 ---
 

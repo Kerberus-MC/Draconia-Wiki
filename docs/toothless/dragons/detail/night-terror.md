@@ -40,28 +40,245 @@ The Night Terror is a series canon dragon, first appearing in Race to the Edge. 
 
 ## Variants
 
-| | Variant | Obtainment | Summon Command |
-|---|---|---|---|
-| <img src="/assets/images/toothless/variants/kb-img-night-terror-albino.png" width="80"> | **Albino** | Rare spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:nigh...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-terror-bronze.png" width="80"> | **Bronze** | Normal spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:bron...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-terror-darkvarg.png" width="80"> | **Darkvarg** | Rare spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:dark...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-terror-dusk-mite.png" width="80"> | **Dusk Mite** | Rare spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:dusk...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-terror-eclipse-terror.png" width="80"> | **Eclipse Terror** | Normal spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:ecli...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-terror-fire-terror.png" width="80"> | **Fire Terror** | Rare spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:fire...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-terror-gold.png" width="80"> | **Gold** | Rare spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:gold...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-terror-hailstorm.png" width="80"> | **Hailstorm** | Rare spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:hail...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-terror-heartwarmer.png" width="80"> | **Heartwarmer** | Rare spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:hear...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-terror-leucistic.png" width="80"> | **Leucistic** | Rare spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:nigh...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-terror-melanistic.png" width="80"> | **Melanistic** | Rare spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:nigh...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-terror-midnight-terror.png" width="80"> | **Midnight Terror** | Normal spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:midn...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-terror-night-cheese.png" width="80"> | **Night Cheese** | Rare spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:nigh...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-terror-night-swarm.png" width="80"> | **Night Swarm** | Normal spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:nigh...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-terror-night-terror.png" width="80"> | **Night Terror** | Normal spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:nigh...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-terror-nightwatch.png" width="80"> | **Nightwatch** | Normal spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:nigh...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-terror-silver.png" width="80"> | **Silver** | Rare spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:silv...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-terror-smidvarg.png" width="80"> | **Smidvarg** | Rare spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:smid...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-terror-sunrise.png" width="80"> | **Sunrise** | Rare spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:sunr...` |
-| <img src="/assets/images/toothless/variants/kb-img-night-terror-wasted-love.png" width="80"> | **Wasted Love** | Rare spawn | `/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:wast...` |
+### Albino
+
+<img src="/assets/images/toothless/variants/kb-img-night-terror-albino.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:night_albino}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Bronze
+
+<img src="/assets/images/toothless/variants/kb-img-night-terror-bronze.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:bronze_terror}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Darkvarg
+
+<img src="/assets/images/toothless/variants/kb-img-night-terror-darkvarg.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:darkvarg}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Dusk Mite
+
+<img src="/assets/images/toothless/variants/kb-img-night-terror-dusk-mite.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:dusk_mite}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Eclipse Terror
+
+<img src="/assets/images/toothless/variants/kb-img-night-terror-eclipse-terror.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:eclipse_terror}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Fire Terror
+
+<img src="/assets/images/toothless/variants/kb-img-night-terror-fire-terror.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:fire_terror}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Gold
+
+<img src="/assets/images/toothless/variants/kb-img-night-terror-gold.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:golden_terror}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Hailstorm
+
+<img src="/assets/images/toothless/variants/kb-img-night-terror-hailstorm.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:hailstorm}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Heartwarmer
+
+<img src="/assets/images/toothless/variants/kb-img-night-terror-heartwarmer.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:heartwarmer}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Leucistic
+
+<img src="/assets/images/toothless/variants/kb-img-night-terror-leucistic.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:night_leucist}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Melanistic
+
+<img src="/assets/images/toothless/variants/kb-img-night-terror-melanistic.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:night_melan}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Midnight Terror
+
+<img src="/assets/images/toothless/variants/kb-img-night-terror-midnight-terror.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:midnight_terror}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Night Cheese
+
+<img src="/assets/images/toothless/variants/kb-img-night-terror-night-cheese.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:night_cheese}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Night Swarm
+
+<img src="/assets/images/toothless/variants/kb-img-night-terror-night-swarm.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:night_swarm}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Night Terror
+
+<img src="/assets/images/toothless/variants/kb-img-night-terror-night-terror.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:night_terror}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Nightwatch
+
+<img src="/assets/images/toothless/variants/kb-img-night-terror-nightwatch.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:nightwatch}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Silver
+
+<img src="/assets/images/toothless/variants/kb-img-night-terror-silver.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:silver_terror}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Smidvarg
+
+<img src="/assets/images/toothless/variants/kb-img-night-terror-smidvarg.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:smidvarg}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Sunrise
+
+<img src="/assets/images/toothless/variants/kb-img-night-terror-sunrise.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:sunrise_terror}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Wasted Love
+
+<img src="/assets/images/toothless/variants/kb-img-night-terror-wasted-love.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:terrible_terror ~ ~ ~ {VariantName:wasted_love}
+```
+
+*Credits: Stego's Dragons variant*
 
 ---
 

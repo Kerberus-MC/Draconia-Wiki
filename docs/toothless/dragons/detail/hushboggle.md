@@ -39,18 +39,105 @@ The Hushboggle is a game canon hybrid of theSnow Wraith&Whispering Death, first 
 
 ## Variants
 
-| | Variant | Obtainment | Summon Command |
-|---|---|---|---|
-| <img src="/assets/images/toothless/variants/kb-img-hushboggle-albino.png" width="80"> | **Albino** | Rare spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:hush_a...` |
-| <img src="/assets/images/toothless/variants/kb-img-hushboggle-blazeboggle.png" width="80"> | **Blazeboggle** | Rare spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:blazeb...` |
-| <img src="/assets/images/toothless/variants/kb-img-hushboggle-foehammer.png" width="80"> | **Foehammer** | Normal spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:foeham...` |
-| <img src="/assets/images/toothless/variants/kb-img-hushboggle-gorge-hushboggle.png" width="80"> | **Gorge Hushboggle** | Normal spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:gorge_...` |
-| <img src="/assets/images/toothless/variants/kb-img-hushboggle-hushboggle.png" width="80"> | **Hushboggle** | Normal spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:hushbo...` |
-| <img src="/assets/images/toothless/variants/kb-img-hushboggle-melanistic.png" width="80"> | **Melanistic** | Rare spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:melanb...` |
-| <img src="/assets/images/toothless/variants/kb-img-hushboggle-mythic-murmurquill.png" width="80"> | **Mythic Murmurquill** | Normal spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:mythic...` |
-| <img src="/assets/images/toothless/variants/kb-img-hushboggle-nightboggle.png" width="80"> | **Nightboggle** | Normal spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:nightb...` |
-| <img src="/assets/images/toothless/variants/kb-img-hushboggle-roseboggle.png" width="80"> | **Roseboggle** | Normal spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:rosebo...` |
-| <img src="/assets/images/toothless/variants/kb-img-hushboggle-screamboggle.png" width="80"> | **Screamboggle** | Rare spawn | `/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:scream...` |
+### Albino
+
+<img src="/assets/images/toothless/variants/kb-img-hushboggle-albino.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:hush_albino}
+```
+
+### Blazeboggle
+
+<img src="/assets/images/toothless/variants/kb-img-hushboggle-blazeboggle.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:blazeboggle}
+```
+
+### Foehammer
+
+<img src="/assets/images/toothless/variants/kb-img-hushboggle-foehammer.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:foehammer}
+```
+
+### Gorge Hushboggle
+
+<img src="/assets/images/toothless/variants/kb-img-hushboggle-gorge-hushboggle.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:gorge_hushboggle}
+```
+
+### Hushboggle
+
+<img src="/assets/images/toothless/variants/kb-img-hushboggle-hushboggle.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:hushboggle}
+```
+
+### Melanistic
+
+<img src="/assets/images/toothless/variants/kb-img-hushboggle-melanistic.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:melanboggle}
+```
+
+### Mythic Murmurquill
+
+<img src="/assets/images/toothless/variants/kb-img-hushboggle-mythic-murmurquill.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:mythic_murmurquill}
+```
+
+### Nightboggle
+
+<img src="/assets/images/toothless/variants/kb-img-hushboggle-nightboggle.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:nightboggle}
+```
+
+### Roseboggle
+
+<img src="/assets/images/toothless/variants/kb-img-hushboggle-roseboggle.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:roseboggle}
+```
+
+### Screamboggle
+
+<img src="/assets/images/toothless/variants/kb-img-hushboggle-screamboggle.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:screamboggle}
+```
 
 ---
 

@@ -42,17 +42,113 @@ Fire resistance potion effect active
 
 ## Variants
 
-| | Variant | Obtainment | Summon Command |
-|---|---|---|---|
-| <img src="/assets/images/toothless/variants/kb-img-prickleboggle-albino.png" width="80"> | **Albino** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-prickleboggle-dryboggle.png" width="80"> | **Dryboggle** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-prickleboggle-kelpboggle.png" width="80"> | **Kelpboggle** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-prickleboggle-leucistic.png" width="80"> | **Leucistic** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-prickleboggle-luminiboggle.png" width="80"> | **Luminiboggle** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-prickleboggle-melanistic.png" width="80"> | **Melanistic** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-prickleboggle-oceanboggle.png" width="80"> | **Oceanboggle** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-prickleboggle-polkaspots.png" width="80"> | **Polkaspots** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-prickleboggle-prickleboggle.png" width="80"> | **Prickleboggle** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
+### Albino
+
+<img src="/assets/images/toothless/variants/kb-img-prickleboggle-albino.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:albino_prickleboggle}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Dryboggle
+
+<img src="/assets/images/toothless/variants/kb-img-prickleboggle-dryboggle.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:dryboggle}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Kelpboggle
+
+<img src="/assets/images/toothless/variants/kb-img-prickleboggle-kelpboggle.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:kelpboggle}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Leucistic
+
+<img src="/assets/images/toothless/variants/kb-img-prickleboggle-leucistic.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:leucistic_prickleboggle}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Luminiboggle
+
+<img src="/assets/images/toothless/variants/kb-img-prickleboggle-luminiboggle.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:luminiboggle}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Melanistic
+
+<img src="/assets/images/toothless/variants/kb-img-prickleboggle-melanistic.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:melanistic_prickleboggle}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Oceanboggle
+
+<img src="/assets/images/toothless/variants/kb-img-prickleboggle-oceanboggle.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:oceanboggle}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Polkaspots
+
+<img src="/assets/images/toothless/variants/kb-img-prickleboggle-polkaspots.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:polkaspots}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Prickleboggle
+
+<img src="/assets/images/toothless/variants/kb-img-prickleboggle-prickleboggle.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:prickleboggle}
+```
+
+*Credits: Stego's Dragons variant*
 
 ---
 

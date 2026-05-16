@@ -40,23 +40,155 @@ The Slitherwing is a series canon dragon, first appearing in Race to the Edge. I
 
 ## Variants
 
-| | Variant | Obtainment | Summon Command |
-|---|---|---|---|
-| <img src="/assets/images/toothless/variants/kb-img-slitherwing-albino.png" width="80"> | **Albino** | Rare spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:albino...` |
-| <img src="/assets/images/toothless/variants/kb-img-slitherwing-banana-ice-cream.png" width="80"> | **Banana Ice Cream** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:banana...` |
-| <img src="/assets/images/toothless/variants/kb-img-slitherwing-erythristic.png" width="80"> | **Erythristic** | Rare spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:erythr...` |
-| <img src="/assets/images/toothless/variants/kb-img-slitherwing-harmhug.png" width="80"> | **Harmhug** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:harmhug}` |
-| <img src="/assets/images/toothless/variants/kb-img-slitherwing-leucistic.png" width="80"> | **Leucistic** | Rare spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:leucis...` |
-| <img src="/assets/images/toothless/variants/kb-img-slitherwing-melanistic.png" width="80"> | **Melanistic** | Rare spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:melani...` |
-| <img src="/assets/images/toothless/variants/kb-img-slitherwing-mosaic.png" width="80"> | **Mosaic** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:mosaic}` |
-| <img src="/assets/images/toothless/variants/kb-img-slitherwing-pastella.png" width="80"> | **Pastella** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:pastel...` |
-| <img src="/assets/images/toothless/variants/kb-img-slitherwing-slitherbase.png" width="80"> | **Slitherbase** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:slithe...` |
-| <img src="/assets/images/toothless/variants/kb-img-slitherwing-slitherwing.png" width="80"> | **Slitherwing** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:slithe...` |
-| <img src="/assets/images/toothless/variants/kb-img-slitherwing-sourslurp.png" width="80"> | **Sourslurp** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:soursl...` |
-| <img src="/assets/images/toothless/variants/kb-img-slitherwing-taipan.png" width="80"> | **Taipan** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:taipan}` |
-| <img src="/assets/images/toothless/variants/kb-img-slitherwing-tenebrae.png" width="80"> | **Tenebrae** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:tenebr...` |
-| <img src="/assets/images/toothless/variants/kb-img-slitherwing-titan.png" width="80"> | **Titan** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:titans...` |
-| <img src="/assets/images/toothless/variants/kb-img-slitherwing-toksin.png" width="80"> | **Toksin** | Normal spawn | `/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:toksin}` |
+### Albino
+
+<img src="/assets/images/toothless/variants/kb-img-slitherwing-albino.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:albino_slither}
+```
+
+### Banana Ice Cream
+
+<img src="/assets/images/toothless/variants/kb-img-slitherwing-banana-ice-cream.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:banana_icecream}
+```
+
+### Erythristic
+
+<img src="/assets/images/toothless/variants/kb-img-slitherwing-erythristic.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:erythristic_slither}
+```
+
+### Harmhug
+
+<img src="/assets/images/toothless/variants/kb-img-slitherwing-harmhug.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:harmhug}
+```
+
+### Leucistic
+
+<img src="/assets/images/toothless/variants/kb-img-slitherwing-leucistic.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:leucistic_slither}
+```
+
+### Melanistic
+
+<img src="/assets/images/toothless/variants/kb-img-slitherwing-melanistic.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:melanistic_slither}
+```
+
+### Mosaic
+
+<img src="/assets/images/toothless/variants/kb-img-slitherwing-mosaic.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:mosaic}
+```
+
+### Pastella
+
+<img src="/assets/images/toothless/variants/kb-img-slitherwing-pastella.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:pastella}
+```
+
+### Slitherbase
+
+<img src="/assets/images/toothless/variants/kb-img-slitherwing-slitherbase.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:slitherbase}
+```
+
+### Slitherwing
+
+<img src="/assets/images/toothless/variants/kb-img-slitherwing-slitherwing.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:slitherwing}
+```
+
+### Sourslurp
+
+<img src="/assets/images/toothless/variants/kb-img-slitherwing-sourslurp.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:sourslurp}
+```
+
+### Taipan
+
+<img src="/assets/images/toothless/variants/kb-img-slitherwing-taipan.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:taipan}
+```
+
+### Tenebrae
+
+<img src="/assets/images/toothless/variants/kb-img-slitherwing-tenebrae.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:tenebrae}
+```
+
+### Titan
+
+<img src="/assets/images/toothless/variants/kb-img-slitherwing-titan.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:titanslither}
+```
+
+### Toksin
+
+<img src="/assets/images/toothless/variants/kb-img-slitherwing-toksin.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:triple_stryke ~ ~ ~ {VariantName:toksin}
+```
 
 ---
 

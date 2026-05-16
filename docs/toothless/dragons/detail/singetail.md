@@ -42,23 +42,157 @@ Fire resistance potion effect active
 
 ## Variants
 
-| | Variant | Obtainment | Summon Command |
-|---|---|---|---|
-| <img src="/assets/images/toothless/variants/kb-img-singetail-albino.png" width="80"> | **Albino** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-singetail-aske.png" width="80"> | **Aske** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-singetail-dragonfruit.png" width="80"> | **Dragonfruit** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-singetail-finis.png" width="80"> | **Finis** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-singetail-green.png" width="80"> | **Green** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-singetail-infernier.png" width="80"> | **Infernier** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-singetail-juniper.png" width="80"> | **Juniper** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-singetail-melanistic.png" width="80"> | **Melanistic** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-singetail-novatail.png" width="80"> | **Novatail** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-singetail-purple.png" width="80"> | **Purple** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-singetail-red.png" width="80"> | **Red** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-singetail-singetail.png" width="80"> | **Singetail** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-singetail-spotless.png" width="80"> | **Spotless** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-singetail-terrestris.png" width="80"> | **Terrestris** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-singetail-yellow.png" width="80"> | **Yellow** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
+### Albino
+
+<img src="/assets/images/toothless/variants/kb-img-singetail-albino.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:albino_singetail}
+```
+
+### Aske
+
+<img src="/assets/images/toothless/variants/kb-img-singetail-aske.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:aske}
+```
+
+### Dragonfruit
+
+<img src="/assets/images/toothless/variants/kb-img-singetail-dragonfruit.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:dragonfruit}
+```
+
+*Credits: This variant was designed by LIA*
+
+### Finis
+
+<img src="/assets/images/toothless/variants/kb-img-singetail-finis.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:finis}
+```
+
+### Green
+
+<img src="/assets/images/toothless/variants/kb-img-singetail-green.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:green}
+```
+
+### Infernier
+
+<img src="/assets/images/toothless/variants/kb-img-singetail-infernier.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:infernier}
+```
+
+### Juniper
+
+<img src="/assets/images/toothless/variants/kb-img-singetail-juniper.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:juniper}
+```
+
+### Melanistic
+
+<img src="/assets/images/toothless/variants/kb-img-singetail-melanistic.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:melanistic_singetail}
+```
+
+### Novatail
+
+<img src="/assets/images/toothless/variants/kb-img-singetail-novatail.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:novatail}
+```
+
+### Purple
+
+<img src="/assets/images/toothless/variants/kb-img-singetail-purple.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:purple}
+```
+
+### Red
+
+<img src="/assets/images/toothless/variants/kb-img-singetail-red.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:red}
+```
+
+### Singetail
+
+<img src="/assets/images/toothless/variants/kb-img-singetail-singetail.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:singetail}
+```
+
+### Spotless
+
+<img src="/assets/images/toothless/variants/kb-img-singetail-spotless.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:spotless}
+```
+
+### Terrestris
+
+<img src="/assets/images/toothless/variants/kb-img-singetail-terrestris.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:terrestris}
+```
+
+### Yellow
+
+<img src="/assets/images/toothless/variants/kb-img-singetail-yellow.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:yellow}
+```
 
 ---
 

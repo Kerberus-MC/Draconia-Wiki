@@ -22,7 +22,6 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
-    - navigation.expand
     - navigation.top
     - search.suggest
     - search.highlight
@@ -71,6 +70,72 @@ nav:
     - Strike Class: toothless/dragons/strike-class.md
     - Tidal Class: toothless/dragons/tidal-class.md
     - Tracker Class: toothless/dragons/tracker-class.md
+    - Dragon Index:
+        - Armorwing: toothless/dragons/detail/armorwing.md
+        - Boneknapper: toothless/dragons/detail/boneknapper.md
+        - Butterflywing: toothless/dragons/detail/butterflywing.md
+        - Changewing: toothless/dragons/detail/changewing.md
+        - Crimson Goregutter: toothless/dragons/detail/crimson-goregutter.md
+        - Deadly Nadder: toothless/dragons/detail/deadly-nadder.md
+        - Deathgripper: toothless/dragons/detail/deathgripper.md
+        - Deathly Galeslash: toothless/dragons/detail/deathly-galeslash.md
+        - Devilish Dervish: toothless/dragons/detail/devilish-dervish.md
+        - Dramillion: toothless/dragons/detail/dramillion.md
+        - Eight-Legged Nadder: toothless/dragons/detail/eight-legged-nadder.md
+        - Fireworm: toothless/dragons/detail/fireworm.md
+        - Fireworm Queen: toothless/dragons/detail/fireworm-queen.md
+        - Flame Whipper: toothless/dragons/detail/flame-whipper.md
+        - Flightmare: toothless/dragons/detail/flightmare.md
+        - Graveknapper: toothless/dragons/detail/graveknapper.md
+        - Gronckle: toothless/dragons/detail/gronckle.md
+        - Hackatoo: toothless/dragons/detail/hackatoo.md
+        - Helstryke: toothless/dragons/detail/helstryke.md
+        - Hideous Zippleback: toothless/dragons/detail/hideous-zippleback.md
+        - Hobblegrunt: toothless/dragons/detail/hobblegrunt.md
+        - Hotburple: toothless/dragons/detail/hotburple.md
+        - Hushboggle: toothless/dragons/detail/hushboggle.md
+        - Light Fury: toothless/dragons/detail/light-fury.md
+        - Light Night: toothless/dragons/detail/light-night.md
+        - Lightcutter: toothless/dragons/detail/lightcutter.md
+        - Magma Breather: toothless/dragons/detail/magma-breather.md
+        - Monstrous Nightmare: toothless/dragons/detail/monstrous-nightmare.md
+        - Night Fury: toothless/dragons/detail/night-fury.md
+        - Night Light: toothless/dragons/detail/night-light.md
+        - Night Terror: toothless/dragons/detail/night-terror.md
+        - Nightcutter: toothless/dragons/detail/nightcutter.md
+        - Prickleboggle: toothless/dragons/detail/prickleboggle.md
+        - Pygmy Death: toothless/dragons/detail/pygmy-death.md
+        - Razorwhip: toothless/dragons/detail/razorwhip.md
+        - Rumblehorn: toothless/dragons/detail/rumblehorn.md
+        - Sandwraith: toothless/dragons/detail/sandwraith.md
+        - Scauldron: toothless/dragons/detail/scauldron.md
+        - Screaming Death: toothless/dragons/detail/screaming-death.md
+        - Scuttleclaw: toothless/dragons/detail/scuttleclaw.md
+        - Sentinel: toothless/dragons/detail/sentinel.md
+        - Shockjaw: toothless/dragons/detail/shockjaw.md
+        - Silver Phantom: toothless/dragons/detail/silver-phantom.md
+        - Singetail: toothless/dragons/detail/singetail.md
+        - Skrill: toothless/dragons/detail/skrill.md
+        - Skrillcutter: toothless/dragons/detail/skrillcutter.md
+        - Skrillknapper: toothless/dragons/detail/skrillknapper.md
+        - Slitherwing: toothless/dragons/detail/slitherwing.md
+        - Smothering Smokebreath: toothless/dragons/detail/smothering-smokebreath.md
+        - Snaptrapper: toothless/dragons/detail/snaptrapper.md
+        - Snow Wraith: toothless/dragons/detail/snow-wraith.md
+        - Songwing: toothless/dragons/detail/songwing.md
+        - Speed Stinger: toothless/dragons/detail/speed-stinger.md
+        - Stinger: toothless/dragons/detail/stinger.md
+        - Stormcutter: toothless/dragons/detail/stormcutter.md
+        - Storming Nightmare: toothless/dragons/detail/storming-nightmare.md
+        - Terrible Terror: toothless/dragons/detail/terrible-terror.md
+        - Thunderbottom: toothless/dragons/detail/thunderbottom.md
+        - Timberjack: toothless/dragons/detail/timberjack.md
+        - Triple Stryke: toothless/dragons/detail/triple-stryke.md
+        - Typhoomerang: toothless/dragons/detail/typhoomerang.md
+        - Whispering Death: toothless/dragons/detail/whispering-death.md
+        - Windwalker: toothless/dragons/detail/windwalker.md
+        - Wolf-Fang: toothless/dragons/detail/wolf-fang.md
+        - Woolly Howl: toothless/dragons/detail/woolly-howl.md
     - Companions: toothless/companions.md
     - Effects: toothless/effects.md
     - Structures: toothless/structures.md

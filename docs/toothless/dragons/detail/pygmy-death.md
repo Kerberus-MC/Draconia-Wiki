@@ -40,22 +40,145 @@ Fire resistance potion effect active
 
 ## Variants
 
-| | Variant | Obtainment | Summon Command |
-|---|---|---|---|
-| <img src="/assets/images/toothless/variants/kb-img-pygmy-death-albino.png" width="80"> | **Albino** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-pygmy-death-blood-belly.png" width="80"> | **Blood Belly** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-pygmy-death-boogie-bomb.png" width="80"> | **Boogie Bomb** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-pygmy-death-compass.png" width="80"> | **Compass** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-pygmy-death-melanistic.png" width="80"> | **Melanistic** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-pygmy-death-mistreated.png" width="80"> | **Mistreated** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-pygmy-death-orca.png" width="80"> | **Orca** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-pygmy-death-purple-death.png" width="80"> | **Purple Death** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-pygmy-death-pygmy-death.png" width="80"> | **Pygmy Death** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-pygmy-death-red-death.png" width="80"> | **Red Death** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-pygmy-death-stalker.png" width="80"> | **Stalker** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-pygmy-death-violent-death.png" width="80"> | **Violent Death** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-pygmy-death-violet-death.png" width="80"> | **Violet Death** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-pygmy-death-volcan.png" width="80"> | **Volcan** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
+### Albino
+
+<img src="/assets/images/toothless/variants/kb-img-pygmy-death-albino.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:albino_death}
+```
+
+### Blood Belly
+
+<img src="/assets/images/toothless/variants/kb-img-pygmy-death-blood-belly.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:blood_belly}
+```
+
+### Boogie Bomb
+
+<img src="/assets/images/toothless/variants/kb-img-pygmy-death-boogie-bomb.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:boogie_bomb}
+```
+
+### Compass
+
+<img src="/assets/images/toothless/variants/kb-img-pygmy-death-compass.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:compass}
+```
+
+### Melanistic
+
+<img src="/assets/images/toothless/variants/kb-img-pygmy-death-melanistic.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:melanistic_death}
+```
+
+### Mistreated
+
+<img src="/assets/images/toothless/variants/kb-img-pygmy-death-mistreated.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:pygmy_death_mistreated}
+```
+
+### Orca
+
+<img src="/assets/images/toothless/variants/kb-img-pygmy-death-orca.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:orca_death}
+```
+
+### Purple Death
+
+<img src="/assets/images/toothless/variants/kb-img-pygmy-death-purple-death.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:purple_death}
+```
+
+### Pygmy Death
+
+<img src="/assets/images/toothless/variants/kb-img-pygmy-death-pygmy-death.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:pygmy_death}
+```
+
+### Red Death
+
+<img src="/assets/images/toothless/variants/kb-img-pygmy-death-red-death.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:red_death}
+```
+
+### Stalker
+
+<img src="/assets/images/toothless/variants/kb-img-pygmy-death-stalker.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:stalker}
+```
+
+### Violent Death
+
+<img src="/assets/images/toothless/variants/kb-img-pygmy-death-violent-death.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:violent_death}
+```
+
+### Violet Death
+
+<img src="/assets/images/toothless/variants/kb-img-pygmy-death-violet-death.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:violet_death}
+```
+
+### Volcan
+
+<img src="/assets/images/toothless/variants/kb-img-pygmy-death-volcan.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:volcan}
+```
 
 ---
 

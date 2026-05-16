@@ -40,21 +40,139 @@ The Rumblehorn is a main canon dragon, first appearing in HTTYD 2. It is an Arch
 
 ## Variants
 
-| | Variant | Obtainment | Summon Command |
-|---|---|---|---|
-| <img src="/assets/images/toothless/variants/kb-img-rumblehorn-albino.png" width="80"> | **Albino** | Rare spawn | `/summon isleofberk:gronckle ~ ~ ~ {VariantName:albino_rumb...` |
-| <img src="/assets/images/toothless/variants/kb-img-rumblehorn-bismuth.png" width="80"> | **Bismuth** | Normal spawn | `/summon isleofberk:gronckle ~ ~ ~ {VariantName:bismuth}` |
-| <img src="/assets/images/toothless/variants/kb-img-rumblehorn-bloodbath.png" width="80"> | **Bloodbath** | Normal spawn | `/summon isleofberk:gronckle ~ ~ ~ {VariantName:blood_bath}` |
-| <img src="/assets/images/toothless/variants/kb-img-rumblehorn-bumble-rumble.png" width="80"> | **Bumble Rumble** | Command only | `/summon isleofberk:gronckle ~ ~ ~ {VariantName:bumble_rumb...` |
-| <img src="/assets/images/toothless/variants/kb-img-rumblehorn-emerald.png" width="80"> | **Emerald** | Normal spawn | `/summon isleofberk:gronckle ~ ~ ~ {VariantName:emerald}` |
-| <img src="/assets/images/toothless/variants/kb-img-rumblehorn-junebug.png" width="80"> | **Junebug** | Normal spawn | `/summon isleofberk:gronckle ~ ~ ~ {VariantName:junebug}` |
-| <img src="/assets/images/toothless/variants/kb-img-rumblehorn-melanistic.png" width="80"> | **Melanistic** | Rare spawn | `/summon isleofberk:gronckle ~ ~ ~ {VariantName:melanistic_...` |
-| <img src="/assets/images/toothless/variants/kb-img-rumblehorn-painted.png" width="80"> | **Painted** | Rare spawn | `/summon isleofberk:gronckle ~ ~ ~ {VariantName:painted}` |
-| <img src="/assets/images/toothless/variants/kb-img-rumblehorn-purplehorn.png" width="80"> | **Purplehorn** | Normal spawn | `/summon isleofberk:gronckle ~ ~ ~ {VariantName:purplehorn}` |
-| <img src="/assets/images/toothless/variants/kb-img-rumblehorn-rhino.png" width="80"> | **Rhino** | Normal spawn | `/summon isleofberk:gronckle ~ ~ ~ {VariantName:rhino}` |
-| <img src="/assets/images/toothless/variants/kb-img-rumblehorn-skullcrusher.png" width="80"> | **Skullcrusher** | Normal spawn | `/summon isleofberk:gronckle ~ ~ ~ {VariantName:skullcrusher}` |
-| <img src="/assets/images/toothless/variants/kb-img-rumblehorn-snowcap.png" width="80"> | **Snowcap** | Rare spawn | `/summon isleofberk:gronckle ~ ~ ~ {VariantName:snowcap}` |
-| <img src="/assets/images/toothless/variants/kb-img-rumblehorn-thor.png" width="80"> | **Thor** | Rare spawn | `/summon isleofberk:gronckle ~ ~ ~ {VariantName:thor}` |
+### Albino
+
+<img src="/assets/images/toothless/variants/kb-img-rumblehorn-albino.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:gronckle ~ ~ ~ {VariantName:albino_rumble}
+```
+
+### Bismuth
+
+<img src="/assets/images/toothless/variants/kb-img-rumblehorn-bismuth.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:gronckle ~ ~ ~ {VariantName:bismuth}
+```
+
+*Credits: This variant was designed by AmiEpyk.*
+
+### Bloodbath
+
+<img src="/assets/images/toothless/variants/kb-img-rumblehorn-bloodbath.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:gronckle ~ ~ ~ {VariantName:blood_bath}
+```
+
+### Bumble Rumble
+
+<img src="/assets/images/toothless/variants/kb-img-rumblehorn-bumble-rumble.png" width="120">
+
+**Obtainment:** Command only
+
+```
+/summon isleofberk:gronckle ~ ~ ~ {VariantName:bumble_rumble}
+```
+
+### Emerald
+
+<img src="/assets/images/toothless/variants/kb-img-rumblehorn-emerald.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:gronckle ~ ~ ~ {VariantName:emerald}
+```
+
+### Junebug
+
+<img src="/assets/images/toothless/variants/kb-img-rumblehorn-junebug.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:gronckle ~ ~ ~ {VariantName:junebug}
+```
+
+### Melanistic
+
+<img src="/assets/images/toothless/variants/kb-img-rumblehorn-melanistic.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:gronckle ~ ~ ~ {VariantName:melanistic_rumble}
+```
+
+### Painted
+
+<img src="/assets/images/toothless/variants/kb-img-rumblehorn-painted.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:gronckle ~ ~ ~ {VariantName:painted}
+```
+
+*Credits: This variant was designed by AmiEpyk.*
+
+### Purplehorn
+
+<img src="/assets/images/toothless/variants/kb-img-rumblehorn-purplehorn.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:gronckle ~ ~ ~ {VariantName:purplehorn}
+```
+
+### Rhino
+
+<img src="/assets/images/toothless/variants/kb-img-rumblehorn-rhino.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:gronckle ~ ~ ~ {VariantName:rhino}
+```
+
+### Skullcrusher
+
+<img src="/assets/images/toothless/variants/kb-img-rumblehorn-skullcrusher.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:gronckle ~ ~ ~ {VariantName:skullcrusher}
+```
+
+### Snowcap
+
+<img src="/assets/images/toothless/variants/kb-img-rumblehorn-snowcap.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:gronckle ~ ~ ~ {VariantName:snowcap}
+```
+
+### Thor
+
+<img src="/assets/images/toothless/variants/kb-img-rumblehorn-thor.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:gronckle ~ ~ ~ {VariantName:thor}
+```
 
 ---
 

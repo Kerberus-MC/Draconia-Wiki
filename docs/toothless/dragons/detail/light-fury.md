@@ -41,37 +41,321 @@ No tools or weapons (except Dragon Blades & specified Viking Artifacts ) held
 
 ## Variants
 
-| | Variant | Obtainment | Summon Command |
-|---|---|---|---|
-| <img src="/assets/images/toothless/variants/kb-img-light-fury-aether.png" width="80"> | **Aether** | Rare spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:aether}` |
-| <img src="/assets/images/toothless/variants/kb-img-light-fury-albino.png" width="80"> | **Albino** | Rare spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:albino_li...` |
-| <img src="/assets/images/toothless/variants/kb-img-light-fury-albino-alpha.png" width="80"> | **Albino Alpha** | Extremely rare spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:albino_al...` |
-| <img src="/assets/images/toothless/variants/kb-img-light-fury-bandit.png" width="80"> | **Bandit** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:bandit}` |
-| <img src="/assets/images/toothless/variants/kb-img-light-fury-bubbly.png" width="80"> | **Bubbly** | Rare spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:bubbly}` |
-| <img src="/assets/images/toothless/variants/kb-img-light-fury-concept.png" width="80"> | **Concept** | Rare spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:concept}` |
-| <img src="/assets/images/toothless/variants/kb-img-light-fury-drottinn.png" width="80"> | **Drottinn** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:drottinn}` |
-| <img src="/assets/images/toothless/variants/kb-img-light-fury-drottinn-alpha.png" width="80"> | **Drottinn Alpha** | Rare spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:drottinn_...` |
-| <img src="/assets/images/toothless/variants/kb-img-light-fury-drottinn-grogaldr.png" width="80"> | **Drottinn Grogaldr** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:drottinn_...` |
-| <img src="/assets/images/toothless/variants/kb-img-light-fury-drottinn-grogaldr-alpha.png" width="80"> | **Drottinn Grogaldr Alpha** | Rare spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:drottinn_...` |
-| <img src="/assets/images/toothless/variants/kb-img-light-fury-faerie.png" width="80"> | **Faerie** | Rare spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:faerie}` |
-| <img src="/assets/images/toothless/variants/kb-img-light-fury-grogaldr.png" width="80"> | **Grogaldr** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:grogaldr}` |
-| <img src="/assets/images/toothless/variants/kb-img-light-fury-grogaldr-alpha.png" width="80"> | **Grogaldr Alpha** | Rare spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:grogaldr_...` |
-| <img src="/assets/images/toothless/variants/kb-img-light-fury-light-fury.png" width="80"> | **Light Fury** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:light_fury}` |
-| <img src="/assets/images/toothless/variants/kb-img-light-fury-light-fury-alpha.png" width="80"> | **Light Fury Alpha** | Rare spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:light_fur...` |
-| <img src="/assets/images/toothless/variants/kb-img-light-fury-melanistic.png" width="80"> | **Melanistic** | Rare spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:melanisti...` |
-| <img src="/assets/images/toothless/variants/kb-img-light-fury-melanistic-alpha.png" width="80"> | **Melanistic Alpha** | Extremely rare spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:melanisti...` |
-| <img src="/assets/images/toothless/variants/kb-img-light-fury-mollis.png" width="80"> | **Mollis** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:mollis}` |
-| <img src="/assets/images/toothless/variants/kb-img-light-fury-moondust.png" width="80"> | **Moondust** | Rare spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:moondust}` |
-| <img src="/assets/images/toothless/variants/kb-img-light-fury-moonlit.png" width="80"> | **Moonlit** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:moonlit}` |
-| <img src="/assets/images/toothless/variants/kb-img-light-fury-refraction.png" width="80"> | **Refraction** | Bifrost Temple only | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:refraction}` |
-| <img src="/assets/images/toothless/variants/kb-img-light-fury-stella.png" width="80"> | **Stella** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:stella}` |
-| <img src="/assets/images/toothless/variants/kb-img-light-fury-sveinn.png" width="80"> | **Sveinn** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:sveinn}` |
-| <img src="/assets/images/toothless/variants/kb-img-light-fury-sveinn-alpha.png" width="80"> | **Sveinn Alpha** | Rare spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:sveinn_al...` |
-| <img src="/assets/images/toothless/variants/kb-img-light-fury-sveinn-grogaldr.png" width="80"> | **Sveinn Grogaldr** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:sveinn_gr...` |
-| <img src="/assets/images/toothless/variants/kb-img-light-fury-sveinn-grogaldr-alpha.png" width="80"> | **Sveinn Grogaldr Alpha** | Rare spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:sveinn_gr...` |
-| <img src="/assets/images/toothless/variants/kb-img-light-fury-vampiric-lust.png" width="80"> | **Vampiric Lust** | Rare spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:vampiric_...` |
-| <img src="/assets/images/toothless/variants/kb-img-light-fury-violet.png" width="80"> | **Violet** | Normal spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:violet}` |
-| <img src="/assets/images/toothless/variants/kb-img-light-fury-violet-alpha.png" width="80"> | **Violet Alpha** | Rare spawn | `/summon isleofberk:light_fury ~ ~ ~ {VariantName:violet_al...` |
+### Aether
+
+<img src="/assets/images/toothless/variants/kb-img-light-fury-aether.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:aether}
+```
+
+### Albino
+
+<img src="/assets/images/toothless/variants/kb-img-light-fury-albino.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:albino_light_fury}
+```
+
+### Albino Alpha
+
+<img src="/assets/images/toothless/variants/kb-img-light-fury-albino-alpha.png" width="120">
+
+**Obtainment:** Extremely rare spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:albino_alpha_light_fury}
+```
+
+### Bandit
+
+<img src="/assets/images/toothless/variants/kb-img-light-fury-bandit.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:bandit}
+```
+
+### Bubbly
+
+<img src="/assets/images/toothless/variants/kb-img-light-fury-bubbly.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:bubbly}
+```
+
+### Concept
+
+<img src="/assets/images/toothless/variants/kb-img-light-fury-concept.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:concept}
+```
+
+### Drottinn
+
+<img src="/assets/images/toothless/variants/kb-img-light-fury-drottinn.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:drottinn}
+```
+
+*Credits: Base IoB variant*
+
+### Drottinn Alpha
+
+<img src="/assets/images/toothless/variants/kb-img-light-fury-drottinn-alpha.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:drottinn_alpha}
+```
+
+*Credits: Near base IoB variant*
+
+### Drottinn Grogaldr
+
+<img src="/assets/images/toothless/variants/kb-img-light-fury-drottinn-grogaldr.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:drottinn_grogaldr}
+```
+
+*Credits: Base IoB variant*
+
+### Drottinn Grogaldr Alpha
+
+<img src="/assets/images/toothless/variants/kb-img-light-fury-drottinn-grogaldr-alpha.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:drottinn_grogaldr_alpha}
+```
+
+*Credits: Near base IoB variant*
+
+### Faerie
+
+<img src="/assets/images/toothless/variants/kb-img-light-fury-faerie.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:faerie}
+```
+
+### Grogaldr
+
+<img src="/assets/images/toothless/variants/kb-img-light-fury-grogaldr.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:grogaldr}
+```
+
+*Credits: Base IoB variant*
+
+### Grogaldr Alpha
+
+<img src="/assets/images/toothless/variants/kb-img-light-fury-grogaldr-alpha.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:grogaldr_alpha}
+```
+
+*Credits: Near base IoB variant*
+
+### Light Fury
+
+<img src="/assets/images/toothless/variants/kb-img-light-fury-light-fury.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:light_fury}
+```
+
+*Credits: Base IoB variant*
+
+### Light Fury Alpha
+
+<img src="/assets/images/toothless/variants/kb-img-light-fury-light-fury-alpha.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:light_fury_alpha}
+```
+
+*Credits: Near base IoB variant*
+
+### Melanistic
+
+<img src="/assets/images/toothless/variants/kb-img-light-fury-melanistic.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:melanistic_light_fury}
+```
+
+### Melanistic Alpha
+
+<img src="/assets/images/toothless/variants/kb-img-light-fury-melanistic-alpha.png" width="120">
+
+**Obtainment:** Extremely rare spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:melanistic_alpha_light_fury}
+```
+
+### Mollis
+
+<img src="/assets/images/toothless/variants/kb-img-light-fury-mollis.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:mollis}
+```
+
+### Moondust
+
+<img src="/assets/images/toothless/variants/kb-img-light-fury-moondust.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:moondust}
+```
+
+### Moonlit
+
+<img src="/assets/images/toothless/variants/kb-img-light-fury-moonlit.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:moonlit}
+```
+
+### Refraction
+
+<img src="/assets/images/toothless/variants/kb-img-light-fury-refraction.png" width="120">
+
+**Obtainment:** Bifrost Temple only
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:refraction}
+```
+
+### Stella
+
+<img src="/assets/images/toothless/variants/kb-img-light-fury-stella.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:stella}
+```
+
+### Sveinn
+
+<img src="/assets/images/toothless/variants/kb-img-light-fury-sveinn.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:sveinn}
+```
+
+*Credits: Base IoB variant*
+
+### Sveinn Alpha
+
+<img src="/assets/images/toothless/variants/kb-img-light-fury-sveinn-alpha.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:sveinn_alpha}
+```
+
+*Credits: Near base IoB variant*
+
+### Sveinn Grogaldr
+
+<img src="/assets/images/toothless/variants/kb-img-light-fury-sveinn-grogaldr.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:sveinn_grogaldr}
+```
+
+*Credits: Base IoB variant*
+
+### Sveinn Grogaldr Alpha
+
+<img src="/assets/images/toothless/variants/kb-img-light-fury-sveinn-grogaldr-alpha.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:sveinn_grogaldr_alpha}
+```
+
+*Credits: Near base IoB variant*
+
+### Vampiric Lust
+
+<img src="/assets/images/toothless/variants/kb-img-light-fury-vampiric-lust.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:vampiric_lust}
+```
+
+*Credits: Designed by Skeley-Arts*
+
+### Violet
+
+<img src="/assets/images/toothless/variants/kb-img-light-fury-violet.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:violet}
+```
+
+### Violet Alpha
+
+<img src="/assets/images/toothless/variants/kb-img-light-fury-violet-alpha.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:light_fury ~ ~ ~ {VariantName:violet_alpha}
+```
 
 ---
 

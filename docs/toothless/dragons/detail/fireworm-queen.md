@@ -42,20 +42,149 @@ Fire resistance potion effect active
 
 ## Variants
 
-| | Variant | Obtainment | Summon Command |
-|---|---|---|---|
-| <img src="/assets/images/toothless/variants/kb-img-fireworm-queen-bonefire-queen.png" width="80"> | **Bonefire Queen** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-fireworm-queen-copper-queen.png" width="80"> | **Copper Queen** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-fireworm-queen-fearsome-flamellion.png" width="80"> | **Fearsome Flamellion** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-fireworm-queen-fireworm-empress.png" width="80"> | **Fireworm Empress** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-fireworm-queen-fireworm-queen.png" width="80"> | **Fireworm Queen** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-fireworm-queen-fireworm-queen-rise-of-berk.png" width="80"> | **Fireworm Queen (Rise of Berk)** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-fireworm-queen-ice-queen.png" width="80"> | **Ice Queen** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-fireworm-queen-indium-queen.png" width="80"> | **Indium Queen** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-fireworm-queen-iron-queen.png" width="80"> | **Iron Queen** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-fireworm-queen-lithium-queen.png" width="80"> | **Lithium Queen** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-fireworm-queen-metallic-queen.png" width="80"> | **Metallic Queen** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-fireworm-queen-verdigriff-queen.png" width="80"> | **Verdigriff Queen** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
+### Bonefire Queen
+
+<img src="/assets/images/toothless/variants/kb-img-fireworm-queen-bonefire-queen.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:bonefire_queen}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Copper Queen
+
+<img src="/assets/images/toothless/variants/kb-img-fireworm-queen-copper-queen.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:copper_queen}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Fearsome Flamellion
+
+<img src="/assets/images/toothless/variants/kb-img-fireworm-queen-fearsome-flamellion.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:fearsome_flamellion}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Fireworm Empress
+
+<img src="/assets/images/toothless/variants/kb-img-fireworm-queen-fireworm-empress.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:fireworm_empress}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Fireworm Queen
+
+<img src="/assets/images/toothless/variants/kb-img-fireworm-queen-fireworm-queen.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:fireworm_queen}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Fireworm Queen (Rise of Berk)
+
+<img src="/assets/images/toothless/variants/kb-img-fireworm-queen-fireworm-queen-rise-of-berk.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:rob_queen}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Ice Queen
+
+<img src="/assets/images/toothless/variants/kb-img-fireworm-queen-ice-queen.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:ice_queen}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Indium Queen
+
+<img src="/assets/images/toothless/variants/kb-img-fireworm-queen-indium-queen.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:indium_queen}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Iron Queen
+
+<img src="/assets/images/toothless/variants/kb-img-fireworm-queen-iron-queen.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:iron_queen}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Lithium Queen
+
+<img src="/assets/images/toothless/variants/kb-img-fireworm-queen-lithium-queen.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:lithium_queen}
+```
+
+*Credits: Stego's Dragons variant*
+
+### Metallic Queen
+
+<img src="/assets/images/toothless/variants/kb-img-fireworm-queen-metallic-queen.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:metalic_queen}
+```
+
+*Credits: Stego's Dragons variant. Don't mention the typo.*
+
+### Verdigriff Queen
+
+<img src="/assets/images/toothless/variants/kb-img-fireworm-queen-verdigriff-queen.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:verdigriff_queen}
+```
+
+*Credits: Stego's Dragons variant*
 
 ---
 

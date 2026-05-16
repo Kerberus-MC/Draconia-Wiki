@@ -42,41 +42,339 @@ Fire resistance potion effect active
 
 ## Variants
 
-| | Variant | Obtainment | Summon Command |
-|---|---|---|---|
-| <img src="/assets/images/toothless/variants/kb-img-timberjack-albino.png" width="80"> | **Albino** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-timberjack-ash.png" width="80"> | **Ash** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-timberjack-axewing.png" width="80"> | **Axewing** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-timberjack-axewing-the-second.png" width="80"> | **Axewing the Second** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-timberjack-blossoming-bumbershoot.png" width="80"> | **Blossoming Bumbershoot** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-timberjack-boreal.png" width="80"> | **Boreal** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-timberjack-brute-timberjack.png" width="80"> | **Brute Timberjack** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-timberjack-caramel.png" width="80"> | **Caramel** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-timberjack-driftcleaver.png" width="80"> | **Driftcleaver** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-timberjack-elsa.png" width="80"> | **Elsa** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-timberjack-emerald.png" width="80"> | **Emerald** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-timberjack-freeweald.png" width="80"> | **Freeweald** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-timberjack-hoopoe.png" width="80"> | **Hoopoe** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-timberjack-imperial-emperor.png" width="80"> | **Imperial Emperor** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-timberjack-limehawk.png" width="80"> | **Limehawk** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-timberjack-lithe-logjammer.png" width="80"> | **Lithe Logjammer** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-timberjack-luna.png" width="80"> | **Luna** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-timberjack-luzon-peacock.png" width="80"> | **Luzon Peacock** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-timberjack-melanistic.png" width="80"> | **Melanistic** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-timberjack-monarch.png" width="80"> | **Monarch** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-timberjack-peacock.png" width="80"> | **Peacock** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-timberjack-piebald.png" width="80"> | **Piebald** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-timberjack-queen-alexandra-birdwing.png" width="80"> | **Queen Alexandra Birdwing** | Rare spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-timberjack-seedling-saplinger.png" width="80"> | **Seedling Saplinger** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-timberjack-stokehead.png" width="80"> | **Stokehead** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-timberjack-stoneslice.png" width="80"> | **Stoneslice** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-timberjack-strawberry-chocolate.png" width="80"> | **Strawberry Chocolate** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-timberjack-target.png" width="80"> | **Target** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-timberjack-timberjack.png" width="80"> | **Timberjack** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-timberjack-tricky-timberjack.png" width="80"> | **Tricky Timberjack** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-timberjack-uhm-dave.png" width="80"> | **Uhm... Dave?** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-timberjack-vampire.png" width="80"> | **Vampire** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
-| <img src="/assets/images/toothless/variants/kb-img-timberjack-wetland-timberjack.png" width="80"> | **Wetland Timberjack** | Normal spawn | `/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:...` |
+### Albino
+
+<img src="/assets/images/toothless/variants/kb-img-timberjack-albino.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:albino_timberjack}
+```
+
+### Ash
+
+<img src="/assets/images/toothless/variants/kb-img-timberjack-ash.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:ash}
+```
+
+### Axewing
+
+<img src="/assets/images/toothless/variants/kb-img-timberjack-axewing.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:axewing_one}
+```
+
+### Axewing the Second
+
+<img src="/assets/images/toothless/variants/kb-img-timberjack-axewing-the-second.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:axewing_two}
+```
+
+### Blossoming Bumbershoot
+
+<img src="/assets/images/toothless/variants/kb-img-timberjack-blossoming-bumbershoot.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:blossoming_bumbershoot}
+```
+
+### Boreal
+
+<img src="/assets/images/toothless/variants/kb-img-timberjack-boreal.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:boreal_timberjack}
+```
+
+### Brute Timberjack
+
+<img src="/assets/images/toothless/variants/kb-img-timberjack-brute-timberjack.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:brute_timberjack}
+```
+
+### Caramel
+
+<img src="/assets/images/toothless/variants/kb-img-timberjack-caramel.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:caramel_timberjack}
+```
+
+### Driftcleaver
+
+<img src="/assets/images/toothless/variants/kb-img-timberjack-driftcleaver.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:driftcleaver}
+```
+
+### Elsa
+
+<img src="/assets/images/toothless/variants/kb-img-timberjack-elsa.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:elsa}
+```
+
+### Emerald
+
+<img src="/assets/images/toothless/variants/kb-img-timberjack-emerald.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:emerald_timberjack}
+```
+
+### Freeweald
+
+<img src="/assets/images/toothless/variants/kb-img-timberjack-freeweald.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:freeweald}
+```
+
+### Hoopoe
+
+<img src="/assets/images/toothless/variants/kb-img-timberjack-hoopoe.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:hoopoe}
+```
+
+### Imperial Emperor
+
+<img src="/assets/images/toothless/variants/kb-img-timberjack-imperial-emperor.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:imperial_emperor}
+```
+
+### Limehawk
+
+<img src="/assets/images/toothless/variants/kb-img-timberjack-limehawk.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:limehawk}
+```
+
+### Lithe Logjammer
+
+<img src="/assets/images/toothless/variants/kb-img-timberjack-lithe-logjammer.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:lithe_logjammer}
+```
+
+### Luna
+
+<img src="/assets/images/toothless/variants/kb-img-timberjack-luna.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:luna}
+```
+
+### Luzon Peacock
+
+<img src="/assets/images/toothless/variants/kb-img-timberjack-luzon-peacock.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:luzon_peacock}
+```
+
+*Credits: Unfortunately, this Endangered butterfly is in serious danger from international poaching.*
+
+### Melanistic
+
+<img src="/assets/images/toothless/variants/kb-img-timberjack-melanistic.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:melanistic_timberjack}
+```
+
+### Monarch
+
+<img src="/assets/images/toothless/variants/kb-img-timberjack-monarch.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:monarch}
+```
+
+### Peacock
+
+<img src="/assets/images/toothless/variants/kb-img-timberjack-peacock.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:peacock}
+```
+
+### Piebald
+
+<img src="/assets/images/toothless/variants/kb-img-timberjack-piebald.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:piebald_timberjack}
+```
+
+### Queen Alexandra Birdwing
+
+<img src="/assets/images/toothless/variants/kb-img-timberjack-queen-alexandra-birdwing.png" width="120">
+
+**Obtainment:** Rare spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:queen_alexandra_birdwing}
+```
+
+*Credits: Unfortunately, this Endangered butterfly is in serious danger from international poaching.*
+
+### Seedling Saplinger
+
+<img src="/assets/images/toothless/variants/kb-img-timberjack-seedling-saplinger.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:seedling_saplinger}
+```
+
+### Stokehead
+
+<img src="/assets/images/toothless/variants/kb-img-timberjack-stokehead.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:stokehead}
+```
+
+### Stoneslice
+
+<img src="/assets/images/toothless/variants/kb-img-timberjack-stoneslice.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:stoneslice}
+```
+
+### Strawberry Chocolate
+
+<img src="/assets/images/toothless/variants/kb-img-timberjack-strawberry-chocolate.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:strawberrychoccy}
+```
+
+### Target
+
+<img src="/assets/images/toothless/variants/kb-img-timberjack-target.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:target}
+```
+
+### Timberjack
+
+<img src="/assets/images/toothless/variants/kb-img-timberjack-timberjack.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:timberjack}
+```
+
+### Tricky Timberjack
+
+<img src="/assets/images/toothless/variants/kb-img-timberjack-tricky-timberjack.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:tricky_timberjack}
+```
+
+### Uhm... Dave?
+
+<img src="/assets/images/toothless/variants/kb-img-timberjack-uhm-dave.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:uhm_dave}
+```
+
+### Vampire
+
+<img src="/assets/images/toothless/variants/kb-img-timberjack-vampire.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:vampire}
+```
+
+### Wetland Timberjack
+
+<img src="/assets/images/toothless/variants/kb-img-timberjack-wetland-timberjack.png" width="120">
+
+**Obtainment:** Normal spawn
+
+```
+/summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:wetland_timberjack}
+```
 
 ---
 
