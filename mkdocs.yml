@@ -1,11 +1,13 @@
 site_name: Draconia Wiki
 site_url: https://wiki.kerberus.gg
+site_description: Wiki hub for Draconia Minecraft modpacks - Dragoncraft, Toothless, and PvZ Overgrowth.
 repo_url: https://github.com/Kerberus-MC/Draconia-Wiki
 repo_name: Kerberus-MC/Draconia-Wiki
 edit_uri: edit/master/docs/
 
 theme:
   name: material
+  custom_dir: overrides
   palette:
     - scheme: slate
       primary: custom
