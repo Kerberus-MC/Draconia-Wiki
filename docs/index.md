@@ -7,94 +7,91 @@ hide:
 <style>
 .hero {
   text-align: center;
-  padding: 2rem 0 1rem;
+  padding: 4rem 0 2rem;
 }
 .hero h1 {
-  font-size: 2.5rem;
-  margin-bottom: 0.25rem;
+  font-size: 2.8rem;
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  margin-bottom: 0.3rem;
+  color: var(--md-default-fg-color);
 }
 .hero p {
-  font-size: 1.1rem;
-  opacity: 0.7;
+  font-size: 1rem;
+  color: var(--md-default-fg-color--lighter);
   margin-top: 0;
 }
 .card-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 1.25rem;
-  margin-top: 1.5rem;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1rem;
+  margin: 2rem auto;
+  max-width: 52rem;
 }
 .card-grid a.card {
   display: flex;
   align-items: center;
   gap: 1rem;
-  padding: 1.25rem;
+  padding: 1.25rem 1.5rem;
   border-radius: 0.75rem;
-  background: var(--md-code-bg-color);
-  border: 1px solid var(--md-default-fg-color--lightest);
+  background: var(--surface, #1c1c28);
+  border: 1px solid var(--border, rgba(255,255,255,0.08));
   text-decoration: none;
   color: inherit;
-  transition: transform 0.15s, box-shadow 0.15s, border-color 0.15s;
+  transition: all 0.2s ease;
 }
 .card-grid a.card:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 6px 20px rgba(0,0,0,0.2);
-  border-color: var(--md-accent-fg-color);
+  border-color: var(--border-hover, rgba(129,140,248,0.3));
+  background: var(--surface-raised, #22222e);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.15);
 }
 .card-icon img {
-  width: 64px;
-  height: 64px;
+  width: 48px;
+  height: 48px;
   border-radius: 0.5rem;
   display: block;
 }
-.card-icon .emoji-icon {
-  font-size: 2.5rem;
-  width: 64px;
-  height: 64px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: var(--md-default-fg-color--lightest);
-  border-radius: 0.5rem;
-}
 .card-text h3 {
-  margin: 0 0 0.25rem 0;
-  font-size: 1.1rem;
+  margin: 0 0 0.15rem 0;
+  font-size: 0.95rem;
+  font-weight: 600;
 }
 .card-text p {
   margin: 0;
-  opacity: 0.7;
-  font-size: 0.85rem;
+  color: var(--md-default-fg-color--lighter);
+  font-size: 0.78rem;
   line-height: 1.4;
 }
 a.discord-banner {
   display: block;
   text-align: center;
-  margin-top: 2rem;
-  padding: 1.5rem;
+  margin: 1.5rem auto 0;
+  max-width: 52rem;
+  padding: 1.25rem;
   border-radius: 0.75rem;
-  background: linear-gradient(135deg, #1a1a2e 0%, #2d2d4a 100%);
-  border: 1px solid rgba(108, 99, 255, 0.2);
-  color: white;
+  background: var(--surface, #1c1c28);
+  border: 1px solid var(--border, rgba(255,255,255,0.08));
+  color: var(--md-default-fg-color);
   text-decoration: none;
-  transition: transform 0.15s, box-shadow 0.15s, border-color 0.15s;
+  transition: all 0.2s ease;
 }
 a.discord-banner:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 6px 20px rgba(0,0,0,0.2);
-  border-color: var(--md-accent-fg-color);
-  color: white;
+  border-color: var(--border-hover, rgba(129,140,248,0.3));
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+  color: var(--md-default-fg-color);
 }
 .discord-title {
   display: block;
   font-weight: 600;
-  font-size: 1.1rem;
+  font-size: 0.9rem;
 }
 .discord-sub {
   display: block;
-  margin-top: 0.25rem;
-  opacity: 0.85;
-  font-size: 0.85rem;
+  margin-top: 0.2rem;
+  color: var(--md-default-fg-color--lighter);
+  font-size: 0.78rem;
 }
 </style>
 
@@ -102,8 +99,6 @@ a.discord-banner:hover {
   <h1>Draconia</h1>
   <p>Minecraft modpack wiki hub</p>
 </div>
-
----
 
 <div class="card-grid">
   <a class="card" href="dragoncraft/">
@@ -136,6 +131,6 @@ a.discord-banner:hover {
 </div>
 
 <a class="discord-banner" href="https://discord.gg/draconia" target="_blank">
-  <span class="discord-title">💬 Join our Discord</span>
+  <span class="discord-title">Join our Discord</span>
   <span class="discord-sub">Support, updates, and community.</span>
 </a>
