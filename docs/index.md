@@ -96,7 +96,7 @@ a.discord-banner:hover {
 </style>
 
 <div class="hero">
-  <h1>Draconia</h1>
+  <h1>Kerberus</h1>
   <p>Minecraft modpack wiki hub</p>
 </div>
 
