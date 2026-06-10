@@ -1,7 +1,7 @@
 /* Kerberus Wiki - Starlight theme customization */
 
-/* Indigo accent, dark mode (default) */
-:root {
+/* Indigo accent, dark mode only */
+:root[data-theme='dark'] {
   --sl-color-accent-low: #25255c;
   --sl-color-accent: #6366f1;
   --sl-color-accent-high: #c7d2fe;
@@ -162,6 +162,25 @@ a.kb-card:hover {
   font-weight: 600;
   margin-bottom: 1rem;
   color: var(--sl-color-white);
+}
+
+.kb-sub {
+  font-size: var(--sl-text-sm);
+  color: var(--sl-color-gray-3);
+  margin: -0.5rem 0 1rem;
+}
+
+.kb-cards--compact .kb-card {
+  padding: 0.85rem 1rem;
+}
+
+.kb-cards--compact .kb-card-text strong {
+  font-size: var(--sl-text-sm);
+}
+
+.kb-cards--stack {
+  grid-template-columns: 1fr;
+  max-width: 32rem;
 }
 
 /* ===== Server status cards ===== */

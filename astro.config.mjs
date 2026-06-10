@@ -34,6 +34,7 @@ export default defineConfig({
         },
       ],
       sidebar: [
+        { label: 'Server Status', slug: 'servers' },
         {
           label: 'Dragoncraft',
           collapsed: true,

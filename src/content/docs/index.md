@@ -4,16 +4,20 @@ description: Wiki hub for Kerberus Minecraft modpacks - Dragoncraft, Toothless, 
 template: splash
 hero:
   title: Kerberus
-  tagline: Minecraft modpack wiki hub
+  tagline: Minecraft modpacks, servers, and community
   actions:
     - text: Join our Discord
       link: https://discord.gg/draconia
       icon: discord
       variant: primary
+    - text: Server Status
+      link: /servers/
+      icon: right-arrow
+      variant: minimal
 ---
 
 <div class="kb-section">
-  <h2 class="kb-h">Modpacks</h2>
+  <h2 class="kb-h">Wikis</h2>
   <div class="kb-cards">
     <a class="kb-card" href="/dragoncraft/">
       <img src="/assets/images/modpacks/kb-img-dragoncraft.png" alt="Dragoncraft" width="48" height="48">
@@ -40,32 +44,93 @@ hero:
 </div>
 
 <div class="kb-section">
-  <h2 class="kb-h">Server Status</h2>
-  <div class="kb-cards">
-    <div class="kb-card kb-server" data-addr="dragoncraft.kerberus.gg">
-      <img src="/assets/images/modpacks/kb-img-dragoncraft.png" alt="" width="48" height="48">
+  <h2 class="kb-h">Projects</h2>
+  <p class="kb-sub">Everything we've published on CurseForge.</p>
+  <div class="kb-cards kb-cards--compact">
+    <a class="kb-card" href="https://www.curseforge.com/minecraft/modpacks/dragoncraft" target="_blank" rel="noopener">
+      <img src="/assets/images/projects/kb-img-dragoncraft.png" alt="" width="40" height="40">
       <span class="kb-card-text">
         <strong>Dragoncraft</strong>
-        <code class="kb-addr" title="Click to copy">dragoncraft.kerberus.gg</code>
-        <span class="kb-status"><span class="kb-dot"></span><span class="kb-players">Checking…</span></span>
+        <span>Modpack · 150k downloads</span>
       </span>
-    </div>
-    <div class="kb-card kb-server" data-addr="toothless.kerberus.gg">
-      <img src="/assets/images/modpacks/kb-img-toothless.png" alt="" width="48" height="48">
+    </a>
+    <a class="kb-card" href="https://www.curseforge.com/minecraft/texture-packs/dragoncraft-gui" target="_blank" rel="noopener">
+      <img src="/assets/images/projects/kb-img-dragoncraft-gui.png" alt="" width="40" height="40">
+      <span class="kb-card-text">
+        <strong>Dragoncraft: GUI</strong>
+        <span>Resource Pack · 123k downloads</span>
+      </span>
+    </a>
+    <a class="kb-card" href="https://www.curseforge.com/minecraft/data-packs/dragoncraft-diets" target="_blank" rel="noopener">
+      <img src="/assets/images/projects/kb-img-dragoncraft-diets.png" alt="" width="40" height="40">
+      <span class="kb-card-text">
+        <strong>Dragoncraft: Diets</strong>
+        <span>Data Pack · 30k downloads</span>
+      </span>
+    </a>
+    <a class="kb-card" href="https://www.curseforge.com/minecraft/data-packs/dragoncraft-drygmy-blacklist" target="_blank" rel="noopener">
+      <img src="/assets/images/projects/kb-img-dragoncraft-drygmy-blacklist.png" alt="" width="40" height="40">
+      <span class="kb-card-text">
+        <strong>Dragoncraft: Drygmy Blacklist</strong>
+        <span>Data Pack · 29k downloads</span>
+      </span>
+    </a>
+    <a class="kb-card" href="https://www.curseforge.com/minecraft/modpacks/mythcraft" target="_blank" rel="noopener">
+      <img src="/assets/images/projects/kb-img-mythcraft.png" alt="" width="40" height="40">
+      <span class="kb-card-text">
+        <strong>Mythcraft Unleashed</strong>
+        <span>Modpack · 16k downloads</span>
+      </span>
+    </a>
+    <a class="kb-card" href="https://www.curseforge.com/minecraft/modpacks/toothless" target="_blank" rel="noopener">
+      <img src="/assets/images/projects/kb-img-toothless.png" alt="" width="40" height="40">
       <span class="kb-card-text">
         <strong>Toothless</strong>
-        <code class="kb-addr" title="Click to copy">toothless.kerberus.gg</code>
-        <span class="kb-status"><span class="kb-dot"></span><span class="kb-players">Checking…</span></span>
+        <span>Modpack · 15k downloads</span>
       </span>
-    </div>
-    <div class="kb-card kb-server" data-addr="pvz.kerberus.gg">
-      <img src="/assets/images/modpacks/kb-img-pvz-overgrowth.png" alt="" width="48" height="48">
+    </a>
+    <a class="kb-card" href="https://www.curseforge.com/minecraft/modpacks/pvz-overgrowth" target="_blank" rel="noopener">
+      <img src="/assets/images/projects/kb-img-pvz-overgrowth.png" alt="" width="40" height="40">
       <span class="kb-card-text">
         <strong>PvZ Overgrowth</strong>
-        <code class="kb-addr" title="Click to copy">pvz.kerberus.gg</code>
-        <span class="kb-status"><span class="kb-dot"></span><span class="kb-players">Checking…</span></span>
+        <span>Modpack · 12k downloads</span>
       </span>
-    </div>
+    </a>
+    <a class="kb-card" href="https://www.curseforge.com/minecraft/modpacks/nightcraft" target="_blank" rel="noopener">
+      <img src="/assets/images/projects/kb-img-nightcraft.png" alt="" width="40" height="40">
+      <span class="kb-card-text">
+        <strong>Nightcraft</strong>
+        <span>Modpack · 2.5k downloads</span>
+      </span>
+    </a>
+    <a class="kb-card" href="https://www.curseforge.com/minecraft/modpacks/warpdrive" target="_blank" rel="noopener">
+      <img src="/assets/images/projects/kb-img-warpdrive.png" alt="" width="40" height="40">
+      <span class="kb-card-text">
+        <strong>WarpDrive</strong>
+        <span>Modpack · 1.7k downloads</span>
+      </span>
+    </a>
+    <a class="kb-card" href="https://www.curseforge.com/minecraft/modpacks/submerged" target="_blank" rel="noopener">
+      <img src="/assets/images/projects/kb-img-submerged.png" alt="" width="40" height="40">
+      <span class="kb-card-text">
+        <strong>Submerged</strong>
+        <span>Modpack · 784 downloads</span>
+      </span>
+    </a>
+    <a class="kb-card" href="https://www.curseforge.com/minecraft/modpacks/comfycraft" target="_blank" rel="noopener">
+      <img src="/assets/images/projects/kb-img-comfycraft.png" alt="" width="40" height="40">
+      <span class="kb-card-text">
+        <strong>Comfycraft</strong>
+        <span>Modpack · 716 downloads</span>
+      </span>
+    </a>
+    <a class="kb-card" href="https://www.curseforge.com/minecraft/modpacks/cobblemon-high" target="_blank" rel="noopener">
+      <img src="/assets/images/projects/kb-img-cobblemon-high.png" alt="" width="40" height="40">
+      <span class="kb-card-text">
+        <strong>Cobblemon High</strong>
+        <span>Modpack · 419 downloads</span>
+      </span>
+    </a>
   </div>
 </div>
 
@@ -81,54 +146,18 @@ hero:
 </div>
 
 <script>
-(function () {
-  // Minecraft server status via mcstatus.io
-  document.querySelectorAll('.kb-server').forEach(function (el) {
-    var addr = el.getAttribute('data-addr');
-    var dot = el.querySelector('.kb-dot');
-    var pl = el.querySelector('.kb-players');
-    fetch('https://api.mcstatus.io/v2/status/java/' + addr)
-      .then(function (r) { return r.json(); })
-      .then(function (d) {
-        if (d.online) {
-          dot.classList.add('kb-dot--on');
-          pl.textContent = d.players.online + ' / ' + d.players.max + ' players';
-        } else {
-          dot.classList.add('kb-dot--off');
-          pl.textContent = 'Offline';
-        }
-      })
-      .catch(function () {
-        dot.classList.add('kb-dot--off');
-        pl.textContent = 'Status unavailable';
-      });
-  });
-
-  // Click-to-copy server addresses
-  document.querySelectorAll('.kb-addr').forEach(function (c) {
-    c.addEventListener('click', function () {
-      var original = c.textContent;
-      navigator.clipboard.writeText(original).then(function () {
-        c.textContent = 'Copied!';
-        setTimeout(function () { c.textContent = original; }, 1200);
-      });
-    });
-  });
-
-  // Live Discord counts via invite API
-  fetch('https://discord.com/api/v10/invites/draconia?with_counts=true')
-    .then(function (r) { return r.json(); })
-    .then(function (d) {
-      if (d.guild && d.guild.name) {
-        document.getElementById('kb-dc-name').textContent = d.guild.name;
-      }
-      if (d.approximate_member_count) {
-        document.getElementById('kb-dc-counts').innerHTML =
-          '<span class="kb-dot kb-dot--on"></span> ' +
-          d.approximate_presence_count.toLocaleString() + ' online &middot; ' +
-          d.approximate_member_count.toLocaleString() + ' members';
-      }
-    })
-    .catch(function () {});
-})();
+fetch('https://discord.com/api/v10/invites/draconia?with_counts=true')
+  .then(function (r) { return r.json(); })
+  .then(function (d) {
+    if (d.guild && d.guild.name) {
+      document.getElementById('kb-dc-name').textContent = d.guild.name;
+    }
+    if (d.approximate_member_count) {
+      document.getElementById('kb-dc-counts').innerHTML =
+        '<span class="kb-dot kb-dot--on"></span> ' +
+        d.approximate_presence_count.toLocaleString() + ' online &middot; ' +
+        d.approximate_member_count.toLocaleString() + ' members';
+    }
+  })
+  .catch(function () {});
 </script>
