@@ -150,6 +150,103 @@ a.kb-card:hover {
   color: var(--sl-color-gray-3);
 }
 
+/* ===== Homepage sections ===== */
+
+.kb-section {
+  max-width: 56rem;
+  margin: 2.5rem auto 0;
+}
+
+.kb-h {
+  font-size: var(--sl-text-xl);
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: var(--sl-color-white);
+}
+
+/* ===== Server status cards ===== */
+
+.kb-server {
+  cursor: default;
+}
+
+.kb-server:hover {
+  transform: none;
+  box-shadow: none;
+  border-color: var(--sl-color-gray-5);
+}
+
+.kb-addr {
+  font-size: var(--sl-text-xs);
+  background: var(--sl-color-gray-7, var(--sl-color-black));
+  border: 1px solid var(--sl-color-gray-5);
+  border-radius: 0.3rem;
+  padding: 0.1rem 0.4rem;
+  cursor: pointer;
+  width: fit-content;
+}
+
+.kb-addr:hover {
+  border-color: var(--sl-color-accent);
+}
+
+.kb-status {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: var(--sl-text-xs);
+  color: var(--sl-color-gray-3);
+  margin-top: 0.2rem;
+}
+
+.kb-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--sl-color-gray-4);
+  display: inline-block;
+  flex-shrink: 0;
+}
+
+.kb-dot--on {
+  background: #4ade80;
+  box-shadow: 0 0 6px rgb(74 222 128 / 0.6);
+}
+
+.kb-dot--off {
+  background: #f87171;
+}
+
+/* ===== Discord live card ===== */
+
+a.kb-discord {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 1.25rem 1.5rem;
+  border-radius: 0.75rem;
+  background: var(--sl-color-gray-6);
+  border: 1px solid var(--sl-color-gray-5);
+  text-decoration: none;
+  color: var(--sl-color-white);
+  transition: border-color 0.15s, transform 0.15s, box-shadow 0.15s;
+}
+
+a.kb-discord:hover {
+  border-color: var(--sl-color-accent);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgb(0 0 0 / 0.15);
+}
+
+.kb-dc-counts {
+  font-size: var(--sl-text-xs);
+  color: var(--sl-color-gray-3);
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
 /* ===== Floated modpack icons ===== */
 
 .sl-markdown-content img[style*='float'],

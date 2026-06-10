@@ -8,7 +8,7 @@ export default defineConfig({
   integrations: [
     starlight({
       plugins: [starlightLinksValidator()],
-      title: 'Kerberus Wiki',
+      title: 'Kerberus',
       description: 'Wiki hub for Kerberus Minecraft modpacks - Dragoncraft, Toothless, and PvZ Overgrowth.',
       social: [
         { icon: 'discord', label: 'Discord', href: 'https://discord.gg/draconia' },
