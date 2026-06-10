@@ -1,4 +1,7 @@
 ---
+tableOfContents:
+  minHeadingLevel: 2
+  maxHeadingLevel: 2
 title: "Sandwraith"
 ---
 <img src="/assets/images/toothless/kb-img-sandwraith.png" width="120" style="float: right; margin-left: 1rem;">
@@ -19,9 +22,11 @@ The Sandwraith is a game canon dragon. It is an Archipelago Additions dragon on 
 
 **Taming Foods:** Tropical Fish
 
-**Requirements:** Invisibility or Night Vision potion effect active
-No armour equipped
-No tools or weapons (except Dragon Blades & specified Viking Artifacts ) held
+**Requirements:**
+
+- Invisibility or Night Vision potion effect active
+- No armour equipped
+- No tools or weapons (except Dragon Blades & specified Viking Artifacts) held
 
 **Alt Taming:** Dragon Nip
 

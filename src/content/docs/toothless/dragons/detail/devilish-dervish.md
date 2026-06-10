@@ -1,4 +1,7 @@
 ---
+tableOfContents:
+  minHeadingLevel: 2
+  maxHeadingLevel: 2
 title: "Devilish Dervish"
 ---
 <img src="/assets/images/toothless/kb-img-devilish-dervish.png" width="120" style="float: right; margin-left: 1rem;">
@@ -19,9 +22,11 @@ The Devilish Dervish is a game canon dragon. It is a Stego's Dragons dragon, now
 
 **Taming Foods:** Raw Pork, Raw Mutton
 
-**Requirements:** No tools or weapons (except Dragon Blades & specified Viking Artifacts ) held
-No armour worn
-Fire resistance potion effect active
+**Requirements:**
+
+- No tools or weapons (except Dragon Blades & specified Viking Artifacts) held
+- No armour worn
+- Fire resistance potion effect active
 
 **Alt Taming:** Dragon Nip
 

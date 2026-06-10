@@ -1,4 +1,7 @@
 ---
+tableOfContents:
+  minHeadingLevel: 2
+  maxHeadingLevel: 2
 title: "Dramillion"
 ---
 <img src="/assets/images/toothless/kb-img-dramillion.png" width="120" style="float: right; margin-left: 1rem;">
@@ -19,9 +22,11 @@ The Dramillion is a series canon dragon, first appearing in Race to the Edge. It
 
 **Taming Foods:** Sweet Berries
 
-**Requirements:** Invisibility or Night Vision potion effect active
-No armour equipped
-No tools or weapons (except Dragon Blades & specified Viking Artifacts ) held
+**Requirements:**
+
+- Invisibility or Night Vision potion effect active
+- No armour equipped
+- No tools or weapons (except Dragon Blades & specified Viking Artifacts) held
 
 **Alt Taming:** Dragon Nip
 

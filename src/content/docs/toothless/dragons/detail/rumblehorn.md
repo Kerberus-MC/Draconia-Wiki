@@ -1,4 +1,7 @@
 ---
+tableOfContents:
+  minHeadingLevel: 2
+  maxHeadingLevel: 2
 title: "Rumblehorn"
 ---
 <img src="/assets/images/toothless/kb-img-rumblehorn.png" width="120" style="float: right; margin-left: 1rem;">
@@ -19,7 +22,7 @@ The Rumblehorn is a main canon dragon, first appearing in HTTYD 2. It is an Arch
 
 **Taming Foods:** Raw Cod, Raw Salmon
 
-**Requirements:** No tools or weapons (except Dragon Blades & specified Viking Artifacts ) held
+**Requirements:** No tools or weapons (except Dragon Blades & specified Viking Artifacts) held
 
 **Alt Taming:** Dragon Nip
 

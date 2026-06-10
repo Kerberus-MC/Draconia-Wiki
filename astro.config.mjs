@@ -1,11 +1,13 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
+import starlightLinksValidator from 'starlight-links-validator';
 
 export default defineConfig({
   site: 'https://wiki.kerberus.gg',
   integrations: [
     starlight({
+      plugins: [starlightLinksValidator()],
       title: 'Kerberus Wiki',
       description: 'Wiki hub for Kerberus Minecraft modpacks - Dragoncraft, Toothless, and PvZ Overgrowth.',
       social: [

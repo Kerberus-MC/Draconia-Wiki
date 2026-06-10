@@ -1,4 +1,7 @@
 ---
+tableOfContents:
+  minHeadingLevel: 2
+  maxHeadingLevel: 2
 title: "Snow Wraith"
 ---
 <img src="/assets/images/toothless/kb-img-snow-wraith.png" width="120" style="float: right; margin-left: 1rem;">
@@ -19,9 +22,11 @@ The Snow Wraith is a series canon dragon, first appearing in Race to the Edge. I
 
 **Taming Foods:** Raw Mutton
 
-**Requirements:** No tools or weapons (except Dragon Blades & specified Viking Artifacts ) held
-No armour worn
-Night vision potion effect active
+**Requirements:**
+
+- No tools or weapons (except Dragon Blades & specified Viking Artifacts) held
+- No armour worn
+- Night vision potion effect active
 
 **Alt Taming:** Dragon Nip
 

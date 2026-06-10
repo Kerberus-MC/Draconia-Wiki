@@ -19,7 +19,7 @@ The Screaming Death is a series canon dragon, first appearing in Defenders of Be
 
 **Taming Foods:** Large Feed Bundle
 
-**Requirements:** No tools or weapons (except Dragon Blades & specified Viking Artifacts ) held
+**Requirements:** No tools or weapons (except Dragon Blades & specified Viking Artifacts) held
 
 **Alt Taming:** Dragon Nip
 

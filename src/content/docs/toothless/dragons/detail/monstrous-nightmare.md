@@ -1,4 +1,7 @@
 ---
+tableOfContents:
+  minHeadingLevel: 2
+  maxHeadingLevel: 2
 title: "Monstrous Nightmare"
 ---
 <img src="/assets/images/toothless/kb-img-monstrous-nightmare.png" width="120" style="float: right; margin-left: 1rem;">
@@ -19,9 +22,11 @@ The Monstrous Nightmare is a main canon dragon from the first film. It is a base
 
 **Taming Foods:** Raw Pork, Raw Mutton
 
-**Requirements:** No tools or weapons (except Dragon Blades & specified Viking Artifacts ) held
-No armour worn
-Fire resistance potion effect active
+**Requirements:**
+
+- No tools or weapons (except Dragon Blades & specified Viking Artifacts) held
+- No armour worn
+- Fire resistance potion effect active
 
 **Alt Taming:** Dragon Nip
 

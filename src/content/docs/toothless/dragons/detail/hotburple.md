@@ -19,7 +19,7 @@ The Hotburple is a main canon dragon, first appearing in HTTYD 2. It is an Archi
 
 **Taming Foods:** Raw Cod, Raw Iron
 
-**Requirements:** No tools or weapons (except Dragon Blades & specified Viking Artifacts ) held
+**Requirements:** No tools or weapons (except Dragon Blades & specified Viking Artifacts) held
 
 **Alt Taming:** Dragon Nip
 

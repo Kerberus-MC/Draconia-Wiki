@@ -1,4 +1,7 @@
 ---
+tableOfContents:
+  minHeadingLevel: 2
+  maxHeadingLevel: 2
 title: "Fireworm"
 ---
 <img src="/assets/images/toothless/kb-img-fireworm.png" width="120" style="float: right; margin-left: 1rem;">
@@ -19,7 +22,7 @@ The Fireworm is a series canon dragon, first appearing in Riders & Defenders of 
 
 **Taming Foods:** Honeycomb, Firecomb Gel
 
-**Requirements:** No tools or weapons (except Dragon Blades & specified Viking Artifacts ) held
+**Requirements:** No tools or weapons (except Dragon Blades & specified Viking Artifacts) held
 
 **Alt Taming:** Dragon Nip
 

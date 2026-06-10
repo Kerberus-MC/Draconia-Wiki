@@ -1,4 +1,7 @@
 ---
+tableOfContents:
+  minHeadingLevel: 2
+  maxHeadingLevel: 2
 title: "Deadly Nadder"
 ---
 <img src="/assets/images/toothless/kb-img-deadly-nadder.png" width="120" style="float: right; margin-left: 1rem;">
@@ -19,7 +22,7 @@ The Deadly Nadder is a main canon dragon from the first film. It is a base Isle 
 
 **Taming Foods:** Raw Chicken
 
-**Requirements:** No tools or weapons (except Dragon Blades & specified Viking Artifacts ) held
+**Requirements:** No tools or weapons (except Dragon Blades & specified Viking Artifacts) held
 
 **Alt Taming:** Dragon Nip
 

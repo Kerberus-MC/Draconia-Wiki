@@ -19,9 +19,11 @@ The Zippleback is a short film canon dragon, first appearing in the Book of Drag
 
 **Taming Foods:** Spider Eye
 
-**Requirements:** Strength potion effect active
-No armour equipped
-No tools or weapons (except Dragon Blades & specified Viking Artifacts ) held
+**Requirements:**
+
+- Strength potion effect active
+- No armour equipped
+- No tools or weapons (except Dragon Blades & specified Viking Artifacts) held
 
 **Alt Taming:** Dragon Nip
 

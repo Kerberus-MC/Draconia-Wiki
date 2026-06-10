@@ -19,7 +19,7 @@ The Smothering Smokebreath is a series canon dragon, first appearing in Riders o
 
 **Taming Foods:** Dragon Proof Metal Ingot, Dragon Proof Metal Scrap, Gronckle Iron, Raw Gronckle Iron, Copper Ingot, Gold Ingot, Iron Ingot, Raw Copper, Raw Gold, Raw Iron
 
-**Requirements:** No tools or weapons (except Dragon Blades & specified Viking Artifacts ) held
+**Requirements:** No tools or weapons (except Dragon Blades & specified Viking Artifacts) held
 
 **Alt Taming:** Dragon Nip
 

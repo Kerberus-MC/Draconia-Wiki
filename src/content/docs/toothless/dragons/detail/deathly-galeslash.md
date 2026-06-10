@@ -1,4 +1,7 @@
 ---
+tableOfContents:
+  minHeadingLevel: 2
+  maxHeadingLevel: 2
 title: "Deathly Galeslash"
 ---
 <img src="/assets/images/toothless/kb-img-deathly-galeslash.png" width="120" style="float: right; margin-left: 1rem;">
@@ -19,7 +22,7 @@ The Deathly Galeslash is a game canon hybrid of theDeadly Nadder&Stormcutter, fi
 
 **Taming Foods:** Raw Chicken, Raw Cod
 
-**Requirements:** No tools or weapons (except Dragon Blades & specified Viking Artifacts ) held
+**Requirements:** No tools or weapons (except Dragon Blades & specified Viking Artifacts) held
 
 **Alt Taming:** Dragon Nip
 

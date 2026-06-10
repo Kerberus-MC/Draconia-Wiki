@@ -1,4 +1,7 @@
 ---
+tableOfContents:
+  minHeadingLevel: 2
+  maxHeadingLevel: 2
 title: "Songwing"
 ---
 <img src="/assets/images/toothless/kb-img-songwing.png" width="120" style="float: right; margin-left: 1rem;">
@@ -20,9 +23,11 @@ The Songwing is a non-canon concept dragon. It is a Stego's Dragons dragon, now 
 
 **Taming Foods:** Raw Cod, Raw Salmon
 
-**Requirements:** No tools or weapons (except Dragon Blades & specified Viking Artifacts ) held
-No armour worn
-Night Vision potion effect active
+**Requirements:**
+
+- No tools or weapons (except Dragon Blades & specified Viking Artifacts) held
+- No armour worn
+- Night Vision potion effect active
 
 **Alt Taming:** Dragon Nip
 

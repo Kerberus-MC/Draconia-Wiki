@@ -1,4 +1,7 @@
 ---
+tableOfContents:
+  minHeadingLevel: 2
+  maxHeadingLevel: 2
 title: "Hushboggle"
 ---
 <img src="/assets/images/toothless/kb-img-hushboggle.png" width="120" style="float: right; margin-left: 1rem;">
@@ -19,7 +22,7 @@ The Hushboggle is a game canon hybrid of theSnow Wraith&Whispering Death, first 
 
 **Taming Foods:** Raw Cod, Raw Mutton
 
-**Requirements:** No tools or weapons (except Dragon Blades & specified Viking Artifacts ) held
+**Requirements:** No tools or weapons (except Dragon Blades & specified Viking Artifacts) held
 
 **Alt Taming:** Dragon Nip
 

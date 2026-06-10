@@ -1,4 +1,7 @@
 ---
+tableOfContents:
+  minHeadingLevel: 2
+  maxHeadingLevel: 2
 title: "Terrible Terror"
 ---
 <img src="/assets/images/toothless/kb-img-terrible-terror.png" width="120" style="float: right; margin-left: 1rem;">
@@ -19,7 +22,7 @@ The Terrible Terror is a main canon dragon from the first film. It is a base Isl
 
 **Taming Foods:** Raw Salmon, Raw Cod, Tropical Fish
 
-**Requirements:** No tools or weapons (except Dragon Blades & specified Viking Artifacts ) held
+**Requirements:** No tools or weapons (except Dragon Blades & specified Viking Artifacts) held
 
 **Alt Taming:** Dragon Nip
 

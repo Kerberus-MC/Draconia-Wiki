@@ -1,4 +1,7 @@
 ---
+tableOfContents:
+  minHeadingLevel: 2
+  maxHeadingLevel: 2
 title: "Whispering Death"
 ---
 <img src="/assets/images/toothless/kb-img-whispering-death.png" width="120" style="float: right; margin-left: 1rem;">
@@ -19,7 +22,7 @@ The Whispering Death is a series canon dragon, first appearing in Riders & Defen
 
 **Taming Foods:** Raw Cod
 
-**Requirements:** No tools or weapons (except Dragon Blades & specified Viking Artifacts ) held
+**Requirements:** No tools or weapons (except Dragon Blades & specified Viking Artifacts) held
 
 **Alt Taming:** Dragon Nip
 

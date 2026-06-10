@@ -1,4 +1,7 @@
 ---
+tableOfContents:
+  minHeadingLevel: 2
+  maxHeadingLevel: 2
 title: "Pygmy Death"
 ---
 <img src="/assets/images/toothless/kb-img-pygmy-death.png" width="120" style="float: right; margin-left: 1rem;">
@@ -19,9 +22,11 @@ The Pygmy Death is an Archipelago Additions original sub-species of the Red Deat
 
 **Taming Foods:** Dragon Blood Marinated Feed, Feed Bundle
 
-**Requirements:** No tools or weapons (except Dragon Blades & specified Viking Artifacts ) held
-No armour worn
-Fire resistance potion effect active
+**Requirements:**
+
+- No tools or weapons (except Dragon Blades & specified Viking Artifacts) held
+- No armour worn
+- Fire resistance potion effect active
 
 **Alt Taming:** Dragon Nip
 

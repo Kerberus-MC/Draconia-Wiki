@@ -8,21 +8,21 @@ All dragons in Archipelago Additions use a conditional override to replace base 
 
 | Boulder | Mystery | Sharp | Stoker | Strike | Tidal | Tracker |
 |---|---|---|---|---|---|---|
-  | [Crimson Goregutter](detail/crimson-goregutter.md) | [Armorwing](detail/armorwing.md) | [Deadly Nadder](detail/deadly-nadder.md) | [Fireworm](detail/fireworm.md) | [Deathgripper](detail/deathgripper.md) | [Sandwraith](detail/sandwraith.md) | [Butterflywing](detail/butterflywing.md) |  
-  | [Graveknapper](detail/graveknapper.md) | [Boneknapper](detail/boneknapper.md) | [Deathly Galeslash](detail/deathly-galeslash.md) | [Fireworm Queen](detail/fireworm-queen.md) | [Helstryke](detail/helstryke.md) | [Scauldron](detail/scauldron.md) | [Deadly Nadder](detail/deadly-nadder.md) |  
-  | [Gronckle](detail/gronckle.md) | [Changewing](detail/changewing.md) | [Devilish Dervish](detail/devilish-dervish.md) | [Flame Whipper](detail/flame-whipper.md) | [Lightcutter](detail/lightcutter.md) | [Shockjaw](detail/shockjaw.md) | [Eight-Legged Nadder](detail/eight-legged-nadder.md) |  
-  | [Hotburple](detail/hotburple.md) | [Dramillion](detail/dramillion.md) | [Hackatoo](detail/hackatoo.md) | [Hobblegrunt](detail/hobblegrunt.md) | [Light Fury](detail/light-fury.md) | [Windwalker](detail/windwalker.md) | [Rumblehorn](detail/rumblehorn.md) |  
-  | [Hushboggle](detail/hushboggle.md) | [Flightmare](detail/flightmare.md) | [Razorwhip](detail/razorwhip.md) | [Magma Breather](detail/magma-breather.md) | [Light Night](detail/light-night.md) |  | [Wolf-Fang](detail/wolf-fang.md) |  
-  | [Screaming Death](detail/screaming-death.md) | [Hideous Zippleback](detail/hideous-zippleback.md) | [Scuttleclaw](detail/scuttleclaw.md) | [Monstrous Nightmare](detail/monstrous-nightmare.md) | [Nightcutter](detail/nightcutter.md) |  |  |  
-  | [Sentinel](detail/sentinel.md) | [Prickleboggle](detail/prickleboggle.md) | [Speed Stinger](detail/speed-stinger.md) | [Night Terror](detail/night-terror.md) | [Night Fury](detail/night-fury.md) |  |  |  
-  | [Thunderbottom](detail/thunderbottom.md) | [Slitherwing](detail/slitherwing.md) | [Speed Stryke](detail/speed-stryke.md) | [Pygmy Death](detail/pygmy-death.md) | [Night Light](detail/night-light.md) |  |  |  
-  | [Whispering Death](detail/whispering-death.md) | [Smothering Smokebreath](detail/smothering-smokebreath.md) | [Stinger](detail/stinger.md) | [Silver Phantom](detail/silver-phantom.md) | [Skrill](detail/skrill.md) |  |  |  
-  |  | [Snaptrapper](detail/snaptrapper.md) | [Stormcutter](detail/stormcutter.md) | [Singetail](detail/singetail.md) | [Skrillcutter](detail/skrillcutter.md) |  |  |  
-  |  |  | [Timberjack](detail/timberjack.md) | [Storming Nightmare](detail/storming-nightmare.md) | [Skrillknapper](detail/skrillknapper.md) |  |  |  
-  |  |  |  | [Terrible Terror](detail/terrible-terror.md) | [Snow Wraith](detail/snow-wraith.md) |  |  |  
-  |  |  |  | [Typhoomerang](detail/typhoomerang.md) | [Songwing](detail/songwing.md) |  |  |  
-  |  |  |  |  | [Triple Stryke](detail/triple-stryke.md) |  |  |  
-  |  |  |  |  | [Woolly Howl](detail/woolly-howl.md) |  |  |  
+  | [Crimson Goregutter](/toothless/dragons/detail/crimson-goregutter/) | [Armorwing](/toothless/dragons/detail/armorwing/) | [Deadly Nadder](/toothless/dragons/detail/deadly-nadder/) | [Fireworm](/toothless/dragons/detail/fireworm/) | [Deathgripper](/toothless/dragons/detail/deathgripper/) | [Sandwraith](/toothless/dragons/detail/sandwraith/) | [Butterflywing](/toothless/dragons/detail/butterflywing/) |  
+  | [Graveknapper](/toothless/dragons/detail/graveknapper/) | [Boneknapper](/toothless/dragons/detail/boneknapper/) | [Deathly Galeslash](/toothless/dragons/detail/deathly-galeslash/) | [Fireworm Queen](/toothless/dragons/detail/fireworm-queen/) | [Helstryke](/toothless/dragons/detail/helstryke/) | [Scauldron](/toothless/dragons/detail/scauldron/) | [Deadly Nadder](/toothless/dragons/detail/deadly-nadder/) |  
+  | [Gronckle](/toothless/dragons/detail/gronckle/) | [Changewing](/toothless/dragons/detail/changewing/) | [Devilish Dervish](/toothless/dragons/detail/devilish-dervish/) | [Flame Whipper](/toothless/dragons/detail/flame-whipper/) | [Lightcutter](/toothless/dragons/detail/lightcutter/) | [Shockjaw](/toothless/dragons/detail/shockjaw/) | [Eight-Legged Nadder](/toothless/dragons/detail/eight-legged-nadder/) |  
+  | [Hotburple](/toothless/dragons/detail/hotburple/) | [Dramillion](/toothless/dragons/detail/dramillion/) | [Hackatoo](/toothless/dragons/detail/hackatoo/) | [Hobblegrunt](/toothless/dragons/detail/hobblegrunt/) | [Light Fury](/toothless/dragons/detail/light-fury/) | [Windwalker](/toothless/dragons/detail/windwalker/) | [Rumblehorn](/toothless/dragons/detail/rumblehorn/) |  
+  | [Hushboggle](/toothless/dragons/detail/hushboggle/) | [Flightmare](/toothless/dragons/detail/flightmare/) | [Razorwhip](/toothless/dragons/detail/razorwhip/) | [Magma Breather](/toothless/dragons/detail/magma-breather/) | [Light Night](/toothless/dragons/detail/light-night/) |  | [Wolf-Fang](/toothless/dragons/detail/wolf-fang/) |  
+  | [Screaming Death](/toothless/dragons/detail/screaming-death/) | [Hideous Zippleback](/toothless/dragons/detail/hideous-zippleback/) | [Scuttleclaw](/toothless/dragons/detail/scuttleclaw/) | [Monstrous Nightmare](/toothless/dragons/detail/monstrous-nightmare/) | [Nightcutter](/toothless/dragons/detail/nightcutter/) |  |  |  
+  | [Sentinel](/toothless/dragons/detail/sentinel/) | [Prickleboggle](/toothless/dragons/detail/prickleboggle/) | [Speed Stinger](/toothless/dragons/detail/speed-stinger/) | [Night Terror](/toothless/dragons/detail/night-terror/) | [Night Fury](/toothless/dragons/detail/night-fury/) |  |  |  
+  | [Thunderbottom](/toothless/dragons/detail/thunderbottom/) | [Slitherwing](/toothless/dragons/detail/slitherwing/) | [Speed Stryke](/toothless/dragons/detail/speed-stryke/) | [Pygmy Death](/toothless/dragons/detail/pygmy-death/) | [Night Light](/toothless/dragons/detail/night-light/) |  |  |  
+  | [Whispering Death](/toothless/dragons/detail/whispering-death/) | [Smothering Smokebreath](/toothless/dragons/detail/smothering-smokebreath/) | [Stinger](/toothless/dragons/detail/stinger/) | [Silver Phantom](/toothless/dragons/detail/silver-phantom/) | [Skrill](/toothless/dragons/detail/skrill/) |  |  |  
+  |  | [Snaptrapper](/toothless/dragons/detail/snaptrapper/) | [Stormcutter](/toothless/dragons/detail/stormcutter/) | [Singetail](/toothless/dragons/detail/singetail/) | [Skrillcutter](/toothless/dragons/detail/skrillcutter/) |  |  |  
+  |  |  | [Timberjack](/toothless/dragons/detail/timberjack/) | [Storming Nightmare](/toothless/dragons/detail/storming-nightmare/) | [Skrillknapper](/toothless/dragons/detail/skrillknapper/) |  |  |  
+  |  |  |  | [Terrible Terror](/toothless/dragons/detail/terrible-terror/) | [Snow Wraith](/toothless/dragons/detail/snow-wraith/) |  |  |  
+  |  |  |  | [Typhoomerang](/toothless/dragons/detail/typhoomerang/) | [Songwing](/toothless/dragons/detail/songwing/) |  |  |  
+  |  |  |  |  | [Triple Stryke](/toothless/dragons/detail/triple-stryke/) |  |  |  
+  |  |  |  |  | [Woolly Howl](/toothless/dragons/detail/woolly-howl/) |  |  |  
 
 ## Variant Stat Bonuses
 
@@ -35,13 +35,13 @@ Alpha and Titanwing variants (including the Mountain King Goregutter) get the fo
 
 ## Class Pages
 
-- [Boulder Class](boulder-class.md)
-- [Mystery Class](mystery-class.md)
-- [Sharp Class](sharp-class.md)
-- [Stoker Class](stoker-class.md)
-- [Strike Class](strike-class.md)
-- [Tidal Class](tidal-class.md)
-- [Tracker Class](tracker-class.md)
+- [Boulder Class](/toothless/dragons/boulder-class/)
+- [Mystery Class](/toothless/dragons/mystery-class/)
+- [Sharp Class](/toothless/dragons/sharp-class/)
+- [Stoker Class](/toothless/dragons/stoker-class/)
+- [Strike Class](/toothless/dragons/strike-class/)
+- [Tidal Class](/toothless/dragons/tidal-class/)
+- [Tracker Class](/toothless/dragons/tracker-class/)
 
 ---
 

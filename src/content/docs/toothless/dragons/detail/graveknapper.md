@@ -19,7 +19,7 @@ The Graveknapper is a game canon hybrid of theBoneknapper&Screaming Death, first
 
 **Taming Foods:** Bone Feed Bundle
 
-**Requirements:** No tools or weapons (except Dragon Blades & specified Viking Artifacts ) held
+**Requirements:** No tools or weapons (except Dragon Blades & specified Viking Artifacts) held
 
 **Alt Taming:** Dragon Nip
 

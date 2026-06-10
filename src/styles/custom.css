@@ -152,6 +152,13 @@ a.kb-card:hover {
 
 /* ===== Floated modpack icons ===== */
 
-.sl-markdown-content img[style*='float'] {
+.sl-markdown-content img[style*='float'],
+.kb-float-icon {
   border-radius: 0.5rem;
+}
+
+.kb-float-icon {
+  float: right;
+  margin-left: 1rem;
+  margin-bottom: 0.5rem;
 }

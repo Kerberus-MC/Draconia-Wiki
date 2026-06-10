@@ -1,7 +1,9 @@
 ---
 title: "Flightmare"
 ---
-Page Pending Remodel
+:::note
+The source wiki has not documented the Flightmare yet. Check the [Archipelago Additions Wiki](https://archipelagoadditions.miraheze.org/wiki/Flightmare) for updates, or ask in [Discord](https://discord.gg/draconia).
+:::
 
 ---
 

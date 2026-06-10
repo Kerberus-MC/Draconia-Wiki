@@ -1,4 +1,7 @@
 ---
+tableOfContents:
+  minHeadingLevel: 2
+  maxHeadingLevel: 2
 title: "Butterflywing"
 ---
 <img src="/assets/images/toothless/kb-img-butterflywing.png" width="120" style="float: right; margin-left: 1rem;">
@@ -19,7 +22,7 @@ The Butterflywing is a dragon from the China-exclusive game. It is an Archipelag
 
 **Taming Foods:** Any flower item
 
-**Requirements:** No tools or weapons (except Dragon Blades & specified Viking Artifacts ) held
+**Requirements:** No tools or weapons (except Dragon Blades & specified Viking Artifacts) held
 
 **Alt Taming:** Dragon Nip
 

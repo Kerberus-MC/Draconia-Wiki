@@ -1,4 +1,7 @@
 ---
+tableOfContents:
+  minHeadingLevel: 2
+  maxHeadingLevel: 2
 title: "Fireworm Queen"
 ---
 <img src="/assets/images/toothless/kb-img-fireworm-queen.png" width="120" style="float: right; margin-left: 1rem;">
@@ -19,9 +22,11 @@ The Fireworm Queen is a series canon dragon, first appearing in Riders & Defende
 
 **Taming Foods:** Honeycomb, Firecomb Gel
 
-**Requirements:** No tools or weapons (except Dragon Blades & specified Viking Artifacts ) held
-No armour worn
-Fire resistance potion effect active
+**Requirements:**
+
+- No tools or weapons (except Dragon Blades & specified Viking Artifacts) held
+- No armour worn
+- Fire resistance potion effect active
 
 **Alt Taming:** Dragon Nip
 

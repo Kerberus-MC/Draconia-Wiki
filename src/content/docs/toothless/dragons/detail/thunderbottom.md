@@ -1,4 +1,7 @@
 ---
+tableOfContents:
+  minHeadingLevel: 2
+  maxHeadingLevel: 2
 title: "Thunderbottom"
 ---
 <img src="/assets/images/toothless/kb-img-thunderbottom.png" width="120" style="float: right; margin-left: 1rem;">
@@ -19,7 +22,7 @@ The Thunderbottom is a non-canon dragon, from Titans Uprising. It is a Stego's D
 
 **Taming Foods:** Raw Cod
 
-**Requirements:** No tools or weapons (except Dragon Blades & specified Viking Artifacts ) held
+**Requirements:** No tools or weapons (except Dragon Blades & specified Viking Artifacts) held
 
 **Alt Taming:** Dragon Nip
 

@@ -1,4 +1,7 @@
 ---
+tableOfContents:
+  minHeadingLevel: 2
+  maxHeadingLevel: 2
 title: "Prickleboggle"
 ---
 <img src="/assets/images/toothless/kb-img-prickleboggle.png" width="120" style="float: right; margin-left: 1rem;">
@@ -19,9 +22,11 @@ The Prickleboggle is a game canon dragon. It is a Stego's Dragons dragon, now pa
 
 **Taming Foods:** Raw Cod
 
-**Requirements:** No tools or weapons (except Dragon Blades & specified Viking Artifacts ) held
-No armour worn
-Fire resistance potion effect active
+**Requirements:**
+
+- No tools or weapons (except Dragon Blades & specified Viking Artifacts) held
+- No armour worn
+- Fire resistance potion effect active
 
 **Alt Taming:** Dragon Nip
 

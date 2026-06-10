@@ -1,4 +1,7 @@
 ---
+tableOfContents:
+  minHeadingLevel: 2
+  maxHeadingLevel: 2
 title: "Boneknapper"
 ---
 <img src="/assets/images/toothless/kb-img-boneknapper.png" width="120" style="float: right; margin-left: 1rem;">
@@ -19,9 +22,11 @@ The Boneknapper is a short film canon dragon, first appearing in the Legend of t
 
 **Taming Foods:** Bone
 
-**Requirements:** No tools or weapons (except Dragon Blades & specified Viking Artifacts ) held
-No armour worn
-Fire resistance potion effect active
+**Requirements:**
+
+- No tools or weapons (except Dragon Blades & specified Viking Artifacts) held
+- No armour worn
+- Fire resistance potion effect active
 
 **Alt Taming:** Dragon Nip
 

@@ -3,10 +3,10 @@ title: "Tidal Class"
 ---
 | | Dragon |
 |---|---|
-| <img src="/assets/images/toothless/kb-img-sandwraith.png" width="80"> | [**Sandwraith**](detail/sandwraith.md) |
-| <img src="/assets/images/toothless/kb-img-scauldron.png" width="80"> | [**Scauldron**](detail/scauldron.md) |
-| <img src="/assets/images/toothless/kb-img-shockjaw.png" width="80"> | [**Shockjaw**](detail/shockjaw.md) |
-| <img src="/assets/images/toothless/kb-img-windwalker.png" width="80"> | [**Windwalker**](detail/windwalker.md) |
+| <img src="/assets/images/toothless/kb-img-sandwraith.png" width="80"> | [**Sandwraith**](/toothless/dragons/detail/sandwraith/) |
+| <img src="/assets/images/toothless/kb-img-scauldron.png" width="80"> | [**Scauldron**](/toothless/dragons/detail/scauldron/) |
+| <img src="/assets/images/toothless/kb-img-shockjaw.png" width="80"> | [**Shockjaw**](/toothless/dragons/detail/shockjaw/) |
+| <img src="/assets/images/toothless/kb-img-windwalker.png" width="80"> | [**Windwalker**](/toothless/dragons/detail/windwalker/) |
 
 ---
 

@@ -1,4 +1,7 @@
 ---
+tableOfContents:
+  minHeadingLevel: 2
+  maxHeadingLevel: 2
 title: "Hideous Zippleback"
 ---
 <img src="/assets/images/toothless/kb-img-hideous-zippleback.png" width="120" style="float: right; margin-left: 1rem;">
@@ -19,9 +22,11 @@ The Hideous Zippleback is a main canon dragon from the first film. It is a base 
 
 **Taming Foods:** Raw Cod, Raw Salmon, Tropical Fish
 
-**Requirements:** Strength potion effect active
-No armour equipped
-No tools or weapons (except Dragon Blades & specified Viking Artifacts ) held
+**Requirements:**
+
+- Strength potion effect active
+- No armour equipped
+- No tools or weapons (except Dragon Blades & specified Viking Artifacts) held
 
 **Alt Taming:** Dragon Nip
 

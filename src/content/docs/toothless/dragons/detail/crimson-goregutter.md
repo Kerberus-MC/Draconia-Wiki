@@ -1,4 +1,7 @@
 ---
+tableOfContents:
+  minHeadingLevel: 2
+  maxHeadingLevel: 2
 title: "Crimson Goregutter"
 ---
 <img src="/assets/images/toothless/kb-img-crimson-goregutter.png" width="120" style="float: right; margin-left: 1rem;">
@@ -19,7 +22,7 @@ The Crimson Goregutter is a main canon dragon, first appearing in HTTYD 3. It is
 
 **Taming Foods:** Feed Bundle
 
-**Requirements:** No tools or weapons (except Dragon Blades & specified Viking Artifacts ) held
+**Requirements:** No tools or weapons (except Dragon Blades & specified Viking Artifacts) held
 
 **Alt Taming:** Dragon Nip
 

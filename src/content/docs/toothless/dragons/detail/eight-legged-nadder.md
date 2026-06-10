@@ -1,4 +1,7 @@
 ---
+tableOfContents:
+  minHeadingLevel: 2
+  maxHeadingLevel: 2
 title: "Eight-Legged Nadder"
 ---
 <img src="/assets/images/toothless/kb-img-eight-legged-nadder.png" width="120" style="float: right; margin-left: 1rem;">
@@ -19,7 +22,7 @@ The Eight-Legged Nadder is a book canon dragon. It is an Archipelago Additions d
 
 **Taming Foods:** Raw Cod, Raw Salmon, Tropical Fish
 
-**Requirements:** No tools or weapons (except Dragon Blades & specified Viking Artifacts ) held
+**Requirements:** No tools or weapons (except Dragon Blades & specified Viking Artifacts) held
 
 **Alt Taming:** Dragon Nip
 

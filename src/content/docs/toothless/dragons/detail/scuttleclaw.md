@@ -19,7 +19,7 @@ The Scuttleclaw is a main canon dragon, first appearing in HTTYD 2. It is an Arc
 
 **Taming Foods:** Raw Cod, Raw Salmon
 
-**Requirements:** No tools or weapons (except Dragon Blades & specified Viking Artifacts ) held
+**Requirements:** No tools or weapons (except Dragon Blades & specified Viking Artifacts) held
 
 **Alt Taming:** Dragon Nip
 

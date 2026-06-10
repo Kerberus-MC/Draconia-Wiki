@@ -1,4 +1,7 @@
 ---
+tableOfContents:
+  minHeadingLevel: 2
+  maxHeadingLevel: 2
 title: "Armorwing"
 ---
 <img src="/assets/images/toothless/kb-img-armorwing.png" width="120" style="float: right; margin-left: 1rem;">
@@ -19,9 +22,11 @@ The Armorwing is a series canon dragon, first appearing in Race to the Edge. It 
 
 **Taming Foods:** Dragon Proof Metal Ingot, Dragon Proof Metal Scrap, Gronckle Iron, Raw Gronckle Iron, Copper Ingot, Gold Ingot, Iron Ingot, Raw Copper, Raw Gold, Raw Iron
 
-**Requirements:** No tools or weapons (except Dragon Blades & specified Viking Artifacts ) held
-No armour worn
-Fire resistance potion effect active
+**Requirements:**
+
+- No tools or weapons (except Dragon Blades & specified Viking Artifacts) held
+- No armour worn
+- Fire resistance potion effect active
 
 **Alt Taming:** Dragon Nip
 

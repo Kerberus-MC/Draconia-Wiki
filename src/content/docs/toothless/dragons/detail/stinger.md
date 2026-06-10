@@ -1,4 +1,7 @@
 ---
+tableOfContents:
+  minHeadingLevel: 2
+  maxHeadingLevel: 2
 title: "Stinger"
 ---
 <img src="/assets/images/toothless/kb-img-stinger.png" width="120" style="float: right; margin-left: 1rem;">
@@ -18,7 +21,7 @@ The Stinger is a dubiously canon dragon from the Arena Spectacular. It is a base
 
 **Taming Foods:** Raw Mutton
 
-**Requirements:** No tools or weapons (except Dragon Blades & specified Viking Artifacts ) held
+**Requirements:** No tools or weapons (except Dragon Blades & specified Viking Artifacts) held
 
 **Alt Taming:** Dragon Nip
 

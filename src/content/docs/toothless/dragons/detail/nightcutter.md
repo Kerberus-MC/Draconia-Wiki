@@ -1,7 +1,9 @@
 ---
 title: "Nightcutter"
 ---
-Not Yet Released
+:::note[Not yet released]
+The Nightcutter is planned for Archipelago Additions but has not been released yet. Watch the [Discord](https://discord.gg/draconia) for updates.
+:::
 
 ---
 

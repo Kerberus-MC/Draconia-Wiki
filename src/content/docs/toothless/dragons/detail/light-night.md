@@ -1,4 +1,7 @@
 ---
+tableOfContents:
+  minHeadingLevel: 2
+  maxHeadingLevel: 2
 title: "Light Night"
 ---
 <img src="/assets/images/toothless/kb-img-light-night.png" width="120" style="float: right; margin-left: 1rem;">

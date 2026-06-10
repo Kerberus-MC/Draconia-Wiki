@@ -1,9 +1,13 @@
 ---
+tableOfContents:
+  minHeadingLevel: 2
+  maxHeadingLevel: 2
 title: "Night Fury"
 ---
 <img src="/assets/images/toothless/kb-img-night-fury.png" width="120" style="float: right; margin-left: 1rem;">
 
-Speed: Unknown. Size: Unknown. The unholy offspring of lightning and death itself. Do not engage this dragon. Your only chance: Hide and pray it does not find you.
+> The unholy offspring of lightning and death itself. Do not engage this dragon. Your only chance: Hide and pray it does not find you.
+
 The Night Fury is a main canon dragon from the first film. It is a base Isle of Berk dragon.
 Tail fin variants have their speed attribute reduced by 0.01
 
@@ -21,9 +25,11 @@ Tail fin variants have their speed attribute reduced by 0.01
 
 **Taming Foods:** Raw Cod, Raw Salmon
 
-**Requirements:** No tools or weapons (except Dragon Blades & specified Viking Artifacts ) held
-No armour worn
-Night vision potion effect active
+**Requirements:**
+
+- No tools or weapons (except Dragon Blades & specified Viking Artifacts) held
+- No armour worn
+- Night vision potion effect active
 
 **Alt Taming:** Dragon Nip
 
