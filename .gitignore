@@ -1,1 +1,4 @@
 toothless-import/
+node_modules/
+dist/
+.astro/

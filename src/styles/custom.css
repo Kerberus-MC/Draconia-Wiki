@@ -1,0 +1,157 @@
+/* Kerberus Wiki - Starlight theme customization */
+
+/* Indigo accent, dark mode (default) */
+:root {
+  --sl-color-accent-low: #25255c;
+  --sl-color-accent: #6366f1;
+  --sl-color-accent-high: #c7d2fe;
+  --sl-color-black: #101019;
+}
+
+/* Light mode */
+:root[data-theme='light'] {
+  --sl-color-accent-low: #e0e7ff;
+  --sl-color-accent: #4f46e5;
+  --sl-color-accent-high: #312e81;
+}
+
+/* ===== Tables ===== */
+
+.sl-markdown-content table {
+  display: table;
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  border: 1px solid var(--sl-color-gray-5);
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+
+.sl-markdown-content th {
+  background: var(--sl-color-gray-6);
+  font-size: var(--sl-text-xs);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--sl-color-gray-2);
+}
+
+.sl-markdown-content td,
+.sl-markdown-content th {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+.sl-markdown-content table:not([class]) td:first-child:has(img),
+.sl-markdown-content table:not([class]) th:first-child:empty {
+  width: 64px;
+  text-align: center;
+}
+
+.sl-markdown-content tbody tr:hover {
+  background: color-mix(in srgb, var(--sl-color-accent) 4%, transparent);
+}
+
+.sl-markdown-content table img {
+  image-rendering: pixelated;
+  vertical-align: middle;
+}
+
+/* ===== Buttons (converted from Material md-button) ===== */
+
+.kb-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.45rem 1rem;
+  border-radius: 0.5rem;
+  border: 1px solid var(--sl-color-gray-4);
+  font-size: var(--sl-text-sm);
+  font-weight: 600;
+  text-decoration: none;
+  color: var(--sl-color-white);
+  transition: border-color 0.15s, background 0.15s;
+}
+
+.kb-btn:hover {
+  border-color: var(--sl-color-accent);
+  background: color-mix(in srgb, var(--sl-color-accent) 8%, transparent);
+}
+
+.kb-btn--primary {
+  background: var(--sl-color-accent);
+  border-color: var(--sl-color-accent);
+  color: #fff;
+}
+
+.kb-btn--primary:hover {
+  background: color-mix(in srgb, var(--sl-color-accent) 85%, black);
+  color: #fff;
+}
+
+/* ===== Centered images ===== */
+
+.img-center {
+  text-align: center;
+  margin: 1.5rem 0;
+}
+
+.img-center img {
+  border-radius: 0.5rem;
+  border: 1px solid var(--sl-color-gray-5);
+  display: inline-block;
+}
+
+/* ===== Landing page cards ===== */
+
+.kb-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1rem;
+  max-width: 56rem;
+  margin: 0 auto;
+}
+
+a.kb-card {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1.25rem 1.5rem;
+  border-radius: 0.75rem;
+  background: var(--sl-color-gray-6);
+  border: 1px solid var(--sl-color-gray-5);
+  text-decoration: none;
+  color: var(--sl-color-white);
+  transition: border-color 0.15s, transform 0.15s, box-shadow 0.15s;
+}
+
+a.kb-card:hover {
+  border-color: var(--sl-color-accent);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgb(0 0 0 / 0.15);
+}
+
+.kb-card img {
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+
+.kb-card-text {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+}
+
+.kb-card-text strong {
+  font-size: var(--sl-text-base);
+}
+
+.kb-card-text span:last-child {
+  font-size: var(--sl-text-xs);
+  color: var(--sl-color-gray-3);
+}
+
+/* ===== Floated modpack icons ===== */
+
+.sl-markdown-content img[style*='float'] {
+  border-radius: 0.5rem;
+}
