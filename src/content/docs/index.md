@@ -54,27 +54,6 @@ hero:
         <span>Modpack · 150k downloads</span>
       </span>
     </a>
-    <a class="kb-card" href="https://www.curseforge.com/minecraft/texture-packs/dragoncraft-gui" target="_blank" rel="noopener">
-      <img src="/assets/images/projects/kb-img-dragoncraft-gui.png" alt="" width="40" height="40">
-      <span class="kb-card-text">
-        <strong>Dragoncraft: GUI</strong>
-        <span>Resource Pack · 123k downloads</span>
-      </span>
-    </a>
-    <a class="kb-card" href="https://www.curseforge.com/minecraft/data-packs/dragoncraft-diets" target="_blank" rel="noopener">
-      <img src="/assets/images/projects/kb-img-dragoncraft-diets.png" alt="" width="40" height="40">
-      <span class="kb-card-text">
-        <strong>Dragoncraft: Diets</strong>
-        <span>Data Pack · 30k downloads</span>
-      </span>
-    </a>
-    <a class="kb-card" href="https://www.curseforge.com/minecraft/data-packs/dragoncraft-drygmy-blacklist" target="_blank" rel="noopener">
-      <img src="/assets/images/projects/kb-img-dragoncraft-drygmy-blacklist.png" alt="" width="40" height="40">
-      <span class="kb-card-text">
-        <strong>Dragoncraft: Drygmy Blacklist</strong>
-        <span>Data Pack · 29k downloads</span>
-      </span>
-    </a>
     <a class="kb-card" href="https://www.curseforge.com/minecraft/modpacks/mythcraft" target="_blank" rel="noopener">
       <img src="/assets/images/projects/kb-img-mythcraft.png" alt="" width="40" height="40">
       <span class="kb-card-text">
