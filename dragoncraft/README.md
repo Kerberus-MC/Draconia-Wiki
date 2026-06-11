@@ -1,12 +1,12 @@
 ---
-description: Kerberus' flagship modpack - dragons, dungeons, and epic loot.
+description: Draconia's flagship modpack - dragons, dungeons, and epic loot.
 ---
 
 # Dragoncraft
 
 ![](../assets/images/modpacks/kb-img-dragoncraft.png)
 
-Kerberus' flagship modpack - dragons, dungeons, and epic loot.
+Draconia's flagship modpack - dragons, dungeons, and epic loot.
 
 [**Get the Modpack**](https://www.curseforge.com/minecraft/modpacks/dragoncraft) · [**Join Discord**](https://discord.gg/draconia)
 

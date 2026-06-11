@@ -1,10 +1,10 @@
 ---
-description: Wiki hub for Kerberus Minecraft modpacks - Dragoncraft, Toothless, and PvZ Overgrowth.
+description: Wiki hub for Draconia Minecraft modpacks - Dragoncraft, Toothless, and PvZ Overgrowth.
 ---
 
-# Kerberus
+# Draconia
 
-Welcome to the Kerberus wiki - guides, almanacs, and reference for our Minecraft modpacks.
+Welcome to the Draconia wiki - guides, almanacs, and reference for our Minecraft modpacks.
 
 [**Join our Discord**](https://discord.gg/draconia) for support, updates, and community.
 

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Kerberus](README.md)
+* [Draconia](README.md)
 
 ## Dragoncraft
 
